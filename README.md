@@ -1,6 +1,6 @@
 # GScan
 
-gscan.py
+gscan.py (일반적인 스캔 프로그램)
 
 keyword_query - customizing based patterns
 
@@ -16,7 +16,7 @@ Google Search API(무료 100건 조회 가능)에 가입해야 함 (구글 계�
 
 구글 계정 차단을 막기 위한 조치
 
-1. 프록시 서버 목록을 조회하여 속도가 빠른 순으로 정렬하여 사용
+1. proxy server list를 조회하여 속도가 빠른 순으로 정렬하여 사용 : chrome driver 설치 필요 후 설치 경로 변경 필요
 
 2. IP 변경을 위해 Tor network 사용
 
