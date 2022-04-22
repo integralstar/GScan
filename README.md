@@ -2,9 +2,9 @@
 
 gscan.py
 
-keyword_query - Google hacking pattern customizing based
+keyword_query - customizing based patterns
 
-googlehacking_query - Original patterns
+googlehacking_query - used original patterns
 
 
 run.py (schedule based program)
@@ -19,6 +19,7 @@ Google Search API(무료 100건 조회 가능)에 가입해야 함 (구글 계�
 1. 프록시 서버 목록을 조회하여 속도가 빠른 순으로 정렬하여 사용
 
 2. IP 변경을 위해 Tor network 사용
+
 https://www.torproject.org/download/
 
 가장 간단한 방법은 tor browser를 통한 접속.
