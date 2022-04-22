@@ -1,0 +1,100 @@
+inurl:*helpdesk* intext:"your default password is"
+intitle:"index of" db.json
+intitle:"index of" license-key.txt
+intitle:"index of" errors.log
+intitle:"index of" /.ssh/id_rsa OR id_rsa.pub
+intitle:"index of" /known_hosts
+intitle:"index of" machine.config
+intitle:"index of" apache.log
+intitle:"index of" db.frm
+intitle:"index of" "syslog"
+intitle:"index of" "/db_backups/"
+intitle:"index of" "/cron.log"
+intitle:"index of" keepass.kdbx OR database.kdbx
+inurl:"/dynamic/password-reset.html"
+"The default username and password is admin:admin" intitle:Login OR inurl:login.php
+intitle:"Kyocera Command Center" inurl:index.htm
+"/etc/shadow root:$" ext:cfg OR ext:log OR ext:txt OR ext:sql
+intitle:"Internet Services" inurl:default.htm intext:"FUJI XEROX"
+"DBPassword" ext:cfg OR ext:log OR ext:txt OR ext:sql
+"MasterUserPassword" ext:cfg OR ext:log OR ext:txt
+intitle:"Index of" db_mysql.inc
+intitle:"Index of" db.inc
+inurl:/8080/login.html
+intitle:"index of " "*.passwords.txt"
+"SecretAccessKey" OR "AccessKeyId" ext:txt OR ext:cfg
+inurl:start.swe?SWECmd
+inurl:8080/portal/pda/?force.login=yes
+intitle:"index of" "db.ini"
+"super password level 3 cipher" ext:txt OR ext:log
+"admin password irreversible-cipher" ext:txt OR ext:log OR ext:cfg
+inurl:8080/dashboard intitle:Graphite Dashboard
+intitle:"index of" "debug.log" OR "debug-log"
+inurl:/index.htm intext:"Oki Data Corporation"
+inurl:8080/dashboard.php
+inurl:mainFrame.cgi intext:"RICOH"
+"Log in to your account"
+intitle:"index of" application.ini
+intitle:"index of" "database.ini" OR "database.ini.old"
+"-----BEGIN OpenVPN Static key V1-----" ext:key
+intext:"Welcome Site/User Administrator"
+intitle:"My Book World Edition - MyBookWorld"
+inurl:"index.php?option=com_jsjobs"
+inurl:/test/login
+inurl:/?MAIN=DEVICE intitle:TopAccess intext:Device
+inurl:/lost-password/
+'"Welcome to Sentry, please log in:"'
+intitle:"index of" "common.crt" OR "ca.crt"
+intitle:"index of" "proxy.pac" OR "proxy.pac.bak"
+inurl:"login.html" intitle:"d-link"
+intitle:"index of" "global.asa"
+"-----BEGIN CERTIFICATE-----" ext:pem
+inurl:/main.html intext:SHARP AND intext:MX-*
+intitle:"index of" errorlog.txt
+"-----BEGIN CERTIFICATE-----" ext:pem
+intitle:"index of" "global.asa"
+intext:"Welcome Site/User Administrator"
+inurl:"wp-contentpluginsall-in-one-seo-pack"
+inurl:SSI/index.htm
+inurl:/admin/password.php
+"Powered by PHPBack"
+intext:"Powered by YouPHPTube"
+inurl:/lost_pass.php
+intitle:"index of" default.rdp
+inurl:/signup/pass
+intitle:"index of" "owncloud/config/*"
+inurl:/dana-cached/sc/
+inurl:"index.php?id=" intext:"Warning: mysql_num_rows()"
+inurl:/JIRA/login
+inurl:/sslvpn/Login/Login
+inurl:/auth.php
+filetype:php inurl:"/general/login.php?PHPSESSID="
+inurl:php-bin/webclient.php
+intitle: "index of" "MySQL-Router"
+inurl:account*/recovery
+inurl:/user/forgotpass
+inurl:r51173 intext:"Keep me logged in"
+intext:"This is the default welcome page used to test the correct operation of the Apache2 server"
+intext:"Any time & Any where" intext:"Username" intext:"Password" intext:login intext:"View: Mobile | PC"
+inurl:/request-new-password
+intitle:"index of" "cctv"
+intitle:"index of" "cvsweb.cgi"
+inurl:./sws/index.sws
+"Powered by Lanius CMS"
+inurl:/?op=registration
+inurl:/password_lost.php
+inurl:/frameprop.htm
+inurl:main_login.html intitle:Netgear
+inurl:/global-protect/login.esp
+"Powered by SePortal 2.5"
+inurl:/PassRecover
+inurl:"/WebResource.axd?d=" AND intext:Error
+inurl:"/auth.php?forgot_password=yes"
+inurl:/dana/home/ filetype:cgi
+intext:"Current Configuration:" ext:cfg
+intitle:"index of" "vpn-config.*"
+intitle:"index of" "iredadmin/*"
+filetype:reg reg HKEY_USERS
+"Powered by Podcast Generator"
+"Powered By Liferay"
+inurl:/requestpassword.*

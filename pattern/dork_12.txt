@@ -1,0 +1,100 @@
+inurl:opac_css
+intitle:"index of" "*.cert.pem" | "*.key.pem"
+inurl:login.seam
+"\'dsn: mysql:host=localhost;dbname=" ext:yml | ext:txt "password:"
+jdbc:sqlserver://localhost:1433 + username + password ext:yml | ext:java
+"secret_key_base:" ext:exs | ext:txt | ext:env | ext:cfg
+intitle:"index of" "config.exs" | "dev.exs" | "test.exs" | "prod.secret.exs"
+intitle:"index of" "Clientaccesspolicy.xml"
+inurl:"/?q=user/password/"
+ext:sql | ext:dbf | ext:mdb
+Index of /_vti_pvt +"*.pwd"
+intitle:"index of" intext:credentials
+intitle:"index of" "sitemanager.xml" | "recentservers.xml"
+jdbc:postgresql://localhost: + username + password ext:yml | ext:java
+intitle:"index of" "service-Account-Credentials.json" | "creds.json"
+inurl:/homej.html?
+intitle:"index of" "filezilla.xml"
+inurl:"woocommerce-exporter"
+intitle:"Powered by Pro Chat Rooms"
+intitle:"index of" "/.idea"
+jdbc:oracle://localhost: + username + password ext:yml | ext:java
+inurl:/index.html?size=2&mode=4
+Server: Mida eFramework
+intitle:index of .git/hooks/
+inurl: 1051/viewer/live/index.html?lang=en
+inurl:/eftclient/account/login.htm
+intitle:"index of" "WebServers.xml"
+"-- Dumping data for table `admin`" | "-- INSERT INTO `admin`" "VALUES" ext:sql | ext:txt | ext:log | ext:env
+intitle:"Sphider Admin Login"
+intitle:"index of" "/xampp/htdocs" | "C:/xampp/htdocs/"
+inurl:/adfs/ls/idpinitiatedsignon
+"* Authentication Unique Keys and Salts" ext:txt | ext:log
+"-- Server version" "-- MySQL Administrator dump 1.4" ext:sql
+intitle:index.of db
+jdbc:mysql://localhost:3306/ + username + password ext:yml | ext:javascript
+intext:"login" intitle:"server login"
+ext:txt | ext:log | ext:cfg | ext:yml "administrator:500:"
+allintext:"Index Of" "cookies.txt"
+allintext:"Copperfasten Technologies" "Login"
+"index of" "/home/000~ROOT~000/etc"
+"DefaultPassword" ext:reg "[HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindows NTCurrentVersionWinlogon]"
+inurl:weblogin.cgi?=0
+inurl:user intitle:index of ext:sql | xls | xml | json | csv
+filetype:csv intext:"Secret access key"
+intitle:"NetCamSC*" | intitle:"NetCamXL*" inurl:index.html
+inurl: /.git
+"spring.datasource.password=" + "spring.datasource.username=" ext:properties
+intitle:"SiteOmat Loader"
+intitle:"pi-hole Admin console" intext:"login"
+jdbc:mysql://localhost:3306/ + username + password ext:yml | ext:java
+inurl:8080 + intext:"httpfileserver 2.3"
+ext:log password END_FILE
+inurl:/phpPgAdmin/browser.php
+inurl:set_config_password.html
+intext:Please Login SSL VPN inurl:remote/login intext:FortiClient
+intitle:"index of" "/parameters.yml*"
+ext:php | intitle:phpinfo "published by the PHP Group"
+inurl:node_modules/mqtt/test/helpers/
+intitle:"PowerMTA" inurl:logs
+intitle:"InfoView" + "Log On to InfoView"
+"Vigor Login Page" + intext:"Group"
+allintext:"index of" "oauth-private.key"
+allintext:"Index Of" "sftp-config.json"
+intitle: "Index of" inurl:admin/uploads
+intitle:"index of" "server.crt" | "server.csr"
+"db.username" + "db.password" ext:properties
+inurl:/wp-content/plugins/wp-file-manager/readme.txt
+inurl:_vti_bin/Authentication.asmx
+intext:piwik "login"
+inurl:weblogin.cgi?=1
+intext:"Published with Textpattern CMS"
+"CREATE ROLE" + "ENCRYPTED PASSWORD" ext:sql | ext:txt | ext:ini
+ext:cfg "g_password" | "sv_privatepassword" | "rcon_password"
+intitle:"index of" "/CFIDE/" intext:"administrator"
+"server.cfg" ext:cfg intext:"rcon_password"
+"index of" "mysql.sh"
+"Powered by 123LogAnalyzer"
+rootpw --iscrypted ext:cfg
+"anaconda-ks.cfg" | "ks.cfg" ext:cfg
+allintitle:"CrushFTP WebInterface"
+"UV9 Error (1.0)"
+intitle:"index of" "slapd.conf"
+intext:"Powered by Piwigo"
+intitle:"index of" "/system.log" | "/system.logs"
+File contains Sensitive Information
+intext:"Powered by Typesetter"
+intitle:"Vulnerability Report" "Critical" ext:pdf
+inurl:/8080 "windows" "live view"
+inurl:/phpPgAdmin/browser.php intext:"Servers" | "PostgreSQL*"
+inurl:console-selfservice
+"admin_password" ext:txt | ext:log | ext:cfg
+"Pop-up" + "Live Image" inurl:index.html
+"index of" "email.ini"
+inurl:"webArch/mainFrame.cgi" + "Web Image Monitor"
+intitle:"Everything" inurl:C:Windows
+inurl:AIMS/PS
+inurl:/ emis login
+inurl:/ usda login
+inurl:idp/SSO.saml2
+inurl:/ Kms login

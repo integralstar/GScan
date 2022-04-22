@@ -1,0 +1,100 @@
+inurl:"com_cartweberp"
+"PHPAuction GPL Enhanced V2.51 by AuctionCode.com"
+inurl:com_doqment
+intext:PHPhotoalbum v0.5
+"Powered by OnePound"
+"Powered By : Yamamah Version 1.00"
+"powered by SnoGrafx"
+allinurl:"xGb.php"
+"Powered by ForumApp"
+inurl:/component/jeeventcalendar/
+allinurl: page_id album "photo"
+"Powered by beamospetition 1.0.12"
+"Powered by 68kb"
+"powered by devalcms v1.4.a"
+inurl:com_webring
+inurl:hikaye.asp?id=
+intext:Design by: runt communications
+Copyright Agares Media phpautovideo
+"Powered by DVHome.cn"
+"powered by ExtCalendar v2"
+"Search | Invite | Mail | Blog | Forum"
+"AcmlmBoard v1.A2"
+inurl:index.php?option=com_mambads
+inurl:"modules.php?name=My_eGallery"
+"Marketplace Version 1.1.1"
+"Powered by Ajax Portal 3.0"
+"Powered By IP.Board 3.0.0 Beta 5"
+"MunzurSoft Wep Portal W3"
+Powered by Blox CMS from TownNews.com
+allinurl :"wp-content/plugins/st_newsletter"
+"© 2008 DevWorx - devworx.somee.com"
+inurl:"links_showcat.php?"
+Powered by SH-News 3.0
+"CaLogic Calendars V1.2.2"
+inurl:"com_pollxt"
+Powered by PHP Links from DeltaScripts
+inurl:index.php?option=com_calendario
+Powered by PNphpBB2 / Powered por PNphpBB2
+"Powered by Nukedit"
+Powered by "vcart 3.3.2"
+Powered by SkaLinks
+"Généré par KDPics v1.18"
+inurl:"nabopoll/"
+allinurl :"modules/eblog"
+Powered By DataLife Engine
+"© Sabdrimer CMS"
+AlstraSoft Web "ESE"
+Powered by Maian Cart v1.1
+Thyme 1. Â© 2006 eXtrovert Software LLC. All rights reserved
+eXV2 MyAnnonces
+"BlogMe PHP created by Gamma Scripts"
+inurl:"/go/_files/?file="
+inurl:"option=com_camelcitydb2"
+Powered by PacerCMS
+inurl:com_expshop
+intitle:"ITech Bids"
+"Script réalisé par BinGo PHP"
+Powered by CS-Cart - Shopping Cart Software
+inurl:com_colophon
+" Powered by JTL-Shop 2"
+"Powered by PHP Shop from DeltaScripts"
+"Powered by sNews " inurl:index.php?id=
+"Torbstoff News 4"
+intext:Powered by MX-System 2.7.3
+"Powered By 4smart"
+intext:"Powered by Arcade Builder"
+inurl:"index.php?id_menu="
+Powered By Coppermine Photo Gallery v1.2.2b /Powered By Coppermine
+Â© 2005-2006 Powered by eSyndiCat Directory Software
+"powered by Nabernet"
+"Powered by VS PANEL 7.5.5"
+"powered by easytrade"
+inurl:"articles.php?topic="
+inurl:"classifieds.php?op=detail_adverts"
+"Emefa Guestbook V 3.0"
+powered by webit! cms
+"wow roster version 1.*"
+inurl:com_DTRegister eventId
+"wow roster version 1.5.*"
+Powered by free simple software
+"TR Newsportal" brought by TRanx.
+Powered by Minerva 237
+"Powered By W3infotech"
+inurl:"option=com_org"
+"Powered by GameSiteScript"
+Powered by: Con-Imedia
+(c) SriptBux 2008 | Powered By ScriptBux version 2.50 beta 1
+"powered by twg"
+allinurl:/phpress/
+"Powered by sendcard - an advanced PHP e-card program"
+intext: "Powered by Marinet"
+UPublisher
+intitle:"Answer Builder" Ask a question
+inurl:"tinybrowser.php?"
+"Powered by ECShop v2.5.0"
+"powered by Photo-Graffix Flash Image Gallery"
+"inc_webblogmanager.asp"
+inurl:tr.php?id=
+inurl:index.php?mod=jeuxflash
+allinurl :"modules/gallery"

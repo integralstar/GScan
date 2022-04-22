@@ -1,0 +1,100 @@
+inurl:login.html intitle:"Archer C7"
+inurl:"/wp-content/plugins/super-forms/"
+inurl:/uploads/affwp-debug.log
+intitle:"Cisco Email Security Virtual Appliance" inurl:csrfkey=
+inurl:uno.php
+intitle:"iLO: localhost" + "Firmware Version"
+inurl:print.htm intext:"Domain Name:" + "Open printable report"
+intitle:"phpLDAPadmin" inurl:cmd.php
+intitle:"index of" "application.properties"
+inurl:/certs/server.key
+inurl:/dyn_sensors.htm "ID"
+"cpanel username" "cpanel password" ext:txt
+inurl:dtm.html intitle:1747-L551
+inurl:"/console/login/LoginForm.jsp"
+"insert into users" "VALUES" ext:sql | ext:txt | ext:log | ext:env
+inurl:?XDEBUG_SESSION_START=phpstorm
+inurl:jasperserver-pro/login.html
+ext:(doc | pdf | xls | txt |) (intext:confidential salary) inurl:confidential
+"password 7" ext:txt | ext:log | ext:cfg
+"machform" inurl:"view.php"
+filetype:log inurl:paypal
+intitle:final.attendee.list | inurl:final.attendee.list
+ext:xlsx inurl:database
+intitle:"index of" "idx_config"
+intitle:"index of" "idx_config"
+inurl:/Jview "zoom"
+inurl:/config/device/wcd
+inurl:weblogin intitle:("USG20-VPN"|"USG20W-VPN"|USG40|USG40W|USG60|USG60W|USG110|USG210|USG310|USG1100|USG1900|USG2200|"ZyWALL110"|"ZyWALL310"|"ZyWALL1100"|ATP100|ATP100W|ATP200|ATP500|ATP700|ATP800|VPN50|VPN100|VPN300|VPN000|"FLEX")
+intitle:Login intext:HIKVISION inurl:login.asp?
+inurl:"/phpmyadmin/user_password.php
+inurl:authorization.ping
+allintext:@gmail.com filetype:log
+inurl:https://trello.com AND intext:@gmail.com AND intext:password
+intitle:"index of" intext:"apikey.txt
+inurl:oidc/authorize
+intext:"Incom CMS 2.0"
+intext:"SonarQube" + "by SonarSource SA." + "LGPL v3"
+intitle:"Humatrix 8"
+inurl:/xprober ext:php
+inurl:/wp-content/themes/altair/
+intitle:"Exchange Log In"
+"ComputerName=" + "[Unattended] UnattendMode"
+AXIS Camera exploit
+inurl:/pro_users/login
+inurl:adfs inurl:wctx inurl:wtrealm
+intitle:"index of" "*Maildir/new"
+inurl:"/php/info.php" "PHP Version"
+inurl:idp/Authn/UserPassword
+inurl:/cgi-bin/manlist?section
+intitle:("Index of" AND "wp-content/plugins/boldgrid-backup/=")
+intext:"user name" intext:"orion core"
+inurl:idp/prp.wsf
+"-- Dumped from database version" + "-- Dumped by pg_dump version" ext:txt | ext:sql | ext:env | ext:log
+"mailer_password:" + "mailer_host:" + "mailer_user:" + "secret:" ext:yml
+inurl:nidp/idff/sso
+intitle:"web client: login"
+intext:construct(\'mysql:host
+ext:yml | ext:txt | ext:env "Database Connection Information Database server ="
+"System" + "Toner" + "Input Tray" + "Output Tray" inurl:cgi
+"Powered by vBulletin(R) Version 5.6.3"
+/etc/config + "index of /" /
+inurl:Sitefinity/Authenticate/SWT
+"The SQL command completed successfully." ext:txt | ext:log
+intitle:"NetCamXL*"
+intitle:"NetCamSC*"
+intitle:"Agent web client: Phone Login"
+"define(\'SECURE_AUTH_KEY\'" + "define(\'LOGGED_IN_KEY\'" + "define(\'NONCE_KEY\'" ext:txt | ext:cfg | ext:env | ext:ini
+/etc/certs + "index of /" */*
+inurl: inurl:"view.shtml" ext:shtml
+intext:"Connection" AND "Network name" AND " Cisco Meraki cloud" AND "Security Appliance details"
+inurl:/Jview.htm + intext:"Zoom :"
+"change the Administrator Password." intitle:"HP LaserJet" -pdf
+intitle:"index of" "db.properties" | "db.properties.BAK"
+"keystorePass=" ext:xml | ext:txt
+ext:txt | ext:log | ext:cfg "Building configuration..."
+"putty.log" ext:log | ext:cfg | ext:txt | ext:sql | ext:env
+intitle:"index of" inurl:admin/download
+intitle:"Insurance Admin Login" | "(c) Copyright 2020 Cityline Websites. All Rights Reserved." | "http://www.citylinewebsites.com"
+intext:"Healthy" + "Product model" + " Client IP" + "Ethernet"
+intitle:"index of" "anaconda-ks.cfg" | "anaconda-ks-new.cfg"
+intitle:"index of" intext:"web.xml"
+inurl:"/cgi-bin/guestimage.html" "Menu"
+intitle:"Please Login" "Use FTM Push"
+inurl:"view.shtml" "Network"
+intitle:"irz" "router" intext:login gsm info
+intitle:"index of" "dump.sql"
+'"define(\'DB_USER\'," + "define(\'DB_PASSWORD\'," ext:txt'
+ext:php intitle:phpinfo "published by the PHP Group"
+inurl:"view.shtml" "camera"
+intitle:"index of" "credentials.xml" | "credentials.inc" | "credentials.txt"
+ext:sql | ext:txt intext:"-- phpMyAdmin SQL Dump --" + intext:"admin"
+ssh_host_dsa_key.pub + ssh_host_key + ssh_config = "index of / "
+inurl:/adfs/oauth2/authorize
+inurl:/?op=register
+"index of" inurl:database ext:sql | xls | xml | json | csv
+inurl:/Jview.htm + "View Video - Java Mode"
+inurl:"servicedesk/customer/user/login"
+intitle:"Xenmobile Console Logon"
+intitle:"index of" "password.yml
+inurl:RichWidgets/Popup_Upload.aspx

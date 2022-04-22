@@ -1,0 +1,100 @@
+inurl:finger.cgi
+inurl:phpliteadmin.php
+inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]"
+inurl:"passes" OR inurl:"passwords" OR inurl:"credentials" filetype:txt @yahoo.com OR @gmail OR @hotmail OR @rediff
+intitle:"hp laserjet" inurl:info_configuration.htm
+filetype:avastlic
+Please-logon "intitle:zarafa webaccess "
+intext:"You may also donate through the Moneybookers account mb@dd-wrt"
+intext:charset_test= email= default_persistent=
+inurl:"cgi-bin/webcgi/main"
+filetype:docx Domain Registrar $user $pass
+inurl:/app_dev.php/login "Environment"
+intitle:"Log In" "Access unsecured content without logging in"
+"CHARACTER_SETS" "COLLATION_CHARACTER_SET_APPLICABILITY"
+intitle:"DVR+Web+Client"
+inurl:/webalizer intitle:"Usage Statistics"
+\'apc info\' \'apc.php?SCOPE=\'
+intext: intext: intext: intext: intext:
+intitle:awen+intitle:asp.net
+"mailing list memberships reminder"
+intext:"Thank you for your purchase/trial of ALWIL Software products.:"
+inurl:Settings.aspx intitle:Beyond TV
+intitle:"HtmlAnvView:D7B039C1"
+intext:"~~Joomla1.txt" title:"Index of /"
+intitle:"-N3t" filetype:php undetectable
+"Welcome to Sitecore" + "License Holder"
+?intitle:index.of?".mysql_history"
+inurl:"tiki-index.php" filetype:php "This is TikiWiki 1.9"
+inurl:"*.php?*=*.php" intext:"Warning: include"
+filetype:cfg "radius" (pass|passwd|password)
+inurl:wp-content/plugins/age-verification/age-verification.php
+inurl:"/showPlayer.php?id=" intext:"powered by ellistonSPORT"
+inurl:"mod.php?mod=blog" intext:"powered by DIY-CMS"
+inurl:cgi-bin/cosmobdf.cgi?
+(username=* | username:* |) | ( ((password=* | password:*) | (passwd=* | passwd:*) | (credentials=* | credentials:*)) | ((hash=* | hash:*) | (md5:* | md5=*)) | (inurl:auth | inurl:passwd | inurl:pass) ) filetype:log
+inurl:RgFirewallRL.asp | inurl:RgDmzHost.asp | inurl:RgMacFiltering.asp | inurl:RgConnect.asp | inurl:RgEventLog.asp | inurl:RgSecurity.asp | inurl:RgContentFilter.asp | inurl:wlanRadio.asp
+allintext:D.N.I filetype:xls
+intitle:SpectraIV-IP
+"Powered by kryCMS"
+inurl:.php intitle:- BOFF 1.0 intext:[ Sec. Info ]
+Microsoft-IIS/7.0 intitle:index.of name size
+List of Phone Numbers (In XLS File ) allinurl:telefonos filetype:xls
+inurl:Curriculum Vitale filetype:doc ( Vital Informaticon , Addres, Telephone Numer, SSN , Full Name, Work , etc ) In Spanish.
+filetype:sql inurl:wp-content/backup-*
+inurl:/cgi-bin/makecgi-pro
+"My RoboForm Data" "index of"
+allintitle:"UniMep Station Controller"
+filetype:php inurl:tiki-index.php +sirius +1.9.*
+filetype:old (define)(DB_USER|DB_PASS|DB_NAME)
+filetype:old (mysql_connect) ()
+filetype:php inanchor:c99 inurl:c99 intitle:c99shell
+inurl:"trace.axd" ext:axd "Application Trace"
+inurl:"/includes/config.php"
+intitle:index.of? configuration.php.zip
+inurl:"/Application Data/Filezilla/*" OR inurl:"/AppData/Filezilla/*" filetype:xml
+filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS
+inurl:php intitle:"Cpanel , FTP CraCkeR"
+inurl:/xampp
+intitle:#k4raeL - sh3LL
+filetype:php~ (pass|passwd|password|dbpass|db_pass|pwd)
++intext:"AWSTATS DATA FILE" filetype:txt
+inurl:ftp "password" filetype:xls
+inurl:view.php?board1_sn=
+inurl:"amfphp/browser/servicebrowser.swf"
+"Powered by SLAED CMS"
+"error_log" inurl:/wp-content
+allinurl:forcedownload.php?file=
+filetype:ini "Bootstrap.php" (pass|passwd|password|pwd)
+intitle:"vtiger CRM 5 - Commercial Open Source CRM"
+inurl:server-info intitle:"Server Information" Apache Server Information
+inurl:":9000" PacketVideo corporation
+intitle:m1n1 1.01
+filetype:pem "Microsoft"
+cv Or resume OR curriculum vitae filetype:pdf OR doc
+inurl:/push/ .pem apns -"push notifications" "bag attributes"
+filetype:sql "PostgreSQL database dump" (pass|password|passwd|pwd)
+filetype:sql "MySQL dump" (pass|password|passwd|pwd)
+filetype:sql "phpmyAdmin SQL Dump" (pass|password|passwd|pwd)
+inurl:"clsUploadtest.asp"
+ionCube Loader Wizard information disclosure
+vBulletin Install Page Detection
+inurl:sarg inurl:siteuser.html
+intitle:"Enabling Self-Service Procurement"
+intitle:"cyber recruiter" "User ID"
+"Login Name" Repository Webtop intitle:login
+inurl:/latitude/apps/badge/api?user=
+intitle:Locus7shell intext:"Software:"
+filetype:xls + password + inurl:.com
+filetype:ini "pdo_mysql" (pass|passwd|password|pwd)
+filetype:ini "SavedPasswords" (pass|passwd|password|pwd)
+filetype:ini "precurio" (pass|passwd|password|pwd)
+filetype:ini "[FFFTP]" (pass|passwd|password|pwd)
+filetype:ini "FtpInBackground" (pass|passwd|password|pwd)
+inurl:"fbconnect_action=myhome"
+index.php?option=com_ignitegallery
+intext:"Powered by FXRecruiter"
+"site by Designscope"
+intitle:"[EasyPHP] - Administration"
+intext:"Powered by Inventory Mojo Software."
+intext:"Site by Triware Technologies Inc"

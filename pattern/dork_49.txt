@@ -1,0 +1,100 @@
+intext:"Design by MMA Creative"
+inurl:tr.php?id=
+\'\'com_noticias\'\'
+"MobPartner Counter" "upload files"
+allinurl: "modules/glossaires"
+inurl:com_netinvoice
+inurl:"read.php?datespan="
+inurl:com_beamospetition
+"com_lmo"
+"Powered by Clicknet CMS"
+Igloo (interest group glue)
+inurl:"com_acstartseite"
+"Powered by Populum"
+"Powered by PWP Version 1-5-1" AND inurl:"/wiki/run.php"
+intext:"Design by BB Media.Org"
+inurl:"com_acprojects"
+inurl:"com_acteammember"
+Powered by Maian Weblog v4.0
+Powered by: Maian Recipe v1.2
+Powered by: Maian Search v1.1
+Powered by: Maian Links v3.1
+Powered by: Maian Uploader v4.0
+"Powered By Steamcast "0.9.75 beta
+Powered by Maian Guestbook v3.2
+inurl:acrotxt.php wbb
+Designed by:InterTech Co
+allinurl: cid"modules/classifieds/index.php?pa=Adsview"
+News powered by ashnews
+allinurl: "modules MyAnnonces index php pa view"
+"News Managed by Ditto News"
+Coded By WebLOADER
+"Powered by Philboard" inurl:"philboard_forum.asp"
+inurl:"com_jjgallery
+intext:"jPORTAL 2" inurl:"mailer.php"
+inurl:CuteSoft_Client/CuteEditor
+ActionnÃƒÂ©e par smartblog
+inurl:tr.php?id=
+inurl:tr.php?id=
+allintext:"Browse Blogs by Category"
+inurl:option=com_mydyngallery
+inurl:index.php?mod=sondages
+inurl:"tr1.php?id=" Forced Matrix
+allintext:"SuperCali Event Calendar"
+inurl:"com_ckforms"
+inurl:"com_prayercenter"
+ADP Forum 2.0.3 is powered by VzScripts
+inurl:"com_ccnewsletter"
+inurl:"add_soft.php"
+pages.php?id= "Multi Vendor Mall"
+"Search Affiliate Programs:"
+intitle:"Dacio\'s Image Gallery"
+"Website by Spokane Web Communications"
+"powered by: elkagroup"
+allinurl:/myspeach/
+Powered by Revsense
+'724CMS Powered, 724CMS Version 4.59. Enterprise'
+index.php?option=com_facileforms
+Powered By phUploader
+inurl:"myLDlinker.php"
+inurl:com_idoblog
+/modules/xhresim/
+"Powered by FubarForum v1.5"
+/modules/amevents/print.php?id=
+allinurl: com_gallery "func"
+"pForum 1.29a" OR ""Powie\'s PSCRIPT Forum 1.26"
+allinurl: "/modules/myTopics/"
+inurl:"com_ckforms"
+allinurl:"index.php?site=" "W-Agora"
+inurl:"index.php?m_id="
+Powered by MVC-Web CMS inurl:/index.asp?newsid=
+allinurl: "showCat.php?cat_id"
+"PhpLinkExchange v1.02"
+"ClanSys v.1.1"
+inurl:inc_accountlistmanager.asp
+inurl:com_jomestate
+"Members Statistics" +"Total Members" +"Guests Online"
+"Copyright Interactivefx.ie"
+inurl:tr.php?id= Hosting
+allinur:com_extended_registration
+inurl:com_rapidrecipe "recipe_id"
+"Powered by SoftbizScripts" "OUR SPONSORS"
+Powered by PowerPortal v1.3a
+"powered by kure"
+'"Liberum Help Desk, Copyright (C) 2001 Doug Luxem"'
+inurl:modules.php?name=Shopping_Cart
+intext:"powered by itaco group"
+mediaHolder.php?id
+"powered by seditio" OR "powered by ldu"
+Powered By AJ Auction
+"Powered by Content Injector v1.52"
+Events Calendar 1.1
+inurl:inc_linksmanager.asp
+inurl:/index.php?option=com_otzivi
+"Powered by DigitalHive"
+inurl:"com_casino_blackjack"
+inurl:"/tagit2b/"
+"powered by LionWiki "
+allinurl: "index.php?area"galid
+inurl:"tr1.php?id="
+"Designed by Spaceacre"

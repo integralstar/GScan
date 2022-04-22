@@ -1,0 +1,100 @@
+inurl:"ews/setting/setews.htm"
+intext:"index of /userfiles/file/"
+intext:"softperms.txt" ext:TXT
+inurl:composer.json filetype:json
+"CakeRoutingException"
+'"Use these fields to set or change the Administrator Password. When set, the Administrator Password is required before you can access and change configuration parameters. To disable the Administrator Password, leave the entries blank."'
+"-- Dumping data for table" ext:sql
+intext:/wp-content/plugins/woocommerce/templates/emails/plain/
+inurl:/wp-content/plugins/seo-pressor/classes/
+inurl:wp-links-opml.php
+inurl:"/horde/test.php"
+inurl:"communique_detail.php?id="
+inurl:/sym/root/ intitle:index.of
+inurl:"xamppsecurity.php"
+inurl:https://owa
+inurl:"/testssi.ssi"
+inurl:phpmyadmin/themes intext:"pmahomme"
+inurl:readme.md intext:"Laravel"
+intitle:"Django site admin" inurl:admin
+inurl:"gradle.properties" intext:"proxyPassword"
+intext:"Index of /database"
+intext:"Index of /.git"
+inurl:guestimage.html
+inurl:"set_config_networkIPv6.html"
+inurl:"wp-security-audit-log" ext:log
+intext:"Welcome to CodeIgniter!"
+inurl:/Divi/Changelog.txt /Divi/Changelog.txt
+inurl:FileListAbsolute ext:txt
+"OTL logfile" "by OldTimer" ext:txt
+"QuickDiag" "by g3n-h@ckm@n" ext:txt
+filetype:php "Git Deployment Script v0.1"
+intext:connectionString & inurl:web & ext:config
+ext:txt | ext:conf | ext:inc | ext:doc intext:php class JConfig
+intitle:"Index Of" intext:.ftpconfig
+filetype:tpl intext:mysql_connect
+ext:asax
+inurl:".hg/store/fncache"
+inurl:":8006" and intext:"Proxmox VE Login"
+ext:vbproj
+intitle:index.of intext:viewvc
+inurl:readme.rst intext:"CodeIgniter"
+ext:csproj
+inurl:scan_result_file
+inurl:/maint/repair.php?repair=1
+inurl:login/?next=/admin/ -https
+inurl:/secure/attachment/ filetype:log OR filetype:txt
+inurl:share.cgi?ssid=
+ext:log inurl:"/pgadmin"
+inurl:"img/main.cgi?next_file"
+intitle:"Welcome to QNAP Turbo NAS"
+"m.zippyshare.com/"
+inurl:_vti_pvt/administrators.pwd
+"-- Account dump" ext:sql
+inurl:zabbix.php AND intext:"Zabbix SIA"
+inurl:front/central.php
+inurl:"/wp-admin/setup-config.php" intitle:"Setup Configuration File"
+inurl:"/api/index.php" intitle:UniFi
+inurl:"sitemanager.xml" ext:xml
+intitle:"twonky server" inurl:"9000" -intext:"9000"
+inurl:index of= %2F /admin login %2F intitle:"Administration Login -
+inurl:scgi-bin intitle:"NETGEAR ProSafe"
+"TX_start" "card_name" ext:log
+inurl:"wp-content/uploads/file-manager/log.txt"
+intitle:"Namenode information" AND inurl:":50070/dfshealth.html"
+inurl:".php?id=" "You have an error in your SQL syntax"
+inurl:/_layouts/mobile/view.aspx?List=
+inurl:/proc/self/cwd
+inurl:/remote/login?lang=en
+intitle:"cuckoo sandbox" "failed_reporting"
+intitle:"Sign in · GitLab"
+intitle:"GitBucket" intext:"Recent updated repositories" intext:"Sign In"
+intitle:"Plesk Onyx" intext:"Interface language"
+index of /htdocs
+"You\'re successfully running JSON Server"
+inurl:"/ADVANCED/COMMON/TOP"
+intitle:"Namenode information"
+inurl:"/ap/recuperadocumentossql.aspx"
+inurl:login.cgi intitle:NETGEAR
+filetype:ini "wordfence"
+"Sorting Logs:" "Please enter your password" "Powered By"
+intitle:"Index of" "Apache/2.4.7 (Ubuntu) Server"
+intitle:"Index of /" "joomla_update.php"
+inurl:"/logs/www" ext:log
+"Blocking Reason:" ext:log
+intitle:"Index of /" "Proudly Served by Surftown at"
+intitle:"Index of /" "mod_ssl 2.2.22 OpenSSL/1.0.1"
+intext:uploadOverwrite || intext:OPEN || intext:cwd
+intext:DB_PASSWORD || intext:"MySQL hostname" ext:txt
+inurl:"g2_view=webdav.WebDavMount"
+-inurl:htm -inurl:html intitle:"index of" 100CANON
+-inurl:htm -inurl:html intitle:"index of" NIKON
+"[FFFTP]" ext:ini
+inurl:"/Windows/Cookies/" ext:txt
+"Protocol=unreal" ext:ini
+"random\'s system information tool" ext:txt
+intitle:"Setup Home" "Internet Status"
+inurl:"dcwp_twitter.php?1="
+inurl:app/config/ intext:parameters.yml intitle:index.of
+intitle:"CGIWrap Error"
+inurl:"ftp://www." "Index of /"

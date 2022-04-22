@@ -1,0 +1,100 @@
+intitle:"Log In JIRA" inurl:"8080:/login.jsp"
+intext:"index of /" ".composer-auth.json"
+intext:"sf_app" + "frontend sf_app_base_cache_dir:"
+inurl:"Orion/Login.aspx?ReturnUrl="
+intext:"Welcome to JIRA" "Powered by a free Atlassian Jira community"
+intext:"index of /" "auth.json"
+intext:OpenCart inurl:index.php?route=common/dashboard
+inurl:"/includes/OAuth2" intext:"index of /"
+intitle:"Pentaho User Console - Login"
+inurl:"/includes/api/" intext:"index of /"
+intitle:"index of" /"privatekey.txt" OR "private key.txt"
+"Web File Manager"
+inurl:/_layouts/userdisp.aspx?id= intext:password
+inurl:/cgi-bin/webproc intext:"username"
+inurl:"auth.html" intitle:"SonicWall"
+intitle:index.of "cacert.pem"
+intitle:"Welcome to JBoss"
+inurl:concrete/config/
+intitle:"index of" "*php.swp"
+intitle:"index of" "htdocs.zip"
+intitle: index of "*db.tar.gz"
+inurl:/swagger/index.html
+intitle:"index of" "smtp.log"
+inurl:ReportViewer.aspx
+intitle:"index of/" "db.sql"
+intext:"username=" AND "password=" ext:log
+intitle:"index of" "env.bak"
+intitle:index.of "db.zip"
+intitle:index.of "awsconfig.json"
+intitle:VMware intext:"VMware, Inc. All rights reserved." AND "Powered by VMware Studio"
+ext:action build
+intitle:index.of "backwpup"
+intext:"SECRET_KEY" ext|py inurl:mysite
+intitle:"index.of" intext:"access.txt"
+intitle:index.of "keys.txt"
+intitle:"index.of" intext:"api.txt"
+intitle:index.of "creds.txt"
+inurl:"saw.dll" AND intitle:"Sign In"
+intext:"Security is Off" intitle:"Namenode information"
+intitle:VMware inurl:5480
+intitle:"RabbitMQ Management" inurl:15672
+'intext:"Rubicon Communications, LLC (Netgate)" intitle:"Login"'
+intitle:"Welcome to nginx!" intext:"Welcome to nginx on Debian!" intext:"Thank you for"
+accdb OR accde intitle:"index of"
+krb.conf OR krb.realms intitle:"index of"
+filetype:env intext:APP_NAME
+intitle:"index of" share.passwd OR cloud.passwd OR ftp.passwd
+"Firmware Version" intitle:"iLO" ProLiant Login -hpe.com -update
+intitle:"index of" db.key OR server.key OR ftp.key OR exchange.key OR host.key OR mail.key
+intitle:"index of" "/Cloudflare-CPanel-7.0.1"
+intitle:"index of" "Served by Sun-ONE"
+intitle:"index of" "ftp.log"
+intitle:"index of" wget-log
+intitle:"index of" "sms.log"
+intitle:"index of" api_key OR "api key" OR apiKey
+intitle:"index of" .zshrc~ OR .zshrc OR .zshenv OR .zshenv~
+intitle:"index of" .oracle_jre_usage/
+intitle:"index of" ticket.conf
+intitle:"index of" "Served by" "Web Server"
+intitle:"index of" squirrelmail/
+intitle:Check_MK Multisite Login
+inurl:check_mk/login.py
+intitle:"index of" vagrantfile -"How to"
+intitle:"index of" domain.key
+intitle:"index of" crontab.conf
+intitle:"index of" lesshsQ/ OR .lesshst/
+inurl:memberlogin.php
+inurl:/AdminPanel.php
+"fetchmailrc" intitle:"index of"
+intitle:"Sign in" inurl:/idaas/
+intitle:"index of" "server at"
+"key" OR key.jar intitle:"index of" webstart
+intitle:rsview32 ext:asp
+intext:"Please enable JavaScript in your browser before using Citrix Receiver." AND intext:www.citrix.com
+inurl:"_notes/dwsync.xml"
+inurl:/cmsinstall/install ext:aspx
+intitle:"kentico database setup"
+intitle:"WSO2 Management Console"
+intitle:"webview login" alcatel lucent
+intitle:"index of" "wp-security-audit-log"
+inurl:/cgi/domadmin.cgi
+inurl:":8080/login.jsp?os_destination="
+intitle:"LABVANTAGE Logon"
+intext:"powered by codoforum" inurl:"/user/login"
+intitle:"Home - Mongo Express"
+inurl:"8080/dashboard/" intitle:"Dashboard"
+inurl:"/index.php?reconnect=1"
+inurl:"/index.php?enter=guest"
+inurl:":8080/login"
+intitle:"Zabbix" intext:"username" intext:"password" inurl:"/zabbix/index.php"
+inurl:"/webis/webis_login.html"
+intitle:"Check Point - Login"
+"MailChimp API error:" ext:log
+inurl:"/webis/webis_login.html"
+intitle:"WHMCS - Login" inurl:/admin/login.php
+inurl:admin/login.php?login= intitle:"CMS"
+intitle:"WebSite X5 Manager" inurl:/admin/login.php
+intitle:"Pfsense - Login"
+inurl:/login.aspx intitle:yönetim
+inurl:"/fmi/webd" intitle:"FileMaker WebDirect"

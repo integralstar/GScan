@@ -1,0 +1,100 @@
+"This site is powered by CMS Made Simple"
+"by eXtreme Crew"
+"2007 Rafal Kucharski"
+"This forum powered by Phorum."
+"is proudly powered by WordPress"
+"Powered by Burning Board Lite 1.0.2 * 2001-2004"
+'FhImage, powered by Flash-here.com'
+"powered by blur6ex"
+"Powered by Claroline"
+"Powered by Burning Board Lite 1.0.2 * 2001-2004"
+"Personal .NET Portal"
+"SmodBIP" & "Aktualno.ci"
+"SmodCMS" & "S.ownik"
+"is a product of Lussumo"
+inurl:"index.php?name=PNphpBB2"
+"Powered by Online Grades"
+"Powered by ClanTiger"
+inurl:/modules/lykos_reviews/
+"Powered By X7 Chat"
+"powered by guestbook script"
+index.php?option=com_ezine
+inurl:/modules/xfsection/
+inurl:"phpwcms/index.php?id="
+"Copyright Devellion Limited 2005. All rights reserved."
+inurl:/modules/debaser/
+"Powered by Quick.Cms"
+inurl:/modules/rmgallery/
+intext:"2000-2001 The phpHeaven Team"
+"Basado en Spirate"
+"Barbecued by sNews"
+inurl:"printable_pedigree.php"
+"powered by discuz!
+"This web site was made with PostNuke"
+"Powered by Shop-Script FREE"
+"LinPHA Version 1.3.x" or "The LinPHA developers"
+"powered by Quick.Cart"
+"Powered by PHP-Update"
+intext:"2000-2001 The phpHeaven Team"
+"Powered by MercuryBoard"
+"Powered by Coppermine Photo Gallery"
+"Content managed by the Etomite Content Management System"
+"powered by PCPIN.com"
+"Powered by Leap"
+inurl:"option=com_tophotelmodule"
+"Runcms Copyright" "2002 - 2007" +"page created"
+"Powered by eXV2 Vers"
+"Betrieben mit Serendipity 1.0.3"
+"Powered by XMB"
+"Powered by BIGACE 2.5"
+allintitle: powered by DeluxeBB
+"Powered by Online Grades"
+"Powered by ClanTiger"
+"AlumniServer project"
+inurl:imageview5
+"This site is powered by e107"
+"powered by tikiwiki"
+"powered by gcards"
+pixelpost "RSS 2.0" "ATOM feed" "Valid xHTML / Valid CSS"
+"This web site was made with MD-Pro"
+Powered+by+XMB
+"powered by ThWboard"
+"Page created in" "seconds by glFusion" +RSS
+inurl:wp-login.php Register Username Password -echo
+"this site is using the webspell script (version: 4.01.02)"
+inurl:"com_sqlreport"
+"Powered by Quick.Cart"
+"Powered by Shadowed Portal"
+"powered by bitweaver"
+inurl:"index.php?ind=blog"
+inurl:"sbw2Behoerden.php"
+inurl%3Aindex.php%3Fpagedb%3Drss
+inurl:src/login.php
+inurl:/dana-na/auth/
+allintext:"fs-admin.php"
+allintitle:"SyncThru Web Service"
+filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS
+"Cisco PIX Security Appliance Software Version" + "Serial Number" + "show ver" -inurl
+intitle:index.of cisco asa
+intitle:index.of ios
+"Remote Supervisor Adapter II" inurl:userlogin_logo.ssi
+allintext:"WebServerX Server at"
+intitle:"EvoCam" inurl:"webcam.html"
+||Powered by [ClipBucket 2.0.91]
+inurl:-cfg intext:"enable password"
+"LANCOM DSL/*-* Office *" "Entry Page"
+intitle:"AppServ Open Project *" "AppServ is a merging open source software installer package"
+intitle:ARI "Phone System Administrator"
+intitle:"AdventNet ManageEngine ServiceDesk Plus" intext:"Remember Me"
+"Welcome to the CyberGuard unit!"
+"SnapGear Management Console" "Welcome to the SnapGear Unit!" -pdf
+intitle:"Your Network Device" Status (LAN | WAN)
+intitle:"Net2Phone Init Page"
+intitle:Top "Vantage Service Gateway" -inurl:zyxel
+inurl:+:8443/login.php3
+inurl:"/?pagename=AdministratorLogin"
+inurl:"/?pagename=CustomerLogin"
+"Powered by Vsns Lemon" intitle:"Vsns Lemon"
+inurl:"simplenews/admin"
+inurl:wrcontrollite
+"login: *" "password= *" filetype:xls

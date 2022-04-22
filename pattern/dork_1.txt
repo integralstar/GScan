@@ -1,0 +1,100 @@
+inurl:adminpanel
+intitle:"index of" *.csv
+intitle:"Index of /" intext:"resource/"
+intitle:"atvise - next generation"
+inurl: /wp-content/uploads/ inurl:"robots.txt" "Disallow:" filetype:txt
+inurl:admin filetype:xls
+intitle:index of settings.py
+inurl:admin filetype:xlsx
+db_password filetype:env
+inurl:/intranet/login.php
+inurl:"*admin | login" | inurl:.php | .asp
+intitle:"index of" *.apk
+intitle:"Teltonika -Web UI" | intitle:"Teltonika-RUT -Web UI" inurl:"/cgi-bin/luci"
+inurl:admin filetype:xls
+inurl:admin filetype:txt
+intitle:"MODBUS TCP RS485 Converter" intext:"Module Name: MMTCPBCONV" "powered by Atmel ARM."
+inurl:/admin/login.php intitle:("Iniciar sesion" OR "Login")
+intitle:"Login" intext:"cam"
+intext:"Real-time IP Camera Monitoring System" intext:"ActiveX Mode (For IE Browser)"
+intitle:"Secure Access Service" inurl:"/dana-na/auth/url_default/welcome.cgi"
+inurl:console/login.jsp
+intitle:"index of" "*.yaml"
+intitle:index of
+intitle:"index of"
+intitle:"Schneider Electric Telecontrol - Industrial Web Control" intext:"Xflow "
+intitle"index of" "php"
+inurl:jira login
+intitle:Dashboard
+intitle:"index of" "wp-inc"
+inurl:adm/login.jsp.bak
+inurl:* intitle:"index of/documents"
+intitle:"index of" "*.pl"
+intitle:"index of" "/products"
+intext:"index of" "payroll"
+inurl:pastebin "SHODAN_API_KEY"
+intitle:"index of" "*.php"
+intitle:"index of" "apache.log" | "apache.logs"
+intitle:"index of" "screenshot*.jpg"
+intitle:"index of" "*.vcf"
+intitle:"index of" "*.phtml"
+inurl:EMSWebClient/
+inurl admin login php
+inurl:* intitle:"index of" "docker-compose"
+inurl *:8443/login.jsp
+inurl:admin
+intitle:"index of" "/mysql"
+intitle:"index of" "admin.js"
+inurl:wp-admin
+allintext"account number"
+intitle:"index of "/key/" "key.txt"
+intitle:"Login" intext:"camera"
+inurl:.php?id=
+intitle.index of API*.txt
+intitle:"index of" "/public_html"
+intitle:"index of" "*.mp4"
+intitle:"index of"
+inurl:linkedin.com "view my resume" facebook
+inurl:forgotpassword.php
+intitle.index of .exe
+intitle:"index of" ftp
+inurl:node_modules/ua-parser-js
+intitle:"index of"
+intitle:"index of" "/public/js"
+inurl:/admin-portal/
+inurl:.org intitle index.of "inflation"
+intitle:"index of" "sysinfo"
+intitle:"index of" "docker-compose"
+intitle.index of .log
+intitle:"index of" "admin*.txt"
+intitle:"index of" " index.php.bak "
+intitle:"index of" " webdriver "
+inurl:pastebin "CVV"
+intitle:"index of" "default.asp "
+intitle:"index of" " htsearch "
+intitle:"index of/documents"
+"rfp" filetype:pdf
+intitle:"index of" " mod_auth_mysql "
+inurl:pastebin "Windows 10 Product Keys*"
+intitle:"index of" " sendmail.inc "
+intitle:"index of" "dvwssr.dll "
+inurl:pastebin "SHODAN_API_KEY"
+intitle:"index of" upload.asp "
+intitle:"index of" "test.bat "
+intitle:"index of" " login.jsp "
+intitle:"index of" " glimpse "
+intitle:"index of" " fileadmin "
+intitle:"index of" "hello.bat "
+intitle:"index of" Servlet"
+intitle:"index of" "browser.inc "
+inurl:pastebin "API_KEY"
+intitle:"index of" "data*"
+intitle:"index of" " YaBB.pl "
+intitle:"index of" "msadcs.dll "
+intitle:"index of" "/students"
+intext:"Index of /chatlogs"
+inurl:product-list.php?id=
+intitle:"index of" "document*.pdf"
+intext:"index of" "logs"
+inurl:.php?=*php
+intext " organisation data" filetype:xls

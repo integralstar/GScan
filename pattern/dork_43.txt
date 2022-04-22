@@ -1,0 +1,100 @@
+allinurl:readmore.php?news_id
+'"Powered by Elgg, the leading open source social networking platform"'
+inurl:/index.php?option=com_yellowpages
+"Emanuele Guadagnoli" "CcMail"
+This FAQ is powered by CascadianFAQ
+"site powered by intuitive-websites.com"
+Copyright © 2010 ASP SiteWare. All rights reserved.
+intext:"RPG Inferno is not available to guests" or intext:"Battle Ground Â· Clans Â· Store Â· Jobs Â· Auction Â· Spells Shop Â· Statistics Â· Member List"
+inurl:com_jstore
+APBoard 2.1.0 © 2003-2010 APP - Another PHP Program
+allintext:"Browse our directory of our members top sites or create your own for free!"
+"ParsBlogger ? 2006. All rights reserved"
+"Powered by: PhotoPost PHP 4.6" or "Powered by: PhotoPost PHP 4.5"
+"Powered by PG Online Training Solution - learning management system"
+inurl:cart.php?m=features&id=
+"Bu Site Ticimax E-Ticaret yazılımı ile hazırlanmıştır."
+Powered by: Arab Portal inurl:mod.php?mod=html
+Powered by NKINFOWEB VSp © 2009
+Powered by: PHPDirector 0.30 or nurl:videos.php?id=
+"Powered by RedCat" inurl:index.php?contentId=
+powered by x7 chat 1.3.6b
+intext:Powered by Infront
+Powered by Info Fisier.
+Powered by WHMCompleteSolution - or inurl:WHMCS
+inurl:"product_desc.php?id=" Powered by Zeeways.com
+"Website powered by Subdreamer CMS & Sequel Theme Designed by indiqo.media"
+"Desenvolvido por WeBProdZ"
+inurl:"inurl:file.php?recordID="
+'"Powered by myBusinessAdmin and Red Cow Technologies, Inc."'
+'"Powered by cityadmin and Red Cow Technologies, Inc."'
+'"Powered by RealAdmin and Red Cow Technologies, Inc."'
+mod.php?mod=publisher&op=printarticle&artid=
+inurl:"index.php?option=com_spa"
+inurl:"photo_album.php?alb_id="
+intext : "Website by conceptinternetltd"
+Powered by PHP Melody 1.5.3
+inurl:"guestbook.admin.php?action=settings"
+"Developed by Bispage.com"
+Script créé par Funewik - Dezign-Box © France
+"by in-link" or "Powered by In-Link 2."
+allintext:"Latest Pictures" Name Gender Profile Rating
+inurl:"noticias.php?notiId="
+Copyright 2008 Free Image & File Hosting
+"PHP Gallery © 2010 PHP Weby hostgator coupon"
+"Send amazing greetings to your friends and relative!"
+"PHP Gallery © 2010 PHP Weby hostgator coupon"
+Copyright Â© 2007 Agares Media. Powered by AMCMS3.
+inurl:"lista_articulos.php?id_categoria="
+"PHPWebAdmin for hMailServer" intitle:PHPWebAdmin
+Copyright 2010 My Hosting. All rights reserved
+"PHP Gallery © 2010 PHP Weby hostgator coupon"
+"index.php?option=com_chronocontact" / "com_chronocontact"
+"pages.php?page_ID=" "K9 Kreativity"
+inurl:"picture.php?cat=" "Powered by PhpWebGallery 1.3.4"
+"index.php?option=com_chronoconnectivity" / "com_chronoconnectivity
+Powered by cP Creator v2.7.1
+Powered by PHP Advanced Transfer Manager v1.10 - @2002 Bugada Andrea
+Powered by iScripts EasyBiller
+"Powered By phpCOIN v1.2.1" / "mod.php?mod=faq"
+intext:"Powered By WorldPay" inurl:productdetail.php
+inurl:"com_dbquery" OR "index.php?option=com_dbquery"
+'Powered by Discuz! 1.0 © 2002, Crossday Studio of 11cn.org'
+Power by donghungx. Copyright © 2008 AttMp3.com. All rights reserved.
+'"Powered by osCMax v2.0" , "Copyright @" "RahnemaCo.com"'
+intext:"Free Ecommerce Shopping Cart Software by ViArt" +"Your shopping cart is empty!" + "Products Search" +"Advanced Search" + "All Categories"
+"powered by WonderEdit Pro"
+'"PHP Link Portal v1.95.1 Â© Big Resources, Inc."'
+[ Copyright 2005-2006 phpDirectorySourceâ„¢, all rights reserved ]
+"index.php?option=com_sef" / "com_sef"
+inurl:.asp? Powered by Comersus ASP Shopping Cart
+"Powered by: Yes Solutions"
+Powered by PBBoard© 2009 Version 2.0.5
+inurl:/components/je-media-player.html?
+"Forum Active Bulletin Board version 1.1 béta 2"
+inurl:module=My_eGallery pid
+Website powered by Subdreamer CMS & Sequel Theme Designed by indiqo.media
+"These forums are running on" "miniBB"
+intext:"Powered by Ramaas Software"
+Powered by Maian Greetings v2.1
+"Powered by [ iSupport 1.8 ]"
+intext:"Remository 3.25. is technology by Black Sheep Research"
+inurl:index.php?title=gamepage
+Powered by: Maian Uploader v4.0
+"Site designed and built by Powder Blue." inurl:index.php?id_page=
+"Powered by MetInfo 2.0"
+intext:"Marketing Web Design - Posicionamiento en Buscadores"
+allintext:"Home Member Search Chat Room Forum Help/Support privacy policy"
+"Developed by Infoware Solutions"
+"Powered by: MyPHP Forum"
+Ayemsis Emlak Pro
+"Powered By CrownWeb.net!" inurl:"page.cfm"
+Copyright @ 2007 Powered By Hot or Not Clone by Jnshosts.com Rate My Pic :: Home :: Advertise :: Contact us::
+inurl:"contentPage.php?id=" OR inurl:"displayResource.php?id=" AND intext:"Website by Mile High Creative"
+inurl:com_jepoll
+Come from home Script ( Latest Project ) www.esmart-vision.com
+"powered by zomplog"
+Joomla Component com_eportfolio Upload Vulnerability
+"Site designed and built Powered by GlobalWebTek."
+Copyright ©2007-2009 by Kasseler CMS. All rights reserved.
+inurl:inc_webblogmanager.asp

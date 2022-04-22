@@ -1,0 +1,100 @@
+Powered by Shadowed Portal
+"Powered by: PhotoPost PHP 4.6.5"
+inurl:"com_otzivi"
+"Powered by PsNews"
+inurl:inc_faqsmanager.asp
+"powered by sX-Shop"
+intext:\'Powered by ProArcadeScript \' inurl:\'game.php?id=\'
+inurl:tr.php?id= Downline
+inurl:tr.php?id= Autoresponder
+inurl:"/index.php?m=" "PHPRecipeBook 2.39"
+"powered by webClassifieds"
+"Powered by SoftbizScripts" "ALL JOBS"
+inurl:com_jabode
+inurl:"nabopoll/"
+"Powered by CMScout Â©2005 CMScout Group"
+inurl:test.php Powered by TalkBack
+"Powered by Ovidentia"
+team5 studio all rights reserved
+"powered by phpGreetCards"
+inurl:/wp-content/plugins/wpSS/
+"Powerd by www.e-webtech.com"
+inurl:inc_billboardmanager.asp?ItemID=
+allinurl :"modules/recipe"
+"powered by php advanced transfer manager"
+"Powered by GeN4"
+"Powered By Gravity Board X v2.0 BETA"
+inurl:com_flippingbook
+"Powered by vlBook 1.21"
+Copyright Â© Rotator 2008
+inurl:tr.php?id= Reminder Service
+"Jevonweb Guestbook"
+inurl:inc_contactusmanager.asp
+inurl:com_neorecruit
+"index.php?option=com_mdigg"
+"Uploader by CeleronDude."
+\'SEO by NuSEO.PHP\'
+powered by zeeways
+intitle:"Shorty (Beta)"
+inurl:index.php?mod=ConcoursPhoto
+"Copyright MaxiSepet ©"
+Powered by sabros.us
+inurl:inc_registrationmanager.asp
+"You have not provided a survey identification number"
+"Powered by ComicShout"
+powered by Pixaria. Gallery
+"Powered by FlashGameScript"
+index.php?option=com_ongallery
+"This website is powered by Trio"
+content_by_cat.asp?contentid \'\'catid\'\'
+browse_videos.php?
+inurl:JBSPro
+inurl:inc_joblistingmanager.asp
+Maintained with the Ocean12 Contact Manager Pro v1.02
+buyers_subcategories.php?IndustryID=
+"Powered by Minerva"
+inurl:"izle.asp?oyun="
+Copyright Â© Viral Marketing 2008
+inurl:"IDFM=" "form.php"
+inurl:inc_newsmanager.asp
+Powered by Arctic v2.0.0
+Powered by: Zanfi Solutions
+"Powered by SiteX 0.7 Beta"
+inurl:"freshlinks_panel/index.php?linkid"
+Powered By WebSihirbazÄ±
+inurl:inc_paypalstoremanager.asp
+Powered By phpCOIN 1.2.3
+Powered By: © Simplicity oF Upload
+"Developed by Quate.net."
+allinurl:directory.php?ax=list
+inurl:w3.php?nodeId=
+VS-Gästebuch V. ©
+Uebimiau Webmail v3.2.0-1.8
+"ATutor 1.6.4"
+"Search | Invite | Mail | Blog | Forum"
+elkagroup - Image Gallery v1.0 - All right reserved
+intext:"Powered by CLscript.com"
+inurl:"index.php?option=com_oziogallery"
+"Powered by Content Injector v1.53"
+inurl:"click.php?hostid="
+inurl:/tiny_mce/plugins/filemanager/
+inurl:"search_results.php?browse=1"
+"powered by fuzzylime"
+Powered by ThinkAdmin
+phpBazar Ver. 2.1.0
+inurl:gotourl.php?id=
+inurl:"module=helpcenter"
+Powered By PHPhotoalbum
+"Gallery powered by fMoblog"
+"Powered by Orca Interactive Forum Script"
+inurl:"browsecats.php?cid="
+"Powered by MySpace Content Zone"
+allinurl: "com_actualite"
+inurl:"com_book"
+"powered by AllMyGuests"
+allinurl : /web3news/
+Powered by BoutikOne®
+" Powered by Xpoze "
+allinurl:"macgurublog.php?uid="
+powered by AirvaeCommerce 3.0
+inurl: "tops_top.php? id_cat ="

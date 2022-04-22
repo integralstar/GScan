@@ -1,0 +1,100 @@
+filetype:cfg auto_inst.cfg
+intitle:Node.List Win32.Version.3.11
+"powered by antiboard"
+(inurl:"ars/cgi-bin/arweb?O=0" | inurl:arweb.jsp)
+"AutoCreate=TRUE password=*"
+intext:"d.aspx?id" || inurl:"d.aspx?id"
+inurl:gotoURL.asp?url=
+filetype:fp5 fp5 -"cvs log"
+"allow_call_time_pass_reference" "PATH_INFO"
+inurl:*db filetype:mdb
+filetype:ora ora
+filetype:wsdl wsdl
+filetype:inc inc intext:setcookie
+inurl:/wwwboard
+"error found handling the request" cocoon filetype:xml
+intitle:liveapplet inurl:LvAppl
+inurl:"index.php?module=ew_filemanager"
+allinurl:"index.php" "site=sglinks"
+"powered by" "shoutstats" hourly daily
+intitle:"Shoutcast Administrator"
+inurl:"utilities/TreeView.asp"
+filetype:pwl pwl
+"apricot - admin" 00h
+intitle:"Index Of" -inurl:maillog maillog size
+inurl:email filetype:mdb
+data filetype:mdb
+intitle:"Index Of" cookies.txt "size"
+inurl:backup filetype:mdb
+inurl:forum filetype:mdb
+intext:(password | passcode) intext:(username | userid | user) filetype:csv
+inurl:profiles filetype:mdb
+'"Novell, Inc" WEBACCESS Username Password "Version *.*" Copyright -inurl:help -guides|guide'
+ext:pwd inurl:(service | authors | administrators | users) "# -FrontPage-"
+("Indexed.By"|"Monitored.By") hAcxFtpScan
+filetype:cgi inurl:"Web_Store.cgi"
+ASP.login_aspx "ASP.NET_SessionId"
+"ASP.NET_SessionId" "data source="
+filetype:cgi inurl:"fileman.cgi"
+"Phaser 6250" "Printer Neighborhood" "XEROX CORPORATION"
+"PhaserÃƒâ€šÃ‚Â® 740 Color Printer" "printer named: "
+"Phaser 8200" "Ãƒâ€šÃ‚Â© Xerox" "refresh" " Email Alerts"
+"PhaserÃƒâ€šÃ‚Â® 840 Color Printer" "Current Status" "printer named:"
++"Powered by INDEXU" inurl:(browse|top_rated|power
+intitle:"index of" +myd size
+filetype:cnf my.cnf -cvs
+"index of" / picasa.ini
+"adding new user" inurl:addnewuser -"there are no domains"
+"sets mode: +s"
+intitle:"Live View / - AXIS"
+"sets mode: +p"
+"sets mode: +k"
+intitle:"BorderManager Information alert"
+"AnWeb/1.42h" intitle:index.of
+"CERN httpd 3.0B (VAX VMS)"
+"JRun Web Server" intitle:index.of
+"MaXX/3.1" intitle:index.of
+"Microsoft-IIS/* server at" intitle:index.of
+"Microsoft-IIS/4.0" intitle:index.of
+"Microsoft-IIS/5.0 server at"
+"Microsoft-IIS/6.0" intitle:index.of
+"OmniHTTPd/2.10" intitle:index.of
+"OpenSA/1.0.4" intitle:index.of
+"Red Hat Secure/2.0"
+"Red Hat Secure/3.0 server at"
+sEDWebserver * server +at intitle:index.of
+fitweb-wwws * server at intitle:index.of
+"httpd+ssl/kttd" * server at intitle:index.of
+"Internal Server Error" "server at"
+inurl:lilo.conf filetype:conf password
+filetype:php inurl:"logging.php" "Discuz" error
+intitle:"Microsoft Site Server Analysis"
+intitle:"Index of" passwords modified
+index.of.password
+"powered by webcamXP" "Pro|Broadcast"
+"ORA-12541: TNS:no listener" intitle:"error occurred"
+inurl:ssl.conf filetype:conf
+PHP application warnings failing "include_path"
+BEGIN (CERTIFICATE|DSA|RSA) filetype:key
+BEGIN (CERTIFICATE|DSA|RSA) filetype:csr
+e-mail address filetype:csv csv
+filetype:php login (intitle:phpWebMail|WebMail)
+"Powered by Invision Power Board(U) v1.3 Final"
+ACID "by Roman Danyliw" filetype:php
+intitle:"index of /phpmyadmin" modified
+inurl:"/database/comersus.mdb"
+"Powered by PHPFM" filetype:php -username
+intitle:"PHP Shell *" "Enable stderr" filetype:php
+"Your password is * Remember this for later use"
+intitle:"Page rev */*/*" inurl:"admin
+inurl:"ViewerFrame?Mode="
+sNC-RZ30 HOME
+intitle:flexwatch intext:"Home page ver"
+intitle:snc-z20 inurl:home/
+(intext:"MOBOTIX M1" | intext:"MOBOTIX M10") intext:"Open Menu" Shift-Reload
+intitle:"WJ-NT104 Main Page"
+filetype:php inurl:"webeditor.php"
+intext:"Warning: Failed opening" "on line" "include_path"
+intitle:"View and Configure PhaserLink"
+filetype:conf inurl:unrealircd.conf -cvs -gentoo
+"# Dumping data for table (username|user|users|password)"

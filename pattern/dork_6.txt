@@ -1,0 +1,100 @@
+"Lucee" "Error (expression)"
+intitle:"NETSurveillance WEB"
+intitle:"Success!" intext:"Your new web server is ready to use."
+inurl:/_vti_bin/Authentication.asmx
+inurl:/cgi-bin/login.html "qnap turbo nas"
+intitle:"Youless energy monitor" "Model" "Firmware" "www.youless.nl"
+inurl:/admin/AdminLogin.jsp intitle:"CERGY - Administration"
+intitle: "index of" "payment"
+intitle:"index of"
+intitle:"admin login"
+ext:txt intext:Windows PowerShell transcript start
+intitle:"WATASHI SERVICE"
+intext:" Design & Developed by Antique Touch - INDIA"
+intitle:"index of" "database.py"
+intitle|inurl::"IoT login"
+inurl: login.http
+intitle: "Index of ftp passwords"
+intitle:"Intelbras" "All Rights Reserved"
+intitle: "index of /files clients"
+companies\' service login Login Portal
+"Wowza Streaming Engine 4 Developer Edition"
+intext:"amcrest" "LDAP User"
+intitle|inurl:"SCADA login"
+inurl:*/phpmyadmin/server_import.php
+intext:"Welcome to Huawei web page for network configuration."
+intitle:"LiveZilla Server Page"
+inurl:*/phpmyadmin/import.php
+allinurl:logon.html CSCOE
+intext:Provided by ProjectSend
+intitle:"index of" "irc.log" | "irc.logs"
+intitle:"index of" "/usernames"
+intitle: index of /bin/php.ini
+Inurl: "login" Intitle:index of username and pass
+intitle:"Index of" service.pwd
+inurl:gov filetype:xls intext:password
+intitle:"index of" "/wp-content/uploads/"
+intitle:"index of" "/homedir/etc/"
+inurl:/admin.php inurl:admin
+inurl:wp-config.php.save
+intitle:"index of" "private/log"
+intitle:"index of" "/webpack-dev-server/ssl/"
+intitle:"index of" AND inurl:magento AND inurl:/dev
+inurl:/controlmenu.htm
+intitle:"Domain Default page" "Parallels IP Holdings GmbH"
+intitle:"Pyramid Debug Toolbar" inurl:_debug_toolbar
+intitle:"jaeger UI" inurl:trace
+inurl:quicklinks.aspx
+intitle:"nPerfServer"
+intitle:"CirCarLife Scada" inurl:/html/index.html
+intitle:"Codian MCU" "MCU" "Home Streaming Conferences"
+"enable secret 5" ext:txt | ext:cfg
+inurl:"admin/login"
+inurl:/controlmenu.htm
+intitle:"jaeger UI" inurl:trace
+intitle: "Index of" inurl:fileadmin
+" Stanford CoreNLP " "Visualisation provided using the brat visualisation"
+"enable secret 5" ext:txt | ext:cfg
+intitle:"Domain Default page" "Parallels IP Holdings GmbH"
+intitle:"nPerfServer"
+inurl:employee-login.html
+intitle:"STEP by STIBO Systems" "Launch STEPworkbench" "Web UI Component Report"
+intitle:"Login - splunk"
+intitle:"oracle login"
+intitle:"admin login"
+intitle:"login"
+intitle:"admin login"
+intitle:"yawcam" "It\'s a webcam!" "user" "pass"
+"Datamanager" "Devices" "Reports" "Alarm" "Log" "Service" "Gp Run-On"
+intitle:"ACEmanager" "ALEOS Version"
+intitle:"login" "Clare Controls LLC"
+intitle:"D-link" intext:"SharePort Web Access" "Hardware Version" "Firmware Version"
+intitle:"Device(Foscam)" "Real-time IP Camera Monitoring System"
+intitle:"JUNG KNX Smart-Panel" "JUNG Single Regular"
+inurl:destination=portals
+inurl:("administrator/login.php" OR "admin/login.php")
+intitle:"Bose SoundTouch Wi-Fi Music System Setup" inurl:"/setup/index.asp"
+intitle:"Zimbra Web Client Sign In" "Synacor"
+"Language" "SIM NUM" "DEV NUM" intitle:"mdvr"
+intext:"This page displays the general system information of the print server."
+allintext:adhaar filetype:xlsx
+intitle:"faculty login"
+Pages Containing Login Portals
+intitle:"index of" "schema.sql"
+inurl:("admin/password.php")
+intitle:"TestRail" inurl:"/index.php?/auth/login/"
+"Username" "Password" "This system is for authorized use only." intitle:"Gaia"
+intitle:"SoundTouch Access Point Setup"
+cms inurl:login
+intitle:"admin login"
+inurl: /ftp intitle:"office"
+"index of /" intext:wp-config "zip"
+inurl:login_fail.asp
+"Welcome to Polycom Web Configuration Utility" "Login as" "Password"
+inurl:login.action
+intitle:"MedDream" "Softneta"
+filetype:log username admin
+intitle:"Gitea" "This website works better with JavaScript" "sign in" " Home" "Explore"
+intitle:"faculty login"
+intitle:"D-LINK CORPORATION, INC" intext:"D-Link Corporation, Inc."
+"Router Name" "Router Model" "LAN MAC" "WAN MAC"

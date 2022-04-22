@@ -1,0 +1,100 @@
+intitle:"index of" "firewall.log" | "firewall.logs"
+allintext:"API_SECRET*" ext:env | ext:yml
+inurl:admin login
+intitle:"OpenWrt - LuCI" "Authorization Required"
+"Camera Live Image" inurl:"guestimage.html"
+intitle:"UPS Status" "Status" inurl:/host
+intitle:"webcam" inurl:login
+inurl:\'\'com_gmapfp\'\'
+intitle:"Login - OpenStack Dashboard" inurl:/dashboard/auth/login
+intitle:"index of" "/000~ROOT~000/"
+allintext:"redis_password" ext:env
+inurl:wp-content/plugins/wpdiscuz
+intitle:"Microsoft Internet Information Services 8" -IIS
+inurl:8081/ "Pan, Tilt & Zoom"
+"You have accessed a private computer system" inurl:login
+intitle:"Remote Desktop Web Connection" inurl:tsweb
+"HP LaserJet" inurl:"SSI/index.htm"
+"Reflector Dashboard" inurl:/db/index.php/
+inurl:wp-content/plugins/easy-media-gallery-pro
+"Share Link" inurl:/share.cgi?ssid=
+inurl:"/vam/index_vam_op.php"
+intext:"Frame rate" inurl:/home/homej.html
+"sap netweaver portal"
+inurl:wp-content/plugins/redirection
+intext:"login" intitle:"login"
+intitle:"index of" /lsass.exe
+inurl:wp-content/plugins/my-calendar
+Index of : wp-content/plugins/wpmudev-updates/
+intext:"Device Name" | intext:"Host Name" inurl:mainFrame.cgi
+inurl:/webconsole/webpages/login.jsp
+inurl:/home/homej.html
+intitle:"index of" jboss-service.xml
+intitle:"SFXAdmin" intext:"Login Form"
+inurl:wp-content/plugins/updraftplus
+intitle:ePMP 1000 intext:Log In
+inurl:axis-cgi/mjpg/video swf
+inurl:/+CSCOE+/logon.html?
+intext:"db_database" ext:env intext:"db_password"
+intext:ISUR_MACHINE IIS -log
+inurl:wp-content/plugins/safe-svg
+inurl:wp-content/plugins/email-subscribers
+intitle:"index of" /var/logs filetype:"log | txt | csv"
+inurl:axis-cgi/jpg
+inurl:"/general/status.html"
+inurl:wp-content/plugins/arforms
+inurl:/ViewerFrame? intitle:"Network Camera NetworkCamera"
+inurl:wp-content/plugins/iwp-client
+inurl:wp-content/plugins/sfwd-lms
+intitle:"index.of" +jmx-console
+inurl:index.php "Powered by PHP Server Monitor v3.1.1"
+Index: /wp-includes/Text/Diff
+inurl:wp-content/plugins/wpjobboard
+inurl:wp-content/plugins/lifterlms
+inurl:wp-content/plugins/async-javascript
+intitle:"Wing FTP Server - Web"
+inurl:wp-content/plugins/idx-broker-platinum
+inurl:wp-content/plugins/all-in-one-wp-migration
+inurl:wp-content/plugins/wd-google-maps
+allintext:username,password filetype:log
+inurl:wp-content/plugins/sendpress
+allintext:wp-content/plugins/angwp
+inurl:/seeyon/index.jsp
+inurl:wp-content/plugins/kingcomposer
+"login" intitle:"*payroll login"
+inurl:wp-content/plugins/knight-lab-timelinejs
+allintext: wp-content/themes/injob
+inurl:wp-content/plugins/wise-chat
+inurl /view.shtml intext:"Airport"
+inurl:wp-content/plugins/gravityforms
+inurl:wp-content/plugins/angwp
+inurl:/wp-content/plugins/angwp
+inurl:/wp-content/themes/realestate-7
+intitle:"SFXAdmin - sfx_global" intext:"Login Form"
+inurl:wp-content/plugins/angwp
+inurl:wp-content/themes/corona
+inurl:wp-content/plugins/knight-lab-timelinejs
+intitle:"Index of /" +.htaccess.old
+inurl:wp-content/plugins/form-maker
+inurl:wp-content/plugins/newsletter
+inurl:wp-content/plugins/wp-live-chat-support
+inurl:client_password=
+intitle:"index of" exception.log
+intitle:"report" ("Fortify" | "Web Inspect") filetype:pdf
+inurl:/opac/index.jsp
+intitle:"report" ("OpenVAS" | "Nikto") ext:pdf OR ext:html
+intitle:"index of /" +.htdocs
+"big-ip logout page" ext:php3
+"TOPdesk ApplicationServer" inurl:/index.jsp
+intitle:"Index of /" +.htaccess
+intitle:"index of" "/root/etc/security/"
+"login" intitle:"*reports login"
+intitle:"report" ("qualys" | "acunetix" | "nessus" | "netsparker" | "nmap") filetype:html
+inurl:wp-content/themes/sparky
+intitle:"Index of /" "joomla/database"
+allintext:wp-content/plugins/acf-to-rest-api
+inurl:wp-content/plugins/wpforms-lite
+inurl:wp-content/plugins/payment-form-for-paypal-pro
+inurl:wp-content/themes/careerup
+inurl:wp-content/themes/careerfy
+intitle:"index of" "tomcat-users.xml"

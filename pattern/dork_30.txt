@@ -1,0 +1,100 @@
+inurl:"q=user/password"
+inurl:/munin/localdomain/localhost.localdomain/open_files.html
+inurl:"?db_backup" | inurl:"dbbackup" "sql.gz" | "sql.tgz" | "sql.tar" | "sql.7z"
+inurl:"paypal" intitle:"index of" backup | db | access
+intitle:"index.of" inurl:"cvs" login | passwd | password | access | pass
+intitle:login laboratory | "nuclear" | physics "password" authentication
+inurl:revslider inurl:\'/revslider+port\'
+inurl:fisheye AND inurl:changelog -intext:"Log in to FishEye"
+inurl:"/wp-content/uploads/db-backup"
+"Powered by Apache Subversion version"
+intext:"this login can be used only once" inurl:user intitle:"reset password"
+intitle:"Login" inurl:"/itim/self" | inurl:"/itim/ui"
+filetype:(doc | docx) intext:"default password is"
+intext:mysql AND intext:password
+intitle:"Powered by Qualys SSL Labs"
+intext:"PuTTY log" ext:log "password"
+intitle:"apache tomcat/" + "Find additional important configuration information in:"
+intitle:"Index of" intext:"Login Data"
+inurl:"/App.Config" + ext:config + "password="
+intitle:"Statistics Report for HAProxy" + "statistics report for pid"
+"RDServer Product information" | inurl:"/rdagent.jsp"
+ext:txt {"wallet_address" :", "pool_address" : " ", "pool_password"
+intitle:"Apache2 Debian Default Page: It works"
+intitle:Upload inurl:/cgi-bin/filechucker.cgi
+inurl:..//drivers/etc/ intitle:index of
+intitle:Munin :: overview
+index of /node_modules/
+inurl:"mjpg/video.cgi?resolution="
+inurl:"/bigdump.php" + intitle:"BigDump ver."
+inurl:?wp-commentsrss2.php
+inurl:"servlet/ViewFormServlet?" "pwd"
+intitle:"BMC Remedy Mid Tier" "login"
+inurl:/.well-known/security.txt
+inurl:/mailscanner/login.php
+inurl:/daten/webyep-log.txt
+inurl:rvsindex.php & /rvsindex.php?/user/login
+intitle:"Open Source HRMS" intext:"powered by"
+inurl:default.aspx?ReturnUrl=/spssmr
+inurl:"/SAMLLogin/"
+inurl:"/user/register" "Powered by Drupal" -CAPTCHA -"Access denied"
+intext:build:SVNTag= JBoss intitle:Administration Console inurl:web-console
+Codeigniter filetype:sql intext:password | pwd intext:username | uname intext: Insert into users values
+"login" "adp login"
+intitle:"index.of" | inurl:/filemanager/connectors/ intext:uploadtest.html
+intitle:index.of inurl:/websendmail/
+:DIR | intitle:index of inurl://whatsapp/
+inurl:report.cgi?dashboard=
+intitle:"index.of" "places.sqlite" "key3.db"
+intitle:"index.of" "places.sqlite" "Mail" thunderbird
+inurl:"/Admin/Login?ReturnUrl="
+filetype:config "" "password" "web.config"
+"login" inurl:"account/auth"
+ext:ini Robust.ini filetype:ini "password"
+ext:adr adr filetype:adr "bookmarks.adr"
+inurl:":2083/login/?user="
+intitle:index.of home/000~root~000/
+intitle:"Index.Of.Applications (Parallels)"
+inurl:"config.xml" "password" ext:xml
+inurl:"/forgotpwd.jspx"
+inurl:"ssologin/"
+inurl:"cmd=auth?"
+inurl:"/initiatesso?providerid="
+"Oracle peoplesoft sign in" inurl:"cmd=login?"
+inurl:"/Setup/Default.aspx" "mojoPortal"
+inurl:"/startSSO.ping?"
+intitle:"Index Of" intext:".Trash"
+inurl:"databases.yml" ext:yml password
+intitle:"index.of.virtualbox"
+intext:"Powered by Nibbleblog"
+inurl:/host.txt + filetype:txt + "password"
+intitle:"Installing TYPO3 CMS"
+intitle:"Index Of" intext:".vscode"
+intext:"https://chat.whatsapp.com/invite/" intitle:"Your Search For Company/Subject/Whatever"
+"Declassified and Approved for Release by" filetype: pdf
+"login" intitle:"scada login"
+intitle:"index of /" inanchor:.kdbx
+intitle:"miniProxy"
+intitle:"Index of /logs/" "lighttpd"
+filetype:env intext:"APP_ENV"
+filetype:log inurl:"log" "[SERVER_SOFTWARE]"
+CakePHP inurl:database.php intext:db_password
+ext:php + inurl:"ajaxfilemanager.php" + intext:"Current Folder Path"
+CakePHP filetype:sql intext:password | pwd intext:username | uname intext: Insert into users values
+intitle:"Deluge: Web UI 1.3"
+intitle:"Deluge: Web UI" inurl:":8112"
+intext:database inurl:"laravel.log" ext:log
+intitle:"private login" username
+dwsync.xml intitle:index of
+allinurl:mc4wp-debug.log ext:log
+config.yaml intitle:"index of" vagrantfile
+inurl:intranet/login login
+intitle:"partners login"
+inurl:"login.php?referer=profile.php"
+intitle:"login credit" "login"
+intitle:"login form" "powered by"
+"department" | "agency" | "government" "intitle:"login form"
+"service" | "military" | "federal" "intitle:"login form"
+"login" "secure" "intitle:"online banking"
+intitle:"login" | intitle:"sign in" "member" "private" "admin" "club"
+intitle:"login" | intitle:"hospital" "patient" "clinic" "admin" "medical" "login"

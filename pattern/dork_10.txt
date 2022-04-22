@@ -1,0 +1,100 @@
+"citsmart.local"
+intitle:"index of" "google-services.json"
+inurl:/wp-content/uploads/ ext:txt "username" | "id" AND "password" | "pwd" | "pw"
+intitle:"Index of" ws_ftp.ini
+inurl:/net/net/protocol.html
+inurl:b2b/init.do
+intitle:"Web user login"
+intitle:"Sauter moduWeb - Login"
+intitle:"Index of" ws_ftp.ini
+intitle:"index of" "google-services.json"
+inurl:pas_set_menu.html
+inurl:/wp-content/uploads/wp-file-manager-pro
+intitle:"Saia PCD Web-Server"
+intitle:"Polycom Login"
+inurl:"/login.htm" "Hitron Technologies"
+intitle:"Properties - Xerox WorkCentre" "Machine Model:" "Machine Name"
+intext:"Your client connection" + "Network name" + "Hardware address"
+intitle:"UniFi Video" "login" "NVR"
+intitle:"NETSuveillance WEB"
+intitle:"Vodafone Vox UI" | intitle:"Residential Gateway Login"
+inurl:"/index.html" intitle:"Unitronics PLC"
+inurl:"/deltaweb/hmi_login.asp" intext:"login"
+inurl:"/intouch-base/rest/nlogin" intitle:"InTouch"
+inurl:m_login.htm "Somfy"
+intext:"Inserire il proprio codice per accedere al sistema" "Inserire codice"
+inurl:/javax.faces.resource/
+intitle:"openHAB" intext:"Welcome to openHAB" "Basic UI" "Paper UI"
+inurl:/guestimage.html
+inurl:/tcpipv6.htm
+inurl:CFIDE/adminapi
+inurl:plc/webvisu.htm intitle:"CoDeSys WebVisualization"
+inurl:"/lib/editor/atto/plugins/managefiles/" | inurl:"calendar/view.php?view=month"
+inurl:"telerik.web.ui.webresource.axd?type=rau"
+intitle:"Component Browser Login"
+"Parent Directory" AND "Index of" AND "config.php_old"
+inurl:/view/viewer_index.shtml
+inurl:set_config_networkIP.html
+inurl:Main_Login.asp AND intext:"Sign in with your ASUS router account"
+inurl:webdynpro/dispatcher
+inurl:"userimage.html" "Live" "Open"
+intitle:"webcamxp 5" intext: "live stream"
+inurl:template.gch "ZTE Corporation."
+intitle:"NUUO Network Video Recorder Login" "Language"
+intext:cv OR intext:curriculum vitae AND intext:"SSN" ext:doc
+inurl:/tcpipv4.htm
+intitle:"HD IP Camera" "Remember me" "User name" -pdf
+inurl:set_config_security.htm
+intitle:"ePMP 2000" "notifications" "Menu" -pdf
+intitle:"ContaCam" "Snapshot Image"
+intext:"helpdesk software provided by deskpro"
+inurl:pandora_console intitle:"Pandora FMS"
+inurl:ftp -inurl:(http|https) intext:"@gmail.com" intext:subject fwd|confidential|important|CARD|cvv
+inurl:/ics?tool=search
+inurl:"login.rsp" "Language"
+ext:xls | ext:xlsx (login | password | username)
+intitle:"Sign in to Cisco Finesse"
+inurl:/dana-na/auth/url_default/welcome.cgi "VPN"
+intitle:login
+intitle:"Remote UI: Login:" "System Manager ID:"
+intitle:"Advanced Setup - Security - Admin User Name & Password"
+intitle:"Keenetic Web"
+intitle:"Blue Iris Login"
+intitle:"Nordex Control" + "Wind Farm Total Summary"
+inurl:/main/main.html "Administrator Settings"
+inurl:/level/15/exec/-/ "Exec Configure"
+intitle:"index of" "secret.yaml"
+"Copyright(C) CONTEC CO.LTD"
+intitle:"Total Web Solutions" + "Meter Name"
+inurl:/calendar/calendar_form.php
+intitle:("WebRTU z2" | "WebRTU z1") -pdf
+intitle:"PowerLogic ION" + "Control" + "Diagnostic" + "Home" + "Maintenance" + "Monitoring"
+"public $user =" | "public $password = " | "public $secret =" | "public $db =" ext:txt | ext:log
+intitle:"index of" "application-users.properties" | "mgmt-users.properties" | "*standalone.xml"
+intitle:("OnCell Web Console" | "Series Web Console" | "-HSPA Series Web" | "-HSDPA Series Web") "MOXA OnCell" "Username :" "Password :" -pdf
+inurl:axis2-admin
+"Powered By Best Support System"
+inurl:"dcwp_twitter.php"
+Copyright Huawei Technologies co. Ltd "Account" "Password"
+"Username" "Password" "Please login to continue" intitle:"F670"
+"Username" "Password" "Please login to continue" intitle:"F660"
+intitle:"ZXHN H108N" intext:"Welcome to ZXHN H108N"
+inurl:simplesaml/module
+intitle:"Intelbras" inurl:cgi-bin/firmware.cgi?formNumber=200
+inurl:ui/login intitle:jfrog
+inurl:ushell/shells/abap
+intitle:"oracle business intelligence sign in"
+inurl:ejbexplorer
+intitle:"WEB LCT" intext:"Web local craft terminal"
+inurl:login.html intitle:"GPON Home Gateway"
+"-----BEGIN EC PRIVATE KEY-----" | " -----BEGIN EC PARAMETERS-----" ext:pem | ext:key | ext:txt
+intitle:"Radius Manager" intext:"Control Panel"
+inurl:ext/pwdreset
+"-----BEGIN PGP PRIVATE KEY BLOCK-----" ext:pem | ext:key | ext:txt
+inurl:"portal.mwsl" "Status"
+inurl:tcpconfig.html
+intitle:"D-LINK SYSTEMS, INC. | WIRELESS ROUTER | HOME" inurl:"status.php"
+intitle:"IP Webcam" inurl:"/greet.html"
+"Account" "Password" "All rights reserved" intitle:"HG8245"
+intitle:"D-LINK SYSTEMS, INC. | Web File Access : Login"
+inurl:index.php?s=/Admin/Public/login.html

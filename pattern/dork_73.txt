@@ -1,0 +1,1 @@
+"supplied argument is not a valid MySQL result resource"

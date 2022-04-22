@@ -1,0 +1,100 @@
+inurl:"com_koesubmit"
+inurl:add_soft.php
+"Powered by Absolute Podcast"
+"Copyright-2008@zeejobsite.com"
+inurl:"index.php?option=com_jp_jobs"
+index2.php?option=com_joomlaboard
+inurl:"cameralife/index.php"
+inurl:option=com_huruhelpdesk
+inurl:inc_membersareamanager.asp
+"Tanyakan Pada Rumput Yang Bergoyang"
+inurl:/component/jesectionfinder/
+intitle:phpMyAdmin
+inurl:"com_phocagallery"
+inurl:"member.php?page=comments"
+webboard question.asp QID
+inurl:"index.php?option=com_ponygallery"
+"PowerMovieList 0.14 Beta Copyright"
+"powered by MODx"
+"Powered by words tag script"
+FrontAccounting
+Powered by Egorix
+inurl:"kgb19"
+allinurl:buyer/index.php?ProductID=
+"powered by Sitellite"
+"Powered by Comdev News Publisher"
+Powered By: AJ Square Inc
+inurl:option=com_huruhelpdesk
+inurl:inc_securedocumentlibrary.asp
+Powered by Dolphin
+inurl:"php/showContent.php?linkid="
+sitou timou tumou tou
+inurl:index.php?option=com_lowcosthotels
+Vibro-School CMS by nicLOR.net
+"Absolute Poll Manager XE"
+Copyright 2010. Software Index
+inurl:"com_linkdirectory"
+inurl:com_manager
+"Developed by Infoware Solutions"
+allinurl:"verliadmin"
+"Powered by UNAK-CMS"
+inurl:"com_quickfaq"
+"Powered by EZCMS"
+inurl:index.php?menu=adorder
+allinurl:"com_accombo"
+"Powered by Scratcher"
+"Powered by How2asp"
+"Powered by PHPBasket"
+allinurl: op=viewslink&sid=
+"Powered by Dayfox Designs"
+"PHPNews Version 0.93"
+"/nuke/iframe.php"
+Sad Raven\'s Click Counter v1.0
+Powered by dB Masters\' Curium CMS 1
+Powered by XT-Commerce
+"Yogurt build"
+inurl:e107_plugins
+"Scientific Image DataBase"
+Powered by phpMyRealty
+"Powered by myUPB"
+inurl:"com_simpledownload"
+Powered by Flinx
+allinurl:"com_restaurante"
+Powered by MyHobbySite 1.01
+inurl:index.php?myPlantId=
+"powered by real-estate-website"
+"This site is powered by CMS Made Simple version 1.2.2"
+infusions/manuals/manuals.php?manual=
+allinurl:/modernbill/
+Powered by EasySiteNetwork
+inurl:"main_forum.php?cat="
+"eCommerce Engine © 2006 xt:Commerce Shopsoftware"
+intitle:"Powered by Open Bulletin Board"
+"My Photo v1.46.4 Â© Big Resources"
+Powered by Fantastic News v2.1.4
+Platform Dokeos 1.8.4 Â© 2007
+"Powered by iScripts SocialWare"
+Powered By eLitius 1.0
+inurl:"com_artlinks"
+inurl:com_djclassifieds
+inurl:ratelink.php?lnkid=
+Powered by: deonixscripts.com
+inurl:com_ybggal
+Powered By Power Editor
+"Powered by: eSmile"
+"advanced_search_results.php?gender="
+allinurl:"com_ahsshop"do=default
+inurl:com_ice "catid"
+Powered by ExoPHPDesk v1.2 Final.
+allinurl:spaw2/dialogs/
+Powered by eLitius Version 1.0
+"realizacja eCreo.eu"
+inurl:index.php?option=com_akobook
+inurl:"/CMS/page.php?p="
+Powered by CMScout (c)2005 CMScout Group
+intext:"© Tainos Webdesign"
+inurl:"com_virtuemart"
+"Powered by RW::Download v2.0.3 lite"
+index.php?option=com_swmenupro
+"Powered By OpenCart"
+Powered by eclime.com

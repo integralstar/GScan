@@ -1,0 +1,100 @@
+inurl:index.php?ini[langpack]=
+allinurl:"channel_detail.php?chid="
+inurl:apages.php
+"Designed & Developed by net-finity"
+intext:Powered by CPA Site Solutions
+ClearBudget v0.6.1
+inurl:func=selectcat + com_remository
+"ShopMaker v1.0"
+"Powered by jSite 1.0 OE"
+Powered by Online Email Manager
+"Web Site Design by Red Cat Studios"
+inurl:"webboard/view.php?topic="
+/index.php?option=com_restaurante
+inurl:"com_portfol"
+intitle:"DUcalendar 1.0"
+inurl:/infusions/e_cart
+allinurl:flashblog.html "flashblog"
+com_easybook
+inurl:index.php?option=com_nicetalk
+Powered by CMScout (c)2005 CMScout Group
+powered by minimal Gallery 0.8
+powered by sX-Shop
+inurl:"com_ignitegallery"
+inurl:com_brightweblinks
+Powered by odlican.net cms v.1.5
+Powered By form2list
+inurl:/_blogadata/
+SPBOARD v4.5
+inurl:com_jmarket
+inurl:com_jtickets
+inurl:"com_rwcards"
+"index.php?sbjoke_id="
+"This website was created with phpWebThings"
+inurl:questions.php?idcat
+photokorn 1.52
+Powered by SAPID CMF Build 87
+inurl:"directory.php?cat=" pubs
+inurl:"userjournals.php?blog."
+inurl:"com_youtube"
+inurl:"index.php?serverid="
+inurl:"com_photoblog"
+inurl:indexmess.php
+Powered by phpFaber URLInn. Copyright Â© 2004-2006 phpFaber
+inurl:com_joomradio
+inurl:com_jnewsletter
+inurl:inc_classifiedlistingsmanager.asp
+Powered by Online Guestbook Pro
+inurl:"track.php?id="
+inurl:com_jcommunity
+/modules/tadbook2/open_book.php?book_sn=
+\'\'links.asp?CatId\'\'
+inurl:"search_form.php?sb_showresult="
+Powered by boastMachine v3.1
+"index.php?section=post_upload"
+allinurl: In YoUr Dream Lamerz
+'Copyright 2007, PHPAUCTION.NET'
+Online Booking Manager2.2
+"cms SunLight 5.2"
+option=com_paxxgallery
+inurl:index.php?option=com_NeoRecruit
+"Powered by Battle Blog"
+inurl:"vcalendar_asp"
+inurl:"com_simpledownload"
+allinurl :"/modules/tutorials/"
+powered by joovili
+intext:Powered by SaphpLesson 4.0
+infusions/triscoop_race_system/race_details.php?
+intext:"Event List 0.8 Alpha by schlu.net "
+developed by ARWScripts.com
+"powered by CMS Made Simple version 1.1.2"
+inurl:"view.php?ItemID=" rating "rate this review"
+"Webdesign Cosmos Solutions"
+inurl:cal_cat.php?op=
+inurl:com_liveticker
+intext:"Powered by the 1-2-3 music store"
+?action=pro_show and ?action=disppro
+Powered by WebspotBlogging
+"powered by vsp stats processor"
+inurl:employer_profile.php?compid=
+inurl:com_awd_song
+"MangoBery 1.0 Alpha"
+inurl:view_group.php?id=
+allinurl: "index.php?p=gallerypic img_id"
+allinurl:com_jpad
+allinurl:"com_candle"
+"powered by FlatPress"
+inurl:ugroups.php?UID=
+allinurl:option=com_livechat
+Powered by phpMyDesktop|arcade v1.0 (final)
+inurl:com_products "intCategoryId"
+inurl:index.php?mod=jeuxflash
+inurl:"track.php?id="
+"Ladder Scripts by"
+"powergap" or "s04.php" or s01.php or s02.php
+"PKs Movie Database"
+inurl:enq/big.asp?id=
+allintext:"Powered By Buddy Zone"
+intext:" Website Design and Hosting By Netricks, Inc."
+com_thyme
+"PHP WEBQUEST VERSION " or inurl:"/phpwebquest/"

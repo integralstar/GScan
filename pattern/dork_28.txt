@@ -1,0 +1,100 @@
+filetype:txt "License Key"
+intitle:"index of /" intext:/descargas/
+intitle:"index of /" intext:/Download/
+intext:"Powered by Abyss Web Server"
+intitle:"index of" pagefile.sys
+intitle:index of /.sql.gz intext:/backup/
+inurl:/proc/tty/ index of
+inurl:/sample/LvAppl/lvappl.htm
+allinurl:control/multiview
+allinurl:DialogHandler.aspx
+intitle:"VertrigoServ" + "Welcome to VertrigoServ"
+intitle:"Swagger UI - " + "Show/Hide"
+inurl:/_vti_pvt/service.cnf | inurl:/_vti_inf.html | inurl:/_vti_bin/ | inurl:/_vti_bin/spsdisco.aspx
+intitle: "Welcome to nginx!" + "Thank you for using nginx."
+"vpnssl"
+intext:jdbc:oracle filetype:java
+intitle:" - Revision" + "subversion version"
+Index of /.svn
+inurl:"swagger-ui/index.html"
+intitle:livezilla "Server Time"
+intitle:"Sucuri WebSite Firewall - Access Denied"
+intext:"Powered by phpSQLiteCMS" | intitle:"phpSQLiteCMS - A simple & lightweight CMS"
+inurl:"/phpsqlitecms/cms/index.php"
+intitle:"SQLiteManager" + intext:"Welcome to SQLiteManager version "
+"This server is operated by OpenX."
+intitle:"docker" intitle:"index of" config
+inurl:wls-wsat intext:"weblogic.wsee.wstx.wsat"
+intext:"Resource dumped by" intext:jcr
+inurl:phpPgAdmin intext:"Cappuccino" | intext:"Blue/Green"
+inurl:filebrowser.wcgp?subDir Communigate
+ext:env intext:APP_ENV= | intext:APP_DEBUG= | intext:APP_KEY=
+inurl:/Portal/Portal.mwsl?PriNav=FileBrowser
+inurl:"/wp-json/"
+inurl:"/saml2?SAMLRequest="
+inurl:home.tcl intitle:gaia
+"[HKEY_CURRENT_USERSoftwareSimonTathamPuTTYSessions]" ext:reg
+inurl:"/uddiexplorer/searchpublicregistries.jsp"
+inurl="/uddiexplorer/SetupUDDIExplorer.jsp"
+intitle:login "recruiter" | "employer" | "candidate"
+filetype:reg reg HKEY_CURRENT_USER intext:password
+inurl:department intext:"hardware inventory" firewall router ext:(doc | pdf | xls| psw | ppt | pps | xml | txt | ps | rtf | odt | sxw )
+intext:"authentication" intranet password login inurl:account ext:(doc | pdf | xls| psw | ppt | pps | xml | txt | ps | rtf | odt | sxw | xlsx | docx | mail)
+inurl:login intext:"reset your password"
+intext:"Powered by Nesta"
+Coldbox | contentbox | commandbox "Powered by ContentBox"
+intext:(username | user | email | sign on | login | auth) admin dashboard | panel
+inurl:login.do? | shoplogin.do | adminlogin
+intext:"Powered by Typesetter"
+intext:"Powered by (Quantum | Quantum CMS | CMS)
+inurl:"Default+Administrator+View"
+inur:"arsys/forms" | "arsys/shared" | "/arsys/home"
+filetype:txt $9$ JunOS
+filetype:txt line vty 0 4
+'"ProQuest provides subscription access to numerous premium technical journals, dissertations and other information databases."'
+intext:"paytm" intitle:"index of"
+intitle:"Log in - WhatsUp Gold"
+intitle:"OAuth Server Login"
+inurl:"standalone.xml" intext:"password>"
+intext:Modified files in JOE when it aborted on JOE was aborted because the terminal closed
+intext:"please find attached" "login" | password ext:pdf
+intitle:Login inurl:login.php intext:admin/admin
+intext:"KRAB-DECRYPT.txt" intitle:"index of"
+intext:pure-ftpd.conf intitle:index of
+intext:my.cnf intitle:index of
+configuration> + filetype:config
+inurl:logs/gravityforms
+inurl:robots.txt intext:Disallow: /web.config
+/_wpeprivate/config.json
+intext:"Powered by Sentora"
+inurl:"build.xml" intext:"tomcat.manager.password"
+/var/www/manage/storage/logs/laravel- ext:log
+inurl:/yum.log | intitle:yum.log + ext:log
+intitle:"index of" intext:twr.html
+intitle:"index of" intext:login.csv
+inurl:/banking.jsp?fldsegment=
+inurl:/INALogin.jsp
+intext:ZAP Scanning Report Summary of Alerts ext:html
+inurl:"trello.com" and intext:"username" and intext:"password"
+inurl:/typo3/typo3conf
+inurl:/_hcms/
+intext:"define(\'DB_NAME\'," ext:txt
+intext:"class JConfig {" inurl:configuration.php
+intitle:backup+index of
+inurl:/wp-json/wp/v2/users/ "id":1,"name":"
+inurl:"wp-license.php?file=../..//wp-config"
+intext:"M3R1C4 SHELL BACKDOOR"
+intitle:"phpVirtualBox - VirtualBox Web Console"
+intext:"PHP Version " ext:php intext:"disabled" intext:"Build Date" intext:"System" intext:"allow_url_fopen"
+intext:"Build dashboard" intext:"Project" intext:"Plan" intext:"Build"
+"index of" "database.sql.zip"
+inurl:/wp-content/ai1wm-backups + wpress
+ext:ppk ssh key
+inurl:conf/tomcat-users.xml
+"index of" "database_log"
+inurl:/usersignin?
+inurl:"/gitweb.cgi?"
+inurl:elmah.axd intext:"Powered by ELMAH" -inurl:detail
+"index of" /wp-content/uploads/shell.php
+"File Manager - Current disk free"
+"Index of" "database.sql"

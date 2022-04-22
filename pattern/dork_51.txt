@@ -1,0 +1,100 @@
+PHPEmailManager
+"Powered by ExBB "
+"Powered by Locazolist Copyright © 2006"
+"txx cms"
+inurl:"printer.asp?forum="
+inurl:"com_ownbiblio" catalogue
+"CMS Webmanager-pro"
+inurl:"/geeklog/"
+inurl:/webCal3_detail.asp?event_id=
+inurl:classifieds/view.php?category=
+"Signkorn Guestbook 1.3"
+inurl:"powered by eggblog"
+"pForum 1.30"
+Powered By AJ Auction
+faqview.asp?key
+"Powered by: MFH v1"
+inurl:"com_beamospetition"
+"Powered By 4smart"
+inurl :/PhotoCart/
+"Powered by GetMyOwnArcade"
+Powered By : PersianBB.com
+"Powered by Simple PHP Text newsletter"
+allinurl: "com_estateagent"
+powered by Php Blue Dragon Platinum
+intitle:"A Better ASP User Gallery"
+"Powered by DZcms"
+inurl:"com_event"
+inurl:"/alternate_profiles/"
+"This website is powered by Mobius"
+intitle:WEBEYES GUEST BOOK inurl:.asp?id=
+"visiteurs v2.0"
+inurl:"com_portfol"
+"Powered by ZeeMatri"
+inurl:tr.php?id= Banner
+Powered By: 4images 1.7.1
+intext:"Powered by Max.Blog"
+intitle:USP FOSS Distribution
+inurl:"vbplaza.php?do="
+allintext:"Powered by: TotalCalendar"
+Powered by PHP Dir Submit - Directory Submission Script
+intitle:"MAXSITE"
+Power with ecsportal rel 6.5
+inurl:"list.php?c="
+Powered by YaBBSM V2.5.0 Based on YABB SE
+"Powered by YDC"
+Powered by emuCMS
+intitle:"Rx08.ii36B.Rv"
+intext:"Design by BB Media.Org"
+calendar.asp?eventdetail
+Powered by Multi Website 1.5
+Powered by iScripts VisualCaster
+"Powered by DesClub.com - phpLinkat"
+Powered by: Zanfi Solutions
+inurl:"com_equipment"
+"Everyone should be on TV! Now you can upload 2 TV"
+" created by creato.biz "
+"Powered by: Southburn"
+infusions/raidtracker_panel/thisraidprogress.php?
+inurl:"phpsecurepages"
+allinurl: "index.php?mod=galerie"action=gal
+Site créé avec GuppY v4.5.18 ©
+intext:"Powered by WSN Links Basic Edition"
+inurl:"/index.php?option=com_rsfiles"
+Powered By AstroSPACES
+Powered by FluentCMS
+inurl:dpage.php?docID
+inurl:"index.php?option=com_iproperty"
+"Powered by WebStudio eCatalogue"
+powered by JAF CMS © 2004 - 2006
+"Powered by NovaBoard v1.1.2"
+inurl:/downlot.php?file=
+inurl:"read.asp?fID="
+"Powered By The Black Lily 2007"
+inurl:"simpleblog3"
+allinurl:/m2f_usercp.php?
+powered by Dreampics Builder
+inurl:"classifide_ad.php"
+inurl:/jobsearchengine/
+allinurl:"com_n-gallery"
+inurl:com_pinboard
+"Â© 2005-2006 Powered by eSyndiCat Link Exchange Script"
+cat_sell.php?cid= or selloffers.php?cid=
+"Powered By Azadi Network"
+"Powered by i-pos Storefront"
+intitle:"ASP inline corporate calendar" inurl:.asp?id=
+inurl:friend.php?op=FriendSend
+inurl:com_gamesbox
+"Powered by INVOhost"
+"Powered by WebStudio eHotel"
+inurl:com_redshop
+"Powered by yacs"
+"(C) by CyberTeddy"
+"Powered by Shout!"
+"2007 BookmarkX script"
+Doop CMS
+"powered by sazcart"
+inurl:com_community
+allinurl:"/questcms/"
+inurl:news.php?mode=voir
+" Powered by Pie Cart Pro "

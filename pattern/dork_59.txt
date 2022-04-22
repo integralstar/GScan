@@ -1,0 +1,100 @@
+"Powered by sendcard - an advanced PHP e-card program"
+"powered by xmb"
+"powered by minibb forum software"
+inurl:eStore/index.cgi?
+ext:php intext:"$dbms""$dbhost""$dbuser""$dbpasswd""$table_prefix""phpbb_installed"
+intitle:"Login to @Mail" (ext:pl | inurl:"index") -dwaffleman
+'(intitle:"SilkyMail by Cyrusoft International, Inc'
+"SurgeMAIL" inurl:/cgi/user.cgi ext:cgi
+inurl:"login="
+FlashChat v4.5.7
+intitle:index.of.config
+allintitle:"DVR login"
+intitle:"stingray fts login" | ( login.jsp intitle:StingRay )
+intitle:Ampache intitle:"love of music" password | login | "Remember Me." -welcome
+allintitle: EverFocus | EDSR | EDSR400 Applet
+allintitle:Edr1680 remote viewer
+allintitle: EDR1600 login | Welcome
+allintitle: EDR400 login | Welcome
+intitle:"Divar Web Client"
+intitle:"Live View / - AXIS" | inurl:view/view.shtml OR inurl:view/indexFrame.shtml | intitle:"MJPG Live Demo" | "intext:Select preset position"
+allintitle: Axis 2.10 OR 2.12 OR 2.30 OR 2.31 OR 2.32 OR 2.33 OR 2.34 OR 2.40 OR 2.42 OR 2.43 "Network Camera "
+intitle:"BlueNet Video Viewer"
+intitle:"SNC-RZ30"
+intitle:"Apache Tomcat" "Error Report"
+"powered by ubbthreads"
+"powered by pppblog v 0.3.(.)"
+Copyright . Nucleus CMS v3.22 . Valid XHTML 1.0 Strict . Valid CSS . Back to top
+"Powered by PHP-Fusion v6.00.110" | "Powered by PHP-Fusion v6.00.2.." | "Powered by PHP-Fusion v6.00.3.." -v6.00.400
+intitle:"XOOPS Site" intitle:"Just Use it!" | "powered by xoops (2.0)|(2.0.....)"
+inurl:wp-login.php +Register Username Password "remember me"
+intitle:"BadBlue: the file-sharing web server anyone can use"
+allinurl:tseekdir.cgi
+intitle:"Veo Observer XT" -inurl:shtml|pl|php|htm|asp|aspx|pdf|cfm -intext:observer
+(intitle:(EyeSpyFX|OptiCamFX) "go to camera")|(inurl:servlet/DetectBrowser)
+intitle:"X7 Chat Help Center" | "Powered By X7 Chat"
+inurl:cgi-bin/guestimage.html
+intext:"This site is using phpGraphy" | intitle:"my phpgraphy site"
+intext:"Powered by PCPIN.com"
+intitle:r57shell
+intitle:"iGuard Fingerprint Security System"
+inurl:"php121login.php"
+intitle:("TrackerCam Live Video")|("TrackerCam Application Login")|("Trackercam Remote")
+"The statistics were last updated" "Daily"
+(intitle:"Please login - Forums powered by WWWThreads")|(inurl:"wwwthreads/login.php")|(inurl:"wwwthreads/login.pl?Cat=")
+(intitle:"rymo Login")|(intext:"Welcome to rymo")
+intitle:"Employee Intranet Login"
+inurl:"/slxweb.dll/external?name=(custportal|webticketcust)"
+intitle:"Uploader - Uploader v6"
+intitle:"Apache Status" "Apache Server Status for"
+"SquirrelMail version" "By the SquirrelMail Development Team"
+(intitle:"Please login - Forums powered by UBB.threads")|(inurl:login.php "ubb")
+intitle:"TWIG Login"
+intitle:IMP inurl:imp/index.php3
+(intitle:"SHOUTcast Administrator")|(intext:"U SHOUTcast D.N.A.S. Status")
+intitle:"SHOUTcast Administrator" inurl:admin.cgi
+intext:"Target Multicast Group" "beacon"
+intitle:"Device Status Summary Page"
+(intitle:"WmSC e-Cart Administration")|(intitle:"WebMyStyle e-Cart Administration")
+intitle:"eXist Database Administration"
+inurl:database.php | inurl:info_db.php ext:php "Database V2.*" "Burning Board *"
+"Warning: Division by zero in" "on line"
+"Warning: mysql_connect(): Access denied for user: \'*@*" "on line"
+"Warning:" "failed to open stream: HTTP request failed" "on line"
+"You have not provided a survey identification num
+"Warning: Bad arguments to (join|implode) () in" "on line"
+"This script was created by Php-ZeroNet" "Script . Php-ZeroNet"
+"Unable to jump to row" "on MySQL result index" "on line"
+intitle:"HelpDesk" "If you need additional help, please email helpdesk at"
+intitle:"MvBlog powered"
+"powered by active php bookmarks" | inurl:bookmarks/view_group.php?id=
+Please enter a valid password! inurl:polladmin
+inurl:resetcore.php ext:php
+(intitle:MOBOTIX intitle:PDAS) | (intitle:MOBOTIX intitle:Seiten) | (inurl:/pda/index.html +camera)
+intitle:"IVC Control Panel"
+"powered by sphider"
+"by Reimar Hoven. All Rights Reserved. Disclaimer" | inurl:"log/logdb.dta"
+inurl:"extras/update.php" intext:mysql.php
+inurl:sysinfo.cgi ext:cgi
+inurl:perldiver.cgi ext:cgi
+inurl:tmssql.php ext:php mssql pear adodb -cvs -akbk
+"powered by php photo album" | inurl:"main.php?cmd=album"
+intext:"2000-2001 The phpHeaven Team"
+"powered by phplist" | inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe"
+inurl:server.php ext:php intext:"No SQL" -Released
+intitle:PHPOpenChat inurl:"index.php?language="
+inurl:/counter/index.php intitle:"+PHPCounter 7.*"
+intext:"2000-2001 The phpHeaven Team"
+"2004-2005 ReloadCMS Team."
+"powered by claroline"
+"PhpCollab . Log In" | "NetOffice . Log In" | (intitle:"index.of." intitle:phpcollab|netoffice inurl:phpcollab|netoffice -gentoo)
+intext:"Powered by Plogger!"
+intext:"powered by gcards"
+"Powered by XHP CMS"
+"powered by php"
+"powered by guestbook script"
+WEBalbum 2004-2006 duda
+inurl:*.exe ext:exe inurl:/*cgi*/
+intitle:"EZPartner"
+inurl:2000 intitle:RemotelyAnywhere
+intitle:"LOGREP - Log file reporting system"

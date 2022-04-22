@@ -1,0 +1,100 @@
+intitle:"index of" "web.config.txt"
+inurl:/wp-admin/maint/repair.php intext:"define(WP_ALLOW_REPAIR,true);"
+inurl:/wp-includes/Requests/php_errorlog
+inurl:/account/preferences
+"Powered by vBulletin Version 5.5.4"
+inurl:/request-password-reset
+inurl:/cgi-sys/defaultwebpage.cgi intext:"SORRY!"
+inurl:/dana-na/ filetype:cgi
+inurl:/wp-settings.php
+intext:Powered By vBulletin 5.5.4 inurl:forum.
+inurl:/wp-admin/install.php intitle:WordPress Installation
+inurl:/wp-admin/install.php intitle:WordPress Installation
+inurl:/cgi-sys/suspendedpage.cgi intitle:"Account Suspended"
+inurl:/logs/error.log
+inurl:/server-status intext:"Apache server status for"
+intitle:index.of "users.db"
+inurl:/conf/httpd.conf
+inurl:credentials.txt
+inurl:/pwdform.htm
+inurl:/oauth2/authorize
+indexof:backup/web.config
+intitle:index.of "admin" filetype:sql
+intitle:index.of "admin.db"
+inurl:webmail/src/login.php
+inurl:ftp* index of: manifest.xml
+intitle:"reset password"
+indexof:backup/mysql
+index.of "crossdomain.xml"
+inurl:"/prweb/prwebLDAP1/"
+"contrasena" filetype:sql
+inurl:/Shibboleth.sso/SAML2/POST
+intitle:"login" inurl:welcome*
+inurl:"index.php?db="
+intitle:"index of" inurl:/*sql* filetype:log
+indexof:.htaccess
+inurl:/authzssl/forget_password
+intitle:"index of" "debian.conf"
+inurl:/casAuthn/login.php
+intitle:"index of" "/mysql.log"
+inurl:/application/config/database.php*
+inurl:/404/404.html intitle:"404"
+inurl:/authUpdate intitle:"Account Access Help"
+intitle:index.of./.htaccess
+inurl:/index_signin.php
+intitle:"openshift web console" inurl:console inurl:/console
+inurl:cpanel* intitle:"login"
+intext:"Please log on to use the mikrotik hotspot service" intitle:"mikrotik hotspot >login"
+inurl:"/usp-core/app/authUpdate"
+inurl:/sitemap/sitemap.xml
+inurl:"/phpmyadmin/user_password.php"
+inurl:/nms/login intitle:"UNMS"
+inurl:/_vti_txt*
+inurl:wp-content intext:backup-db
+inurl:ftp* index of /ftp/backup
+"Scanned by Camscanner" filetype:pdf
+intitle:"XENON :: Login"
+inurl:"/SecureAuth.aspx"
+inurl:/wp-admin/includes/plugin-install.php
+inurl:/recover-pass
+inurl:/scgi-bin*
+inurl: /upload.php intitle:index of
+inurl:show_port_res_settings
+intitle:login enterprise
+inurl:/awcuser*
+inurl:/remote* intitle:"User Authentication"
+inurl:/owa/
+inurl:/database* ext:sql intext:index of
+inurl:admin/data* intext:index of
+inurl:/forgot-password
+inurl:/signin
+inurl:/resetpassword.php
+inurl: /config.txt ext:txt intext:
+inurl:":8000/login#forgot" intitle:"login"
+inurl:/password_reset/
+inurl:admin/changepassword*
+inurl:/admin/ intitle:index.of
+inurl:/SendPassword
+inurl:/iisstart.htm intitle:"IIS7"
+inurl:/updatepassword.php
+inurl:/validar_usuario.php
+inurl:/phpmyadmin/changelog.php
+intitle:"Login to Webmin" intext:"You must enter a username and password to login to the server"
+inurl:/exchange-login/ intitle:"Login"
+inurl:/authlogin/ intitle:login
+inurl:/securelogin.asp
+inurl:/Security/Login
+intext:"@gmail.com" intext:"password" inurl:/files/ ext:txt
+inurl:/m-login.html
+inurl:/user/password/
+inurl:/robots.txt intext:User-agent:
+inurl:/phpMyAdmin/robots.txt
+intitle:"OpenNMS web console" inurl:opennms/index.jsp
+inurl:zabbix/zabbix.php
+inurl:/index.php/admin/ intitle:"login"
+inurl:/admincp/ intitle:"Admin Cp"
+intitle:"index of" "ftp.passwd"
+intitle:"index of" /config.ini
+intitle:index.of.?.login
+inurl:/wordpress/wordpress.bak/
+inurl:/identify/ intitle:"Forgotten Password"

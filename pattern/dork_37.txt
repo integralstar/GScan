@@ -1,0 +1,100 @@
+"powered by joomla 3.2" OR "powered by joomla 3.3" OR "powered by joomla 3.4"
+intitle:index.of inurl:grades
+intitle:index.of parent inurl:repos
+inurl:etc -intext:etc ext:passwd
+inurl:webgps intitle:"GPS Monitoring System"
+filetype:log intext:password | pass | pw
+"My Documents" "parent" intitle:index.of
+"Desktop" parent intitle:index.of
+inurl:cgi-bin/webproc?getpage=
+"sql" "parent" intitle:index.of -injection
+inurl:.listing intitle:index.of
+inurl:.DS_Store intitle:index.of
+inurl:/aspnet_client/system_web/
+private parent intitle:index.of
+inurl:users intitle:index.of
+mail spool intitle:index.of
+inurl:/my.logon.php3?
+intitle:Parallels Plesk Panel for Microsoft Windows /login_up.php3
+inurl:"/web-console/" intitle:"Administration Console"
+inurl:webvisu.htm ext:htm
+inurl:agc/vicidial.php
+inurl:axis.cgi ext:cgi
+inurl:imapuser Mail :: Welcome to Horde imp login.php password
+intitle:Global Traffic Statistics "Ntop"
+intitle:Oracle PeopleSoft Sign-in "Oracle" Sign-in "error"
+inurl:printer/main.html
+inurl:"default.php" intext:"website" "has been successfully installed on the server!"
+intitle:Content Server Error IdcService=DOC_INFO
+inurl:sh3llZ/c99/
+intitle:"WebService Web Service" ext:asmx
+intitle:"Whoops! There was an error."
+inurl:"remote.php/webdav"
+intitle:"Index.of" "attachments"
+ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini
+intitle:"Index of" "WhatsApp Databases"
+intitle:Logon OrderCloud ui/logon.aspx
+inurl:"/wap/LoginPolicy.jsp"
+intitle:"IPCam" inurl:monitor2.htm
+inurl:xampp inurl:perlinfo.pl ext:pl
+ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup
+inurl:browse.php inurl:kcfinder
+"ganglia mobile.php"
+inurl:"/cms/app/webroot"
+intitle:Error-javax.el.ELException+error+xhtml
+intitle:Error Page pageWrapper.jsp?
+intitle:IBM Lotus iNotes Login
+inurl:src/viewcvs.cgi/log/.c?=
+inurl:"faculty_login.asp | .php"
+intitle:"Index of" "WhatsApp Images"
+inurl:/set_config_password.html
+inurl: mil|/issue.php filetype:xls
+intext:"Unexpected Problem Occurred!" ext:aspx
+intitle:"Index of" "DCIM"
+intitle:SN0X SHELL: WEEEEEEEEEEEEEEEEED
+filetype:pac inurl:"/proxy"
+inurl:"/squid-reports/" AND intitle:"SARG reports"
+intitle:"hp laserjet" inurl:SSI/Auth/set_config_deviceinfo.htm
+intext:/homedir/.cpanel-datastore/
+intext:bbdd index.of "/" "Parent Directory"
+inurl:cgi-bin ext:pl intext:"-rwxr-xr-x"
+allinurl:wp-content/plugins/wptf-image-gallery/
+inurl:/plugins/aviary-image-editor-add-on-for-gravity-forms/
+inurl:/wp-content/plugins/inboundio-marketing/
+intext:index of sym
+intext:"Full path to a .htpasswd file in this dir:" filetype:php
+allinurl:foldercontent.html?folder=
+inurl:wp-admin/admin-ajax.php inurl:wp-config.php
+intext:@pwcache "parent directory"
+intitle:"InterWorx-CP" "Forgot your password"
+inurl:login.aspx | .asp | .html | .php | .htm
+inurl:EndUserPortal.jsp
+allinurl:awstats.pl ext:pl
+inurl:"index.php" intext:"ApPHP Hotel Site"
+inurl:courier/web/ inurl:wmLogin.html filetype:html
+intitle:index.of.pubs
+inurl:"/certsrv" intext:"Select a task"
+inurl:access.cnf ext:cnf
+intext:OLD_FOREIGN_KEY_CHECKS"; = ext:txt
+phpMyAdmin SQL Dump
+intitle:"Index of" "wwwroot"
+"Futon on Apache" inurl:_utils
+inurl:Citrix/MetaframeXP
+"signons.sqlite" intitle:"index of"
+'ext:asp intext:Smart.Shell 1.0 BY P0Uy@_$3r\/3R -'
+filetype:asmx inurl:(_vti_bin|api|webservice)
+Auth inurl:welcome ext:cgi
+intitle:"Index Of" intext:"iCloud Photos" OR intext:"My Photo Stream" OR intext:"Camera Roll"
+intitle:"index of" inurl:"no-ip.com"
+intitle:"Index of" "mail" "Inbox" "Sent"
+filetype:pcf vpn OR Group
+intitle:"index of" "fic" "ndx"
+inurl:private_files
+intitle:"index of" "onetoc2" "one"
+inurl:/dbg-wizard.php
+intext:DB_PASSWORD ext:env
+intitle:"index of" "archive.pst" -contrib
+inurl:wp-admin/ intext:css/
+inurl:/wp-admin/post.php?post=
+inurl:/graphs/ intitle:RouterOs
+filetype:pub inurl:ssh

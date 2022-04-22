@@ -1,0 +1,100 @@
+"powered by Gallery v" "[slideshow]"|"images" inurl:gallery
+intitle:"Backup-Management (phpMyBackup v.0.4 beta * )"
+"maxwebportal" inurl:"default" "snitz forums" +"homepage"
+"Powered by AzDg" (2.1.3 | 2.1.2 | 2.1.1)
+intitle:"Content Management System" "user name"|"password"|"admin" "Microsoft IE 5.5"
+"Powered by: Land Down Under 800" | "Powered by: Land Down Under 801" - www.neocrome.net
+"Powered by Monster Top List" MTL numrange:200-
+"login prompt" inurl:GM.cgi
+"e107.org 2002/2003" inurl:forum_post.php?nt
+filetype:dat inurl:Sites.dat
+intext:"enable password 7"
+"Warning:" "Cannot execute a blank command in"
+"Mail-it Now!" intitle:"Contact form" | inurl:contact.php
+"Powered by and copyright class-1" 0.24.4
+"Powered by Xcomic"
+rdbqds
+"Software PBLang" 4.65 filetype:php
+intitle:"NetCam Live Image"
+"Calendar programming by AppIdeas.com" filetype:php
+"Powered by MD-Pro" | "made with MD-Pro"
+inurl:chitchat.php "choose graphic"
+ext:inc "pwd=" "UID="
+intitle:"Content Management System" "user name"|"password"|"admin" "Microsoft IE 5.5"
+intext:"Master Account" "Domain Name" "Password" inurl:/cgi-bin/qmailadmin
+intitle:"web-cyradm"|"by Luc de Louw" "This is only for authorized users"
+"You have requested to access the management functions"
+"Please authenticate yourself to get access to the management interface"
+"Powered by FUDForum 2.6"
+intitle:guestbook inurl:guestbook "powered by Adva
+"Powered by FUDForum 2.7"
+phpLDAPadmin intitle:phpLDAPadmin filetype:php inurl:tree.php | inurl:login.php | inurl:donate.php (0.9.6 | 0.9.7)
+inurl:csCreatePro.cgi
+intitle:"INTELLINET" intitle:"IP Camera Homepage"
+contacts ext:wml
+"powered by ITWorking"
+"Powered by Zorum 3.5"
+intitle:iDVR -intitle:"com | net | shop" -inurl:"asp | htm | pdf | html | php | shtml | com | at | cgi | tv"
+intitle:"admin panel" +"Powered by RedKernel"
+"There seems to have been a problem with the" " Please try again by clicking the Refresh button in your web browser."
+intitle:MyShell 1.1.0 build 20010923
+intitle:"AlternC Desktop"
+"inspanel" intitle:"login" -"cannot" "Login ID"
+"HostingAccelerator" intitle:"login" +"Username"
+intitle:"xams 0.0.0..15 - Login"
+intitle:%22Network+Storage+Link+for+USB+2.0+Disks%22+Firmware&num=100&hl=en&lr=&c2coff=1&safe=off&filter=0
+intitle:"curriculum vitae" filetype:doc
+intitle:communigate pro entrance
+inurl:index.php fees shop link.codes merchantAccount
+intitle:phpnews.login
+intitle:"blog torrent upload"
+intitle:"Cisco CallManager User Options Log On" "Please enter your User ID and Password in the spaces provided below and click the Log On button to co
+"Powered by FunkBoard"
+intitle:"V1" "welcome to phone settings" password
+intitle:"HP ProCurve Switch *" "This product requi
+"Powered by Gravity Board"
+"Powered by SilverNews"
+PHPFreeNews inurl:Admin.php
+inurl:nquser.php filetype:php
+"Powered By: Simplicity oF Upload" inurl:download.php | inurl:upload.php
+"Powered by FlexPHPNews" inurl:news | inurl:press
+"Summary View of Sensors" | "sensorProbe8 v *" | "
+ext:(doc | pdf | xls | txt | ps | rtf | odt | sxw | psw | ppt | pps | xml) (intext:confidential salary | intext:"budget approved") inurl:confidential
+[WFClient] Password= filetype:ica
+filetype:mdb "standard jet" (password | username | user | pass)
+inurl:"default/login.php" intitle:"kerio"
+"This section is for Administrators only. If you are an administrator then please"
+intitle:"Member Login" "NOTE: Your browser must have cookies enabled in order to log into the site." ext:php OR ext:cgi
+intitle:"TANDBERG" "This page requires a frame capable browser!"
+intitle:"Middle frame of Videoconference Management System" ext:htm
+intitle:"Veo Observer Web Client"
+intitle:"TOPdesk ApplicationServer"
+intitle:"Welcome to Mailtraq WebMail"
+intitle:"Java Applet Page" inurl:ml
+intitle:"WEBDVR" -inurl:product
+allinurl:cdkey.txt
+intitle:"pictures thumbnails"
+"You have requested access to a restricted area of our website. Please authenticate yourself to continue."
+"powered by PhpBB 2.0.15"
+filetype:PS ps
+tilt intitle:"Live View / - AXIS" | inurl:view/view.shtml
+"set up the administrator user" inurl:pivot
+inurl:cgi-bin inurl:calendar.cfg
+inurl:"/login.asp?folder=" "Powered by: i-Gallery 3.3"
+intext:"Calendar Program Ãƒâ€šÃ‚Â© Copyright 1999 Matt Kruse" "Add an event"
+intitle:"Login to Cacti"
+intext:"Powered By: Snitz Forums 2000 Version 3.4.00..03"
+filetype:QBW qbw
+"html allowed" guestbook
+intext:"Powered by flatnuke-2.5.3" +"Get RSS News"
+intitle:"AXIS 240 Camera Server" intext:"server push"
+inurl:textpattern/index.php
+intitle:"XMail Web Administration Interface" intext:Login intext:password
+inurl:"CgiStart?page="
+intitle:"GCC WebAdmin"
+printers/printman.html
+intitle:"configuration" inurl:port_0
+intitle:"Dell Laser Printer M5200" port_0
+"RICOH Network Printer D model-Restore Factory"
+intitle:"XcAuctionLite" | "DRIVEN BY XCENT" Lite inurl:admin
+inurl:"S=320x240" | inurl:"S=160x120" inurl:"Q=Mob

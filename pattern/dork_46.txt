@@ -1,0 +1,100 @@
+"All Rights Reserved. Powered by DieselScripts.com"
+intitle:Web Calendar system v 3.40 inurl:.asp
+inurl:index.php?option=com_noticia
+inurl:guestbook.php "Advanced GuestBook" "powered by phpbb"
+inurl:index.php?option=com_portfolio
+allinurl:"/ubbthreads/"
+"powered by zomplog"
+inurl:"/cgi-bin/ourspace/"
+inurl:index.php?option=com_joomradio
+"Powered by xeCMS"
+Power by PHP Classifieds
+"powered by clipshare"
+inurl:"com_dailymeals"
+inurl:"/k12.tr/?part="
+inurl:"com_clan"
+"Powered by WSN Guest"
+allinurl: com_paxxgallery "userid"
+inurl:"index2.php?option=rss" OR "powered By Limbo CMS"
+"Powered by ezContents Version 1.4.5"
+powered by CMSbright Â© websens
+allinurl: com_quiz"tid"
+inurl:"com_biographies"
+inurl"com_gurujibook"
+inurl:/system/article/alltopics.php OR inurl:/system/user/index.php
+Realizzato con WSC CMS by Dynamicsoft
+"Powered by Knowledge Base"
+allinurl:"com_extcalendar"
+intitle:"Jax Formmailer - Administration"
+Powered by: Linkarityâ
+inurl:index.php?option=com_yanc
+allinurl: "index.php?p=gallerypic img_id"
+inurl:classified.php phpbazar
+intext:"Powered by Firebrand Technologies"
+"Designed and Developed by Debliteck Ltd"
+Supernews 2.6
+"powered by ezUserManager"
+Powered by: PreProjects
+allintitle: "MCgallery 0.5b"
+TRUC 0.11.0 :: Â© 2006 by ASDIS :
+contact_frm.php
+Powered by Natterchat v1.12
+"Instant Free File Uploader"
+Powered by Webiz inurl:\'wmt/webpages
+"Powered by xchangeboard"
+allinurl: com_mcquiz "tid"
+inurl:"com_productbook"
+inurl: "com_alphacontent"
+"Powered by: PreProjects"
+"Powered by SoftbizScripts" inurl:store_info.php
+inurl:"com_avosbillets"
+"Powered By Aardvark Topsites PHP 4.2.2"
+inurl:"com_projectfork"
+intext:"Powered by PHPCityPortal.com"
+intitle:"jGallery"
+"Powered by Download 3000"
+intitle:"zFeeder admin panel"
+Powered by WebStudio
+inurl:"select_file2.php"
+"powered by Gradman"
+"Designed and Developed by Debliteck Ltd"
+"Powered by mlffat"
+inurl:"/squirrelcart/"
+Engine powered by easyLink V1.1.0.
+allintext: "This site is powered by IndexScript"
+Â©2005 Ocean12 Technologies. All rights reserved
+"powered by PassWiki"
+"software 2004-2005 by randshop"
+"powered by phpEmployment"
+inurl:"wp-download.php?dl_id="
+"© 2004 PHPKick.de Version 0.8"
+"Powered by VS PANEL"
+"powered by phpmydirectory" OR intext:"2001-2006 phpMyDirectory.com"
+intext:"Kalimat news system v 1.0"
+Powered by: PhotoPost PHP 4.6
+"Powered by Maian Recipe v1.0"
+"Powered by CommonSense CMS"
+"Eyeland Studio Inc. All Rights Reserved." inurl:game.php
+"powered by Pagetool"
+powered by jshop
+/modules/mx_links/
+inurl:"?pageNum_RSnews"&view
+inurl:index.php?option=com_directory
+"Powered By DynamicPAD"
+"Powered by : elkagroup.com"
+"com_joom12pic"
+"Starting bid" "Powered by SoftbizScripts"
+'"Liberum Help Desk, Copyright (C) 2001 Doug Luxem. Please view the license'
+allinurl:"jokes.php?catagorie="
+"Created by weenCompany"
+intext:"Powered by eStore v1.0.2"
+"Powered by: Elite Gaming Ladders v3.2"
+php-addressbook v3.1.5
+"Powered by ParsBlogger"
+intitle:"vrnews v1"
+inurl:"customer_testimonials.php"
+"Powered by Espinas IT"
+"Powered by iNetScripts"
+Maintained with the Ocean12 Poll Manager Pro v1.00
+allinurl: "com_glossary"
+"© 2009 Azimut Technologie"

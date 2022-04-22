@@ -1,0 +1,100 @@
+All right reserved 2002-2003 (MSN/Web Server Creator)
+"Powerd by www.e-webtech.com"
+powered by PhpMesFilms
+"Internet Photoshow - Slideshow"
+inurl:choosecard.php?catid=
+"Powered by Real Estate Portal"
+inurl:browsecats.php?cid=
+inurl:com_mdigg
+inurl:trr.php?id=
+inurl:"kroax.php?category"
+"Powered by Reciprocal Links Manager"
+intext:"Powered by eDocStore"
+Powered by AM4SS 1.0
+"Powered by AlstraSoft SendIt Pro"
+inurl:com_content
+inurl:"index.php?option=com_huruhelpdesk"
+Powered by Article Directory
+"Copyright 2005 Affiliate Directory"
+inurl:"index.php?option=com_bookjoomlas"
+DevMass Shopping Cart
+inurl:index.php?option=com_allhotels
+"powered by aflog"
+inurl:"index.php?option=com_simplefaq"
+inurl:couponsite/index.php?page=
+inurl:"directory.php?ax=list" gaming
+"script by RECIPE SCRIPT"
+inurl:"index.php?option=com_jobline"
+Dosya Yukle Scrtipi v1.0
+allinurl: modules-php-op-modload "req view_cat"
+"Powered by Absolute File Send"
+inurl:wapmain.php?option=
+allinurl:"com_na_content"
+inurl:"com_jcalpro"
+Powered by Webiz
+inurl:category.php?cate_id=
+CaLogic Calendars V1.2.2
+"Powered by Rock Band CMS 0.10"
+Copyright Acme 2008
+"Creative Guestbook"
+"DeeEmm CMS"
+powered by vBulletin 4.0.4
+"Vivid Ads Shopping Cart"
+inurl:"/rbfminc/"
+intext:Powered by AWCM v2.1
+"Powered By AlstraSoft AskMe Pro"
+allinurl:"com_neogallery"
+inurl:"com_category"
+"Powered By Zoopeer"
+inurl:index.php?ortupg=
+inurl:com_jomtube
+"Powered by web directory script"
+inurl:com_gigcal
+Powered MarketSaz
+inurl:com_ezautos
+"Designed & Developed by Zeeways.com"
+inurl:option=com_education_classes
+allinurl:"lyrics_menu/lyrics_song.php?l_id="
+infusions/recept/recept.php?
+"Powered By diskos"
+Copyright 2006 Â© Flax Article Manager v1.1
+Powered by PHP Image Gallery
+Powered By Pligg | Legal: License and Source
+inurl:/_blogadata/
+inurl:"com_a6mambocredits"
+"index.php?id_menu=" CMScontrol
+inurl:"com_eventcal"
+"and Powered By :Sansak"
+inurl:profile.php?mode=
+Powered By SalSa Creations
+inurl:modules.php?op= "pollID"
+"Powered by SazCart"
+intext:"Powered by Max.Blog"
+"Powered by CMSimple"
+inurl:"com_performs"
+inurl:"com_mambowiki"
+index.asp?archivio=OK
+album.asp?pic= .jpg cat=
+"Multi-Page Comment System"
+inurl:"com_wmtpic"
+inurl:index.php?mode=game_player
+album.asp?pic= .jpg cat=
+inurl:"option=com_simpleshop" & inurl:"viewprod"
+intext:"Powered by Community CMS"
+"Powered by Scallywag"
+inurl:"phshoutbox.php"
+"index.php?option=com_seyret" / "com_seyret"
+inurl:inc_memberdirectorymanager.asp
+inurl:"mod=notizie"
+"Powered By ScozNews"
+"PHP BP Team"
+inurl:"zcat.php?id="
+inurl:K-Search, Powered By K-Search
+inurl:"com_mscomment"
+Powered by Mitra Informatika Solusindo
+2009 © Satellite-X
+"Powered by bSpeak 1.10"
+Powered by osCommerce
+inurl:choosecard.php?catid=
+inurl:"com_jphoto"
+allinurl: e107_plugins/easyshop/easyshop.php

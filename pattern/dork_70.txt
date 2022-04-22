@@ -1,0 +1,100 @@
+intitle:"Welcome to ntop!"
+filetype:conf inurl:psybnc.conf "USER.PASS="
+filetype:mny mny
+HTTP_USER_AGENT=Googlebot
+"Powered by: vBulletin * 3.0.1" inurl:newreply.php
+filetype:asp inurl:"shopdisplayproducts.asp"
+inurl:/public/?Cmd=contents
+inurl:"shopadmin.asp" "Shop Administrators only"
+intitle:"Error Occurred While Processing Request"
+intitle:"htsearch error" ht://Dig error
+"Looking Glass" (inurl:"lg/" | inurl:lookingglass)
+filetype:cgi inurl:"irc.cgi" | intitle:"CGI:IRC Login"
+filetype:ctt ctt messenger
+inurl:root.asp?acs=anon
+inurl:ccbill filetype:log
+allinurl:".nsconfig"
+inurl:"exchange/logon.asp" OR intitle:"Microsoft Outlook Web Access - Logon"
+filetype:mdb inurl:users.mdb
+filetype:php inurl:"viewfile" -"index.php" -"idfil
+intitle:"Error using Hypernews" "Server Software"
+filetype:cfg ks intext:rootpw
+intitle:"Welcome Site/User Administrator" "Please select the language"
+filetype:pwd service
+94FBR "ADOBE PHOTOSHOP"
+inurl:zebra.conf intext:password
+inurl:ospfd.conf intext:password
+intitle:"Index of /" modified php.exe
+inurl:indexFrame.shtml Axis
+POWERED BY HIT JAMMER 1.0!
+intitle:"ZyXEL Prestige Router" "Enter password"
+filetype:r2w r2w
+filetype:php inurl:vAuthenticate
+"Welcome to the Prestige Web-Based Configurator"
+intitle:"ADSL Configuration page"
+"Version Info" "Boot Version" "Internet Settings"
+filetype:sql +"IDENTIFIED BY" -cvs
+filetype:sql password
+"ttawlogin.cgi/?action="
+intitle:"album permissions" "Users who can modify photos" "EVERYBODY"
+filetype:cfg mrtg "target[*]" -cvs
+filetype:ldb admin
+"Index Of /network" "last modified"
+inurl:search/admin.php
+"Invision Power Board Database Error"
+filetype:dat wand.dat
+filetype:netrc password
+filetype:inc dbconn
+filetype:ini ws_ftp pwd
+inurl:forward filetype:forward -cvs
+signin filetype:url
+inurl:/eprise/
+inurl:"slapd.conf" intext:"credentials" -manpage -"Manual Page" -man:
+inurl:"slapd.conf" intext:"rootpw" -manpage -"Manual Page" -man:
+intitle:"Big Sister" +"OK Attention Trouble"
+inurl:"/cricket/grapher.cgi"
+inurl:"cacti" +inurl:"graph_view.php" +"Settings Tree View" -cvs -RPM
+intitle:"System Statistics" +"System and Network Information Center"
+inurl:"wvdial.conf" intext:"password"
+filetype:conf inurl:proftpd.conf
++htpasswd +WS_FTP.LOG filetype:log
+"Mecury Version" "Infastructure Group"
+intitle:"Dell Remote Access Controller"
+filetype:pem intext:private
+filetype:dat "password.dat"
+intitle:intranet inurl:intranet +intext:"phone"
+filetype:conf slapd.conf
+inurl:php.ini filetype:ini
+inurl:domcfg.nsf
+filetype:log cron.log
+filetype:log access.log -CVS
+filetype:blt blt +intext:screenname
+intitle:"index of" mysql.conf OR mysql_config
+intitle:"300 multiple choices"
+filetype:lic lic intext:key
+"please log in"
+filetype:log username putty
+filetype:log inurl:"password.log"
+filetype:vsd vsd network
+intitle:intranet inurl:intranet +intext:"human resources"
+filetype:url +inurl:"ftp://" +inurl:"@"
+filetype:reg reg +intext:"internet account manager"
+filetype:eml eml +intext:"Subject" +intext:"From"
+inurl:vtund.conf intext:pass -cvs
+inurl:login filetype:swf swf
+intitle:guestbook "advanced guestbook 2.2 powered"
+inurl:"webadmin" filetype:nsf
+filetype:reg reg HKEY_CURRENT_USER username
+filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS
+inurl:/tmp
+filetype:mbx mbx intext:Subject
+intitle:"eMule *" intitle:"- Web Control Panel" intext:"Web Control Panel" "Enter your password here."
+inurl:metaframexp/default/login.asp | intitle:"Metaframe XP Login"
+inurl:/Citrix/Nfuse17/
+filetype:wab wab
+filetype:reg reg +intext:"defaultusername" +intext:"defaultpassword"
+"HTTP_FROM=googlebot" googlebot.com "Server_Software="
+"Request Details" "Control Tree" "Server Variables"
+filetype:conf inurl:firewall -intitle:cvs
+filetype:inc intext:mysql_connect
+intitle:"Samba Web Administration Tool" intext:"Help Workgroup"

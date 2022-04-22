@@ -1,0 +1,100 @@
+inurl:Dialin/Conference.aspx
+inurl:pictures intitle:index.of
+inurl:sgms/auth
+inurl:/docs/ intext:@gmail.com | Password
+inurl:DiGIR.php
+filetype:sql intext:wp_users phpmyadmin
+intext:"Dumping data for table `orders`"
+"Index of /wp-content/uploads/backupbuddy_backups" zip
+"index of" bigdump.php
+intext:"/LM/W3SVC/" ext:asp
+intext:"/showme.asp" HTTP_ACCEPT
+inurl:top.htm inurl:currenttime
+intext:"Hello visitor from" ext:asp
+inurl:/awcuser/cgi-bin/
+intext:"expects parameter 1 to be resource, boolean given" filetype:php
+Zixmail inurl:/s/login?
+inurl:"/wp-content/uploads/levoslideshow/"
+intitle:"Hamdida X_Shell Backd00r"
+inurl:/remote/login/ intext:"please login"|intext:"FortiToken clock drift detected"
+inurl:trash intitle:index.of
+inurl:"/wp-content/plugins/wp-mobile-detector/" ext:php
+inurl:.ssh intitle:index.of authorized_keys
+inurl:/WebInterface/login.html
+intext:"Powered by BOMGAR"
+inurl:"/webmail/" intitle:"Mail - AfterLogic WebMail"
+ext:php inurl:"api.php?action="
+intext:"Forum software by XenForo™"
+inurl:citrix inurl:login.asp
+filetype:txt "gmail" | "hotmail" | "yahoo" -robots
+inurl:vidyo inurl:portal
+"Fenix Final Version v2.0" filetype:php
+intitle:"MODX CMF Manager Login"
+inurl:demo.browse.php intitle:getid3
+inurl:/sites/default/files/webform/
+intext:"eav" filetype:txt
+index of /wp-content/uploads/userpro
+intitle:"Struts Problem Report" intext:"development mode is enabled."
+inurl:"/owncloud/public.php"
+filetype:pwd intitle:index
+inurl:configfile.cgi
+filetype:md | filetype:js | filetype:txt "xoxp-"
+inurl:"/owncloud/index.php"
+inurl:"/eyeos/index.php"
+/@fmb80_encoder.htm
+filetype:rcf inurl:vpn
+intitle:"Skipfish . scan"
+filetype:pdf intitle:"SSL Report"
+filetype:pcf "cisco" "GroupPwd"
+intitle:Index of /__MACOSX ...
+inurl:inmotionhosting.com:2096/
+inurl:dynamic.php?page=mailbox
+inurl:/Remote/logon?ReturnUrl
+inurl:/dynamic/login-simple.html?
+inurl:https://pma.
+inurl:userRpm inurl:LoginRpm.htm
+inurl:/view/viewer_index.shtml
+inurl:index.php?app=main intitle:sms
+inurl:9443/vsphere-client
+inurl:lg intitle:"Looking Glass"
+inurl:"id=" & intext:"MySQL Error: 1064" & "Session halted."
+intitle:"OneAccess WCF" Username
+inurl:backoffice intitle:login
+intitle:"DSM Terminator [ ABORT ]" | inurl:"./com.sap.portal.dsm.Terminator"
+filetype:asp intitle:" Microsoft Outlook Web Access"
+intitle:Automatic cPanel Finder/Cracker | 3xp1r3 Cyber Army
+inurl:/smpwservices.fcc | "/lm_private/CkeSetter.aspx"
+inurl:/siteminderagent/ | app:"Error 404: java.io.FileNotFoundException: SRVE0190E: File not found: /siteminderagent/"
+inurl:".asp?strParents="
+intitle:vood act=index Gateway >Login
+intext:"powered by webcamXP 5"
+intitle:"Residential Gateway Configuration:" intext:"Cable Modem Information."
+intitle:"Login Page" intext:"Phone Adapter Configuration Utility"
+intitle:"VOOD - Welcome to Vood Residential Gateway >Login"
+(intext:"index of /.git") ("parent directory")
+inurl:/sap/bc/webdynpro/sap/ | "sap-system-login-oninputprocessing"
+inurl:"sap-system-login"
+inurl:"sap/hrrcf_a_startpage_ext_cand" | inurl:"sap/hrrcf_a_pw_via_email_extern"
+intitle:"Logon - SAP Web Application Server"
+intext:"2016 SAP AG. All rights reserved." intitle:"Logon"
+intext:"Powered by net2ftp"
+intitle:"Login" intext:"Use Web Messaging Lite"
+intext:"2008" intext:"OpenERP SA" intitle:"Login"
+intitle:"mikrotik routeros > administration" intext:"mikrotik routeros" intext:"configuration page" intext:"Mikrotik, RouterOS and the Mikrotik logo are registered trademarks of Mikrotikls SIA"
+intitle:"RouterOS" intitle:"configuration page" intext:"You have connected to a router. Administrative access only."
+intitle:"TRENDnet" (inurl:"top.htm"| inurl:"STSSYS.HTM"| inurl:"AVIEW.HTM"| inurl:"JPlug.htm" | inurl:"JVIEW.HTM")
+intitle:"Honeywell XL Web Controller - Login" (inurl:"standard/default.php" | inurl:"standard/header/header.php" | inurl:"standard/mainframe.php" | inurl:"standard/footer/footer.php" | inurl:"standard/update.php")
+intitle:"Openbravo" (inurl:"openbravo/security/Login_FS.html" | inurl:"openbravo/security/Login_Welcome.html" | inurl:"openbravo/security/Login_F1.html" | inurl:"openbravo/security/Login_F0.html")
+intitle:Tenda ADSL2/2+ Modem inurl:main.html
+inurl:"sugarcrm.log" ext:log
+intitle:"DirectAdmin Login" "Please enter your Username and Password"
+inurl:"topPage.cgi" | inurl:"mainFrame.cgi" intext:"Web Image Monitor"
+intitle:"SyncThru Web Service" inurl:"sws"
+inurl:"home.htm?cat=home" | inurl:"index.htm?cat=info" | inurl:"index.htm?cat=settings" | inurl:"index.htm?cat=network" | inurl:"index.htm?cat=bluetooth"
+inurl:"cgi-bin/dynamic/" inurl:"html" intitle:"Printer Status"
+inurl:"login.php?action=recover"
+intext:"END_FILE" ext:log
+inurl:phpsysinfo/index.php?disp=dynamic
+inurl:"info_deviceStatus.html" | inurl:"info_suppliesStatus.html" | inurl:"info_configuration.html" | inurl:"info_config_network.html" | inurl:"info_specialPages.html" | inurl:"info_colorUsageJobLog.html" | inurl:"info_eventLog.html"
+inurl:"/,DanaInfo="
+inurl:/console-selfservice/common/scripts/calendar/ipopeng.htm

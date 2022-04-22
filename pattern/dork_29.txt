@@ -1,0 +1,100 @@
+inurl:wp-config.bak
+inurl: "Mister Spy" | intext:"Mister Spy & Souheyl Bypass Shell"
+intext:"Thank you for using BIG-IP."
+inurl:login.php.bak
+intitle:"index of" ".travis.yml" | ".travis.xml"
+intitle:"index of" "laravel.log" | "main.yaml" | "server.cfg"
+"ansible.log" | "playbook.yaml" | ".ansible.cfg" | "playbook.yml" | host.ini intitle:"index of"
+intext:"rabbit_password" | "service_password" filetype:conf
+"whoops! there was an error." "db_password"
+swiftmailer intitle:"index of" "smtp.yml" | "smtp.xml"
+intitle:"index of" "config.yml" | "config.xml" intext:login | auth
+intitle:"index of" "config.yml" | "config.xml" intext:login | auth
+intitle:"index of" ".gitignore"
+intext:APIKey ext:js | xml | yml | txt | conf | py intitle:"index of"
+inurl:tests/mocks intext:autoloader
+inurl:lighttpd.conf lighttpd
+ext:tpl intext:"
+inurl:nginx.conf nginx
+intext:"successfully" intitle:"index of" config | log | logged
+ext:log intext:"connection" intitle:"index of"
+employee "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx
+hardware | software "migration" intitle:index.of ext:xls | xlsx | doc | docx | pdf
+"var miner=new CryptoLoot.Anonymous" intext:CryptoLoot.Anonymous
+inurl:secure/dashboard jspa
+inurl:travis.yml tornado
+intext:"login" department | admin | manager | company | host filetype:xls | xlsx
+inurl:"/p3p.xml" | intitle: "p3p.xml"
+inurl:"/tiny_mce/plugins/ajaxfilemanager/inc/data.php" | inurl:"/tiny_mce/plugins/ajaxfilemanager/ajax_create_folder.php"
+intitle:index.of id_rsa -id_rsa.pub
+intext:"please change your" password |code | login file:pdf | doc | txt | docx
+"air confirmation" "passenger(s)"
+intitle:HTTP Server Test Page powered by CentOS
+inurl:"debug/default/view?panel=config"
+inurl:configuration.php and intext:"var $password="
+inurl:/dbcp.properties + filetype:properties
+inurl:"root?originalDomain"
+inurl:"/jira/login.jsp" intitle:"JIRA login"
+intitle:"manager area" password
+"Copyright Metislab" password
+filetype:txt Administrator:500:
+nd=m_fundraising_detail "login here"
+inurl:login.jsp intitle:"admin"
+inurl:/wp-includes/certificates/
+filetype:xls | xlsx intext:software license
+filetype:xls | xlsx intext:cisco
+intext:vmware virtual filetype:xls | xlsx | doc | docx | ppt | pptx | pdf | hwp
+(intitle:"plexpy - home" OR "intitle:tautulli - home") AND intext:"libraries"
+'intext:define(\'AUTH_KEY\',     \' wp-config.php filetype:txt'
+"Powered by 2Moons"
+intitle:"UltraDNS Client Redirection Service"
+"Powered byPlanet eStream"
+intitle:"This is pdfTeX, Version"
+inurl:wp-config-backup.txt
+"webkactus"
+"CCCLogin.aspx"
+"PaperCut Login"
+intext:cv OR intext:curriculum vitae "passport details" ext:doc
+intitle:"MyWebSQL" + "User ID: Password:"
+intitle:"SSL VPN Service" + intext:"Your system administrator provided the following information to help understand and remedy the security conditions:"
+intitle:"apache tomcat/" "Apache Tomcat examples"
+filetype:png | "proportal"
+frmLogin
+'"2004 - 2018 iboss, Inc. All rights reserved."'
+intitle:Wagtail.-.Sign in intext:Javascript.is.required.to.use.Wagtail
+inurl:\'/SSI/Auth/ip_configuration.htm\'
+intitle:"Malware Analysis Report"
+intext:"Powered by www.yawcam.com"
+allintitle:restricted filetype:doc
+intext:"default values: admin/1234"
+"password.xlsx" ext:xlsx
+"username.xlsx" ext:xlsx
+intitle:"index of /bins" arm
+inurl:/admin intitle:Pulse.CMS
+intext:Omeka*Username Powered.by.Omeka inurl:admin
+filetype:gitattributes intext:CHANGELOG.md
+inurl:/sitefinity intext:Copyright.(c)*Telerik. Site.Finity
+"index of /ups.com/WebTracking"
+filetype:env intext:REDIS_PASSWORD
+filetype:env intext:AWS_SECRET
+filetype:env intext:mail_host + intext:bluehost
+intitle:\'System Web Interface: WATTrouter M\'
+inurl:"/logon.aspx?ReturnUrl="
+inurl:login.jsp?permissionViolation
+intext:Connect.with.Finalsite intitle:admin
+inurl:/contao/main ext:php
+inurl:/CMSPages/logon ext:aspx
+inurl:/index.php/login intext:Concrete.CMS
+"Powered by Open Source Chat Platform Rocket.Chat."
+inurl:\'listprojects.spr\'
+inurl:\'/blog/Account/login.aspx\'
+inurl:composer.json codeigniter
+allintext:\'HttpFileServer 2.3k\'
+intext:2001.-.2018.umbraco.org ext:aspx
+AndroidManifest ext:xml
+allintitle: "Flexi Press System"
+intitle:"Netgear™ - NETGEAR Configuration Manager Login"
+inurl:jpegpull.htm
+inurl:"user_login/" bitcoin | crypto | wallet
+inurl:"RootFolder=" Allitems "confidential" | "classified" | "passwords" | username
+inurl:"AllItems.aspx?FolderCTID=" "firewall" | "proxy" | "configuration" | "account"

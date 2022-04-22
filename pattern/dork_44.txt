@@ -1,0 +1,100 @@
+Powered by eLitius Version 1.0
+inurl:index.php?option=com_races "raceId"
+inurl:/phpplanner/userinfo.php?userid=
+"/nuke/htmltonuke.php" - "htmltonuke.php"
+"Powered by ClanAdmin Tools v1.4.2"
+Powered by osCommerce | Customized by EZ-Oscommerce
+inurl:"coursepage.php?id=" intext:"Web Site design by : Aim Web Design Cheshire"
+Powered by One-News
+"Powered by PHP Director"
+"Webdesign Cosmos Solutions"
+"Site designed and built by ProWeb Associates."
+"Powered By Basic CMS SweetRice"
+inurl:index.php?option=com_liveticker "viewticker"
+"Tanyakan Pada Rumput Yang Bergoyang"
+"Devana is an open source project !"
+"sitio web diseñado por www.toronja.com.pe"
+E-Commerce Engine Copyright © 2005 osCSS
+'Powered by Ac4p.com Gallery v1.0 , Copyright© 2007 ac4p.com'
+Powered by Digital College 1.0 - Magtrb Soft 2010
+inurl:"/wp-content/plugins/wp-shopping-cart/"
+intitle:"igenus webmail login"
+"Powered by FreeWebshop"
+intext:"Designed by Spaceacre"
+'This site is powered by e107, which is released under the terms of the GNU GPL License.'
+"S-CMS by matteoiamma"
+inurl:"cal_day.php?op=day&catview="
+netGitar.com - Shop v1.0
+allinurl:fullview.php?tempid=
+www.stwc-counter.de
+[ Powered by: RadLance v7.5 ]
+Powered by CMScout (c)2005 CMScout Group
+Powered by Comersus v6 Shopping Cart
+"Powered by MobPartner" inurl:"chat.php"
+[ Content Copyright Â© 2007 RadNics Gold ]
+"index.php?option=com_news_portal" or "Powered by iJoomla News Portal"
+inurl:"/modules/friendfinder/"
+allinurl:forum_answer.php?que_id=
+"Powered by EPay Enterprise" inurl:"shop.htm?cid=" | nurl:"shop.php?cid="
+"Copyright 2004 easy-content forums"
+"Website by WebSolutions.ca"
+"Powered by Nukedit"
+Powered by Gbook MX v4.1.0 ©2003 Magtrb Soft
+Powered by SLAED CMS © 2005-2008 SLAED. All rights reserved.
+myAlbum-P 2.0
+[ Software Directory Powered by SoftDirec 1.05 ]
+"By Geeklog" "Created this page in" +seconds +powered
+inurl:"xampp/biorhythm.php"
+inurl:"/modules/glossaire/"
+index.php?option=com_is
+Powered by Ninja Designs This is a port of WordPress
+Copyright 1999-2010 Rocksalt International Pty Ltd. All rights reserved
+inurl:"/modules/wfsection/"
+intext:"phpbb - auction" inurl:"auction"
+Powered by Forums W-Agora
+intitle:admbook intitle:version filetype:php
+inurl:"com_icrmbasic"
+index.php?option=com_mambads
+"AlumniServer project"
+Powered by PHP F1 (Max\'s Photo Album)
+"Powered by LightNEasy"
+"The Merchant Project"
+intitle:"Directory Listing For /" + inurl:webdav tomcat
+"Search Projects" intitle:"The ultimate project website"
+'Powered by Dodo, Bubo & Misty. Feed us!'
+allinurl:"shop.htm?shopMGID="
+"By Geeklog" "Created this page in" +seconds +powered inurl:public_html
+"Powered by LifeType" "RSS 0.90" "RSS 1.0" "RSS 2.0" "Valid XHTML 1.0 Strict and CSS"
+inurl:pmwiki.php +"Page last modified on" | PmWikiPhilosophy
+"Powered by UPB"
+"Powered by Claroline"
+"Galerie 3.2 Â© 2004 by progressive"
+"Powered By Pligg" + "Legal: License and Source"
+"toendaCMS is Free Software released under the GNU/GPL License." | "powered by toendaCMS"
+"Powered by cpCommerce"
+"propulsÃ© par JBlog"
+"Help * Contact * Imprint * Sitemap" | "powered by papoo" | "powered by cms papoo"
+"Help * Contact * Imprint * Sitemap" | "powered by papoo" | "powered by cms papoo"
+"100% | 50% | 25%" "Back to gallery" inurl:"show.php?imageid="
+"Powered by PHP-Update"
+"powered by jaws" | "powered by the jaws project" | inurl:?gadget=search
+"FlatNuke" "Valid HTML 4.01!" "Valid CSS!" "Get RSS 2.0 Feed" "Get RSS
+'"Powered by BLOG:CMS"|"Powered by blogcms.com"|"2003-2004, Radek Hulán"'
+"FlatNuke" "Valid HTML 4.01!" "Valid CSS!" "Get RSS 2.0 Feed" "Get RSS
+"Powered by PHP Photo Album"
+"Site powered by GuppY" | "Site créé avec GuppY" +inurl:lng=
+"This site is powered by e107"|inurl:e107_plugins|e107_handlers|e107_files
+intext:"This site is using phpGraphy" | intitle:"my phpgraphy site"
+inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe"
+"Powered by sendcard - an advanced PHP e-card program"
+"This is a Free & Open Source mailing list manager"
+intitle:"X7 Chat Help Center"|"Powered By X7 Chat"
+SmarterMail Enterprise 7.1
+("powered by nocc" intitle:"NOCC Webmail")
+inurl:inc_photogallerymanager.asp
+inurl:"tr.php?id=" Short Url & Url Tracker
+"Powered by Burning Board Lite 1.0.2" or "Powered by Burning Board 2.3.6"
+Copyright . Nucleus CMS v3.22 . Valid XHTML 1.0 Strict . Valid CSS . Back to top
+"propulsé par DotClear" "fil atom" "fil rss" +commentaires
+"powered by php photo album"
+allinurl:com_pccookbook

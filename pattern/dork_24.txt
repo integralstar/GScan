@@ -1,0 +1,100 @@
+inurl:/wp/wp-admin/
+intitle:"index of" "htpasswd.txt"
+inurl:secure*intitle:"log in"
+inurl:/wp-login?redirect_to= intitle:"login"
+inurl:/EasyPAY/view
+intitle:"index of" "debian.cnf"
+inurl:"/?action=login" intitle:"Log In"
+index of /cache
+intitle:index.of.?.database
+inurl:/web-hosting/cplogin
+inurl:/log/access_log
+inurl:/forgot?username=
+inurl:/login/ForgotPassword
+inurl:/account-sign-in
+inurl:webArch/mainFrame filetype:cgi intext:"Web Image Monitor"
+inurl:/authentication/Logon
+inurl:/adfs/ls/?SAMLRequest= intitle:"sign in"
+intitle:"VideoEdge Admin Interface"
+intitle:"index of" /content/admin/
+inurl:/forgetpassword.php
+intitle:dotCMS inurl:dotAdmin
+intitle:"index of" /content/admin/
+ext:sql intext:"-- phpMyAdmin SQL Dump"
+intitle:dotCMS inurl:dotAdmin
+intitle:synology intext:"Choose login account:"
+inurl:/forgetpassword.php
+inurl:"/Serviceability?adapter=device.statistics.configuration"
+intitle:please login inurl:remote/login intext:FortiToken
+intitle:index.of.?.mysql
+intitle:"Local Run Manager" intext:"Local Run Manager Version:"
+inurl:/wp-contents/
+inurl:/wp-includes/
+"pass" "usuario" filetype:sql
+intitle:"Login page" intext:"about SurgeMail"
+inurl:/Webmail/
+inurl:/index.php/login intitle:"login"
+inurl:/cgi/user.cgi
+inurl:/phpinfo.php intitle:"phpinfo()"
+inurl:/auth/login
+ext:sql intext:contrasena
+intitle:"index of" /php4/
+intitle:Host Report inurl:ganglia
+inurl:/auth
+inurl:/en/login/
+intitle:"index of" mysqli.ini
+intitle:"index of" ssh2.ini
+inurl:/pages/login.php intitle:"Login"
+intitle:"Admin Login"
+inurl:"/login.php?do=login"
+intitle:index.of./.db
+inurl:/admin/cal_login.php
+inurl:/adminLogin/login/
+intitle:Grafana - Home inurl:/orgid
+inurl:":81" -inurl:":8080" intitle:"::: Login :::"
+inurl:/forum/login/
+inurl:/sign_in.aspx
+inurl:admin intitle:"admin login"
+intitle:"Admin Login"
+inurl:/admin/admin.php intitle:"login"
+inurl:/member/login
+ext:sql intext:clave
+inurl:":8081/nexus/#welcome" -inurl:"/nexus/content/"
+inurl:/manage/login.html
+intitle:apache couchdb - futon: overview inurl:/_utils
+inurl:":8888/login.aspx"
+inurl:/oaam_server/login.do
+inurl:*admin_login.php
+intitle:"Sales Central - Logon"
+inurl:/logon/ intitle:"Sign In"
+inurl:/logon/logonpoint/tmindex.html
+inurl:/admin.login.php
+intitle:"Calendarix Admin Login"
+inurl:/src/login.php
+inurl:/admin/login.html
+inurl:/account/logon intitle:"Log On"
+inurl:/users/sign_in
+inurl:/admin/ intext:"login"
+inurl:/wp-admin/admin.php intitle:"Log In"
+inurl:/admin-login intitle:"Admin Login"
+inurl:/Login/Admin intitle:"Admin Login"
+inurl:/account/signin intitle:"signin"
+intitle:index.of.?.bak
+inurl:/quicklogin.php
+inurl:/cgi-bin/login.html
+intitle:"Index of" wp-config.php
+intitle:index.of./.sql
+intitle:"Index of" login.php
+"viostor system"
+inurl:/auth/login.aspx
+inurl:/users/login_form
+inurl:memberlist.php?mode=viewprofile
+inurl:user_login.php
+intitle:prometheus time series collection and processing server inurl:/alerts
+intitle:"Web Management Login"
+intitle:"EdgeOS" intext:"Please login"
+inurl:/sign-in
+inurl:/forum/ucp.php?mode=login
+inurl:ftp://ftp robots.txt
+inurl:ftp://ftp
+inurl:/access/unauthenticated

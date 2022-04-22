@@ -1,0 +1,100 @@
+intitle:"Solar-Log™" intext:"Build Revision"
+intitle:"Login" inurl:web/frame/login.html?ssl=
+intitle:"::: ACEmanager :::"
+'"NETGEAR, Inc. All rights reserved" intitle:"Netgear Prosafe Plus Switch"'
+intext:"CAD Media Log"
+intitle:"Camera Status" inurl:/control/
+intitle:"Remote UI" intext:"Printer status"
+intitle:"WF Series" inurl:PRTINFO.html
+"Username" "Password" "ZTE Corporation. All rights reserved."
+inurl:"/wp-content/plugins/123ContactForm
+inurl:wp-content/plugins/1-flash-gallery
+Zenario CMS Login Page
+intitle:"index of" intext:"senha"
+intitle:"ONU" intext:"Please login to continue..."
+intitle:"Dell OpenManage Switch Administrator" intext:"Type in Username and Password, then click OK"
+inurl:/index.php/admin/authentication/ intext:clave
+allintext:"*.@gmail.com" OR "password" OR "username" filetype:xlsx
+intitle:"webcamxp" "Flash JPEG Stream"
+intitle:"supra IPC"
+intext:"Powered by Synnefo"
+intitle:"Alarm Panel" intext:"Climax Tech. Co., Ltd."
+inurl:EMSWebClient/Login.aspx
+intitle:"index of" "/.vscode"
+inurl:"wp-content/plugins/wp-super-edit/superedit/" | inurl:"wp-content/plugins/wp-super-edit/superedit/tinymce_plugins/mse/fckeditor/editor/filemanager/upload/"
+intitle:LANCOM intitle:login "LANCOM Systems GmbH"
+inurl:"web/database/selector"
+intitle:"Test Page for the HTTP Server on Fedora"
+inurl:/portal/indicate intitle:Remote UI
+inurl:mobile.html intitle:webcamXP
+intitle:"Web Client for DVR"
+intitle:"Server Backup Manager SE"
+intitle:"Intelbras"
+intitle:"Plesk Obsidian" inurl:login_up.php
+"Name" "Password" intitle:"Business LAN"
+intitle:"SOGo"
+intext:"LANCOM 1781VA (over ISDN)"
+'"Cisco Systems, Inc. All Rights Reserved." filetype:jsp'
+intitle:"OpenWrt - LuCI" intext:"Powered by LuCI | OpenWrt"
+intitle:"Device(" intext:"ActiveX Mode (For IE Browser)"
+"Saferoads VMS" "login"
+intitle:HP LASERJET PRO MFP inurl:/SSI/index.htm
+filetype:axd inurl:/elmah.axd
+intitle:"Yealink" inurl:"servlet?m="
+intitle:"Gargoyle Router Management Utility" intext:"Enter Admin Password"
+intitle:"GLPI - Authentication"
+intitle:"Teampass" intext:"Server Time"
+"Name" "Password" intitle:"LANCOM 1790VA"
+intext:clave inurl:admin.php
+inurl:/PRESENTATION/BONJOUR intitle:Series
+intitle:series "Note: It is recommended to communicate via HTTPS for entering an administrator password."
+inurl:/PRESENTATION/PSWD
+intitle:"Login" intext:"(Moka pot)" inurl:"login.php"
+inurl:"/cgi-bin/luci" intext:"Authorization Required" intitle:"LuCI"
+intitle:"ZM - Console"
+inurl:/PRESENTATION/EPSONCONNECT
+intext:@print.epsonconnect.com intitle:series
+intitle:"ZM - System Log"
+inurl:"/zm/index.php"
+allintext:"Copyright CANON INC" "iR-ADV"
+inurl:/login/?referer=/admin/ intext:cradlepoint
+inurl:/PRESENTATION/HTML/TOP/PRTINFO.HTML
+intext:"Cisco Webui - Login"
+intitle:"TOTOLINK" inurl:"/login.htm"
+intitle:"Current Network Status" "Nagios"
+intitle:"Gophish - Login"
+intitle:"Please Login" inurl:"/remote/login?lang=en"
+inurl:sslvpn_logon.shtml
+"USB Port 1 (Public Data)" + "USB Port 2 (Public Data)" "Status" -pdf
+intitle:"grafana" inurl:"/grafana/login" "Forgot your password"
+intitle:"index of" intext:"client.key.pem"
+intitle:"ReACT Self-serve"
+intitle:"Openstage IP Phone User" "IPv4" "DNS"
+intitle:"LK IHC controller" intext:"LK IHC"
+inurl:ip_password.htm
+intitle:"NodeCore PoW Mining Pool" "NETWORK" "TYPE" "POOL ADDRESS" "FEE"
+intitle:"DD-WRT (build 21061) - Info"
+intitle:"NetScaler AAA" inurl:logon/LogonPoint/tmindex.html
+intitle:"Web Client" inurl:"webcamera.html"
+intitle:"Miniweb Start Page" | "/CSS/Miniweb.css"
+intitle:"Login" inurl:"/simple/view/login.html"
+inurl:/DeviceInformation/View "Device Name"
+intitle:"DSM mobile" intext:"Loading..."
+inurl:/Portal0000.htm
+inurl:ip_snmp.htm
+intitle:"Bosch Security Systems" "LIVEPAGE" + "SETTINGS"
+inurl:"/domcfg.nsf" " Web Server Configuration"
+intitle:"iLo" "Hewlett Packard Enterprise Development" "Firmware Version" " Local user name:"
+intitle:"Accueil WAMPSERVER" intext:"Configuration Serveur"
+intext:"Please select your account" intext:"SSL Login"
+intitle:"HD-Network Real Time Monitoring System" inurl:"/login.asp"
+intitle:"Milesight Network Camera" intext:"Language"
+intitle:"Sauter moduWeb - Login"
+intitle:"Greentree eHR" "Employee Code"
+intitle:"Login" intext:"Herospeed Technology"
+intitle:"Payvand PACS"
+intitle:"DIAM4 Login"
+intitle:"Sys Name" System Summary Sensors
+inurl:b2b/init.do
+inurl:/wp-content/uploads/wp-file-manager-pro/fm_backup
+intitle:"Web user login"

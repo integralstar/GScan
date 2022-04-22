@@ -1,0 +1,100 @@
+intitle:"Pi-hole Admin Console"
+filetype:inc php
+filetype:php "Notice: Undefined variable: data in"
+intitle:"WAMPSERVER homepage" "Server Configuration" "Apache Version"
+intitle:"report" ("qualys" | "acunetix" | "nessus" | "netsparker" | "nmap") filetype:pdf
+filetype:git inurl:"/.git"
+intitle:"iLO Login" intext:"Integrated Lights-Out 3"
+filetype:svn inurl:"/.svn"
+"please sign in" "sign in" "gophish" +"login"
+intitle:"LaserJet" "Device status" "Supplies summary"
+intext:.ftpconfig
+intitle:"admin console" inurl:login
+inurl:/login.rsp
+inurl:recording
+inurl:/web-console/ServerInfo.jsp | inurl:/status?full=true
+inurl:/CFIDE/administrator/index.cfm | inurl:/CFIDE/componentutils/login.cfm | inurl:/CFIDE/main/ide.cfm | inurl:/CFIDE/wizards/
+intitle:"oracle bi publisher enterprise login"
+"keyed alike" filetype:pdf
+inurl:"/Shop/auth/login"
+inurl:office365 AND intitle:"Sign In | Login | Portal"
+intext:"Login | Password" AND intext:"Powered by | username" AND intext:Drupal AND inurl:user
+intext:"config" intitle:"Index of .ssh"
+"php class JConfig" AND inurl:configuration AND ext:"bak | old | pdf | php | txt"
+inurl:"urlstatusgo.html?url=" -intext:"Disallowed by URL filter"
+inurl:"cs.html?url="
+inurl:+CSCOE+/logon.html
+inurl:login.txt filetype:txt
+inurl:login.aspx filetype:aspx intext:"TMW Systems"
+jmeter.log filetype:log
+intitle:settings.py intext:EMAIL_USE_TLS
+inurl:wp-config.php intext:DB_PASSWORD
+intext:"@gmail.com" AND intext:"@yahoo.com" AND intext:"@naver.com" AND intext:"@daum.net" AND intext:"@kakao.com" filetype:sql
+intext:"the WordPress" inurl:wp-config ext:txt
+ext:cfm inurl:login.cfm
+"passport" filetype:xls
+inurl:"/modern/profile/"
+inurl:"/modern/activity/"
+intitle:"qBittorrent Web UI" inurl:8080
+intext:"series Network Configuration" AND intext:"canon"
+inurl:ctl/Login/Default.aspx
+inurl:dnn.js
+inurl:TOP/PRTINFO.HTML
+intitle:"index of" scada
+inurl:/clusters intitle:"kafka Manager"
+inurl:7474/browser intitle:Neo4j
+intitle:OmniDB intext:"user. pwd. Sign in."
+intext:"Powered by 74cms v5.0.1"
+inurl:wp-login.php?action=register
+intext:[To Parent Directory] & ext:sql | ext:cnf | ext:config | ext:log
+ext:txt | ext:sql | ext:cnf | ext:config | ext:log & intext:"admin" | intext:"root" | intext:"administrator" & intext:"password" | intext:"root" | intext:"admin" | intext:"administrator"
+inurl:/pages/default.aspx | inurl:/páginas/default.aspx
+intext:"Open Redirect" + intext:"Unpatched"
+"Powered by ViewVC 1.0.3"
+"/var/cache/registry/"
+inurl:_vti_bin/sites.asmx?wsdl | intitle:_vti_bin/sites.asmx?wsdl
+type:mil inurl:ftp ext:pdf | ps
+inurl:b2blogin ext:cfm | jsp | php | aspx
+inurl:jboss filetype:log
+inurl:/signin.php?ret=
+"This service is powered by a copy of ZendTo"
+allintitle: "index of/admin"
+intitle: "index of" "./" "./bitcoin"
+intitle:"index of" ".cpanel/caches/config/"
+intitle: "Index of" intext:log
+Find 3cx Phone System Management Console
+intitle:"Directory Listing For" "Filename" intext:Tomcat/5.0.28
+intitle: "index of" "includes"
+inurl:/uploads/wc-logs/
+intitle:"index of" "db"
+intitle:"iDRAC-login"
+intitle:"Log In - Juniper Web Device Manager"
+intitle:.:: Welcome to the Web-Based Configurator::.
+"Powered by BOINC"
+"Powered by Trac 1.0.2"
+"online learning powered by bksb"
+inurl:/php-errors.log filetype:log
+inurl:/files/_log/ filetype:log
+inurl:8000/portal/
+inurl:/portal/apis/fileExplorer/
+inurl:\'/scopia/entry/index.jsp\'
+inurl:\'/logon/logonServlet\'
+intitle:\'Welcome to JBoss AS\'
+inurl:\'/zabbix/index.php\'
+intitle:\'Centreon - IT & Network Monitoring\'
+"/1000/system_information.asp"
+inurl:typo3conf/l10n/
+inurl:/files/contao
+/adp/self/service/login
+intext:reports filetype:cache
+intitle:"NetcamSC IP Address"
+inurl:/phpMyAdmin/setup/index.php?phpMyAdmin=
+inurl:pipermail filetype:txt
+intitle:"index of" ".dockerignore"
+intitle:"index of" "/aws.s3/"
+inurl:SSOLogin.jsp intext:"user"
+intitle:settings.py intext:EMAIL_HOST_PASSWORD
+intitle:"index of" "/bitcoin/"
+intitle:"index of" ".pem"
+allinurl:asdm.jnlp
+inurl:/snap.cgi?&-getpic

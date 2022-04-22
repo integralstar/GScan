@@ -1,0 +1,100 @@
+inurl:"ir/addlink.php?id=" OR inurl:"addlink.php?id="
+intext:"powered and designed by Dow Group"
+intext:"powered by Milonic" inurl:viewnews.php?id=
+"mirco blogging"
+"Sitedesign by: Dieleman www.dieleman.nl - Copyright © 2010"
+"intext:Warning: passthru()" "inurl:view=help"
+PHPGÃ©nÃ©alogie fonctionne sur un serveur PHP
+inurl:"char.php?id=" OR intitle:Minimanager for trinity server
+inurl:"product_desc.php?id=" Powered by Zeeways.com
+"Transloader by Somik.org" OR "Transloader by" OR "Transloder"
+Powered by ArticlesOne.com oR Website Powered by ArticlesOne.com
+"powered by CubeCart" inurl:"index.php?_a="
+intext: "Site developed & mantained by Woodall Creative Group"
+"Web Group Communication Center beta 0.5.6" OR "Web Group Communication Center beta 0.5.5"
+inurl:"picture.php?cat=" "Powered by PhpWebGallery 1.3.4"
+"Powered by Glossword 1.8.11" OR "Powered by Glossword 1.8.6"
+Maian Events v2.0 Copyright Â© 2005-2008 Maian Script World. All Rights Reserved
+inurl:categoria.php?ID= comune
+"Web site engine\'s code is copyright Â© 2001-2007 ATutorÂ®"
+'CrÃ©Ã© par Narfight, ClanLite V2.2006.05.20 Â© 2000-2005'
+"Powered by Atomic Photo Album" inurl:"photo.php?apa_album_ID="
+"100% | 50% | 25%" "Back to gallery" inurl:"show.php?imageid="
+Powered by DUdforum 3.0 inurl:/forums.asp?iFor=
+allinurl: galid "index.php?p=gallerypic"
+"Powered by yappa-ng 2.3.1" AND "Powered by yappa-ng 2.3.1"
+"ActualAnalyzer Lite (free) 2.78"+"Copyright Â© 2006 ActualScripts"
+inurl:com_forum
+"Copyright (c) 2004-2006 by Simple PHP Guestbook"
+inurl:"browse.php?folder=" Powered by GeneShop 5
+inurl:/modules/Partenaires/clic.php?id=
+"powered by DBHcms"
+intext:"sitio web diseñado por www.toronja.com.pe"
+Maian Gallery v2.0 Copyright Â© 2006-2008 Maian Script World. All Rights Reserved.
+'allintext:" If you would like to contact us, our email address is" traffic'
+powered by apt-webservice ;apt-webshop-system v3.0
+Maian Music v1.0. Copyright Â© 2007-2008 Maian Script World. All Rights Reserved.
+"Help desk software by United Web Coders rev. 3.0.640"
+"Software PBLang 4.66z" AND "Software PBLang 4.60" OR "Software PBLang"
+intext:"Web design by goffgrafix.com"
+"Welcome to Exponent CMS" | "my new exponent site" inurl:articlemodule
+"Powered by Drumbeat" inurl:index02.php
+"Designed & Developed by N.E.T E-Commerce Group. All Rights Reserved."
+"Powered by SocketMail Lite version 2.2.8. Copyright Â© 2002-2006"
+Powered by WHMCompleteSolution - OR inurl:WHMCS OR announcements.php
+inurl:inc_catalogmanager.asp
+allinurl: "pollBooth.php?op=results"pollID
+"Factux le facturier libre V 1.1.5"
+Powered by XAOS systems
+inurl:inc_documentlibrarymanager.asp
+inurl:"phpRaid" "phpRaid" "roster.php?Sort=Race"
+inurl:"classifieds.php?cat="
+inurl:"index.php?option=com_jequoteform"
+"Software Categories" "Featured Resources" "Search"
+"Website Powered By Creative SplashWorks - SplashSite"
+inurl:"index.php?com_remository"
+Â© 2007 by Lama Software - Accomm Solutions GmbH & Co. KG
+inurl:"index.php?option=com_portfolio"
+Powered by Article DashBoard
+inurl:post.php?Category=Garage
+"Send amazing greetings to your friends and relative!"
+inurl:tabid/176/Default.aspx OR inurl:portals/0/
+"Eyeland Studio Inc. All Rights Reserved."
+Powered by Info Fisier
+Powered by ArticleMS from ArticleTrader
+"powered by Sniggabo CMS" inurl:article.php?id
+"Powered By 0DayDB v2.3"
+intext:"Powered by Max.Blog"
+"Powered by Active PHP Bookmarks v1.3" inurl:.view_group.php?id=
+Powered by: XP Book v3.0
+"Powered by ispCP Omega"
+"This site is powered by CMS Made Simple version 1."
+"Jax Calendar v1.34 by Jack (tR), www.jtr.de/scripting/php"
+Powered by Platinum 7.6.b.5
+allinurl: "index php p shop"categ
+Rash Version: 1.2.1
+Powered by: mevin productions
+inurl:"catalog/product/detail.php?cat="
+inurl: user_info.php?user_id= " Or " inurl: index.php?catid= "
+Powered by:Traidnt Gallery Version 1.0.
+intitle: phpBazar-AdminPanel
+allinurl: "index.php?showlink"links
+"Aurora CMS"
+alegrocart
+inurl:/hbcms/php/
+inurl:"list.php?lcat_id="
+Designed and Developed by karkia E-commerce
+"hlstats.php?mode=dailyawardinfo&award=" hlstatsx
+Powered by Plogger!
+Help Desk Software by Kayako SupportSuite v3.70.02
+"powered by dataface" "powered by xataface"
+inurl:"weblink_cat_list.php?bcat_id="
+allinurl:"/lildbi/"
+"Copyrights Â© 2005 Belgische Federale Overheidsdiensten"
+JBC explorer [ by Psykokwak & XaV ]
+"powered by Blue Dove Web Design"
+"Powered by Fantastic News v2.1.2" or "Powered by Fantastic News v2.1.3"
+inurl:treplies.asp?message= intitle:ASP Talk
+"MidiCart PHP Database Management"
+[ Web Wiz Forums® version 9.64 [Free Express Edition] ]
+Copyright 2006 Â© Flax Article Manager v1.1

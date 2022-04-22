@@ -1,0 +1,100 @@
+"index of" "adminer.php"
+intitle:"index of" "configure.in"
+inurl:wp-content/plugins/ultimate-elementor
+"index of" "wp-config.zip"
+intitle:"index of" "my-errors.log" OR "my-errors.logs"
+intitle:"index of" "postgresql.conf"
+intitle:"index of" "token_info.json" OR "get_access_token.json"
+intitle:"index of" "users.txt"
+intitle:"index of" "config.neon" OR "config.local.neon"
+intitle:"index of" "admin.jsp"
+intitle:"index of" "fullchain.pem" OR "chain.pem"
+intitle:"Index of" "backup-audio-queue.log" OR "backup-audio.log" OR "backup-mysql.log"
+intitle:"Index of" "ca-key.pem" OR "ca-req.pem"
+intitle:"index of" "backup.js"
+intitle:"index of" "queue.log"
+inurl:"wp-content/plugins/learnpress"
+inurl:/login/pass
+intitle:"index of" "auth.asc"
+intitle:"index of" "security.json"
+intitle:"index of" "symfony/config"
+inurl:"wp-content/plugins/ninja-forms"
+inurl:/dana-na/auth/welcome.cgi?p=rolelogo
+inurl:/Drupal/login
+intitle:"index of" "cfg.go"
+intitle:"index of" "manage.py"
+intitle:"index of" "web.log" OR "web.logs"
+inurl:/EWS/Exchange.asmx
+intitle:"index of" "google-api-private-key.json"
+intitle:"Index of" test.logs
+intitle:"index of" "config.pl"
+inurl:userportal/webpages/myaccount/login.jsp
+intitle:"index of" "secrets.py"
+intitle:"index of" "debian-security.log"
+intitle:"index of" "manage.py"
+intitle:"index of" "config.js"
+intitle:"index of" "queue.log"
+intitle:"index of" "web.log" OR "web.logs"
+intitle:"index of" "test/storage/framework/sessions/"
+intitle:"index of" "symfony/config"
+inurl:"wp-content/plugins/ninja-forms"
+intitle:"index of" "local.json"
+inurl:/wp-content/themes/fruitful/
+intitle:"index of" "Logins.txt"
+inurl:/db.php?path_local=
+intitle:"index of" "login.txt"
+inurl:administrator/components/com_comprofiler/plugin.class.php?mosConfig_absolute_path=
+intitle:"index of" "passwords.xlsx"
+intitle:"index of" "secret.js"
+intitle:"index of" "keys.asc"
+intitle:"index of" "/admin/backup"
+intitle:"index of" "graphql/subscription"
+index of /wp-content/themes/avada
+intitle:"index of" "auth.log"
+intitle:"index of" users.bak
+inurl:/gmap.php?id=
+index of /wp-content/themes/onetone/
+inurl:/wp-content/themes/listingpro/
+intitle:"index of" "admin/json"
+intitle:qdPM 9.1. Copyright (c) 2020 qdpm.net
+inurl:"/course/jumpto.php?jump="
+intitle:"index of" "docker.yml"
+inurl:/dynamic/login.html intext:"Linksys Smart Wi-Fi Sign In"
+intitle:"index of" "/users.xls"
+intitle:"index of" "api.yaml"
+intitle:"WeatherLinkIP Configuration"
+intitle:"index of" "accounts.json"
+intext:"laravel" ext:env intext:"db_password"
+intitle:"index of" "admin.bak"
+inurl:/webmail/ intext:Powered by IceWarp Server
+inurl:/wp-content/themes/CherryFramework
+intitle:"index of" "/config.bak"
+inurl:zdm logon
+intitle:"index of" "/yum.log"
+intitle:"index of" "client_id.json"
+intitle:"index of" "settings.yaml"
+intitle:"elFinder 2.1.x"
+intitle:"OpenMeetings" intext:"Username or mail address"
+intext:"Please Login" inurl:"/remote/login"
+inurl:www/delivery filetype:php
+intitle:"index of" "docker-cloud.yml"
+intitle:"index of" "/accounts.txt"
+intitle:"index of" "database.json"
+intitle:"index of" "users.ini"
+intitle:"index of" "git-jira-log"
+intitle:"index of" "/admin_backup"
+intitle:"index of" dataSources.local.xml
+intitle:"index of" apis.json
+intitle:"index of" admin.txt
+intitle:"index of" "parameters.yml.test" OR "parameters.yml.dist"
+intitle:"index of" "application.yml"
+intitle:"index of" "keys.ini"
+intitle:"index of" /insecure_private_key
+intitle:"index of" "credentials.json"
+intitle:"index of" "dovecot.key" OR "dovecot.crt.cache" OR "dovecot.crt"
+intitle:"index of" settings.xml
+"settings.ini" intext:"fbconnectkey =" intext:"msverify ="
+intitle:"index of" "client_secret.json" OR "client secret" OR "client_secret live.json"
+intitle:"Fortinet - Login"
+intitle:"index of" "token.json"
+intitle:"index of" "credentials.ini"

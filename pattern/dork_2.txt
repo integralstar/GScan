@@ -1,0 +1,100 @@
+"index of" :excel documents
+intitle:"index of" "certificates"
+inurl: admin login
+intitle:"index of" :mobile number
+intitle:"Index of" "system32"
+intitle:"Index of" *.py
+index of:"customer/login"
+intitle:"Index of" "Program files"
+inurl:forgotpassword.php
+intitle:"Index of" *.xlsx
+intext:"Index of" intext:"config.zip"
+intitle:index of /
+inurl:search
+inurl: conf/fastcgi.conf
+intitle:login | intitle:signin
+intitle:"Index of" "Screenshot"
+intitle:"index of" "certificates"
+{intitle: indexof/.git }
+intitle:"webcamXP" inurl:8080
+inurl:/commodities.php?id=
+intitle:"index of" .env
+intitle:"index of" "/.cpanel"
+intitle:"Index of" "DCIM/camera"
+"index of" :excel documents
+intitle:"index of" "node.js"
+inurl:conf/nginx.conf
+inurl:gov.uk & inurl:wp-admin
+inurl:login.php
+inurl:login "Admin"
+inurl:wp-admin
+index of:"seller/login"
+inurl:login.aspx
+inurl:wp-content/uploads/wooccm_uploads
+intitle:"Index of /logs/" "nginx"
+intitle:"index of" Hindi movies
+intext:"untitled" intext:"admin" filetype:php
+index of: "participants" "uploads"
+intitle"index of" "username" "password" filetype: xlsx
+intext:"index of" "wp-uploads"
+intext:password intext:@gmail.com | @naver.com | @daum.net | @kakao.com
+intext:"index of" "home_page"
+filetype:txt "secret" OR "authtoken"
+intext:"Index of" intext:"password.zip"
+inurl:/mutillidae/ "Toggle Hints"
+intext:pass filetype:txt
+intitle:"database" "backup" filetype:sql
+intext:"index of" inurl:/etc/
+inurl:/admin/login
+inurl:login.net
+inurl:80 ext:php inurl:login
+index of: "invoice" "upload"
+intitle:"index of" "Apache/2.4.41 (Ubuntu) Server"
+index of:"blog" "upload"
+inurl:cache/uploads
+inurl:4444 ext:php inurl:login
+intext:"Index of" intext:"users.zip"
+intitle:"index of" "/.git/config"
+intext:"sitemap" filetype:txt
+intext:"Index of" "services.php | pass.php | passwd.php | credentials.txt"
+intext:"index of" "signin"
+index of: "marksheet" "upload"
+intitle:MailEnable inurl:"/Login.aspx"
+intitle:"index of" "*/ftp.txt"
+intext:"index of" "user-config"
+intitle:"index of" "dhcp"
+intitle:"index of" "particle.js"
+inurl:8888 ext:php inurl:login
+inurl:/admin/login
+inurl: */.env
+inurl:/package.json
+intext:"index of" "uploads"
+intitle:" - General Status [none]"
+intext:"untitled" intext:"login" filetype:php
+index of: "certificate" "wp-content"
+index of: "putty" "uploads"
+intext:"untitled" intext:"password" filetype:php
+Intitle:database ext:sql
+index of: "confidential" "uploads"
+inurl:newsdesk.cgi?
+intitle:"index of" "_vti_inf.html"
+index of: "application form" "upload"
+index of: "documents" "wp-content"
+inurl:admin ext:sql
+intitle:"index of" "master03.xml"
+index of :"uploads" "parent" "salary" intext:salary
+intitle:"index of" "admin.login.php"
+index of:"password" "wp-content"
+index of: "certificate" "upload"
+intitle:"index of" "admin-config"
+intitle:"index of" ".ssh/authorized_keys"
+inurl *:8080/login.php
+inurl:errorlog.axd ext:axd
+inurl:/carbon/admin/login.jsp
+intitle:"index of" "untitled"
+index of : "truecaller" "uploads"
+index of: "application" "upload"
+intitle:"index of" "script.js"
+index of :wp-config.zip
+intext:"index of" "ftp"
+intitle:"index of" "admin.login.php"

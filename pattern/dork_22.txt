@@ -1,0 +1,100 @@
+intext:"Service provided by Horos."
+inurl:/siteminderagent/forms/login.fcc
+[ipn] ext:log
+inurl:"web.config" & intext:"Data Source" & "User ID" & "Password" & "connectionString" & ext:config
+Navicat MySQL Data Transfer filetype:sql
+intext:"civicplus" "Login"
+inurl:10443/remote/login
+ext:sql intext:@gmail.com intext:e10adc3949ba59abbe56e057f20f883e
+intitle:"TMSoft MyAuth Gateway 3" -DOWNLOAD
+intitle:MK-AUTH :: CONTEUDO RESTRITO
+inurl:/my.policy
+filetype:"xls | xlsx | doc | docx | ppt | pptx | pdf" "FOUO" | "NOFORN" | "Confidential"
+inurl:"index of" wso
+inurl:login.jsp intitle:login
+inurl:CGI/Java/Serviceability?adapter=device.statistics.device
+intext:"@outlook.com" ext:log
+intitle:index.of "chroot.conf"
+intitle:odoo inurl:login "powered by odoo" "manage databases"
+intext:"@gmail.com" ext:log
+intitle:index of "uploads"
+intitle:"index of" "mail.log"
+intitle:"freedom is real - 1945"
+intitle:index.of "access.conf"
+intitle:"index of" "ssh.yml"
+intitle:index.of "htaccess.txt"
+inurl:"/index.php?p=login"
+inurl:elmah.axd ext:axd
+inurl:"/index.php/main/login"
+inurl:"/index.php?pageID=login"
+inurl:"/index.php?content=login"
+intitle:"index of" "db.conf"
+intitle:"Error log for /LM/"
+intitle:"index of" "databases.yml"
+inurl:"/index.php?title=Special:Userlogin"
+intitle:"index of" "ws_ftp.log"
+inurl:/admin/password/reset
+inurl:/auth_index.htm?lang=kr&loginvalue=0&port=0
+inurl:/cgi-bin/luci intext:"Authorization Required"
+inurl:"/Admin/Forget.php"
+inurl:/account/reset
+intext:"index of" intext:..bak intext:config
+inurl:"/password.php" intitle:"Forgot your password"
+index.of: /android/manifest.xml
+intitle:Metabase inurl:/dash
+db_password filetype:env
+inurl:/webconsole/webpages/login.jsp
+inurl:.elasticbeanstalk.com/admin
+intitle:index.of "private-key.pem"
+intitle:"index of" inurl:ftp intext:logs
+intitle:index.of "userpass.txt"
+inurl:/cb-forgot-login
+intitle:index.of "credential.txt"
+intitle:index.of "system.db"
+redash inurl:/org_slug
+intitle:index.of "key.txt"
+inurl:"index.cfm?action=" intext:"Exception in onError"
+intitle:"Marshall VS Server"
+"accounts.xlsx" ext:xlsx
+inurl:"/errors/report.php" intext:"There has been an error processing your request"
+inurl:"/wp-login.php?action=lostpassword"
+intitle:index.of "database.db"
+intitle:"Pandora FMS mobile"
+inurl:/logs/default.htm
+intitle:"Index of" wp-upload
+inurl:/account/lost_password
+intitle:"Index of" password.txt
+intitle:"netdata dashboard" AND intext:"Costa Tsaousis"
+intitle:"Cacti" AND inurl:"/monitor/monitor.php"
+inurl:passport*/login
+intitle:"API Publisher- Login"
+inurl:watch*/login
+inurl:/Dashboard/ intitle:"login"
+intitle:"Dashboards" AND inurl:"/zabbix/zabbix.php?action=dashboard.list"
+index of: /config
+inurl:"BasicAuthenticator:LOCAL"
+inurl:/loginportal/ intitle:"login"
+inurl:/password/remind
+inurl:"/showLogin.cc?isMobile=false"
+inurl:"/index.php?action=login"
+inurl:/clientlogin
+intitle:"Index of" secret
+inurl:/wp-content/uploads/ninja-forms/ intitle:"index of"
+intext:{{szErrorTip}} inurl:/doc/page/login.asp
+inurl:"apex/f?p="
+inurl:/userlogin
+inurl:/usercp.php
+index of: *.exe
+inurl:"/index.php?gt=member/login"
+inurl:"/index.php/site/login"
+inurl:"/index.php?r=site/login"
+inurl:"/index.php?route=account/login"
+inurl:/oauth/authenticate
+inurl:/customerlogin
+intitle:"Index Of" intext:sftp-config.json
+inurl:/stafflogin
+intitle:"index of" "/etc/mysql/"
+inurl:"/index.php?page=login"
+inurl:/studentlogin
+inurl:"/.vscode/ftp-sync.json"
+inurl:"/.vscode/sftp.json"

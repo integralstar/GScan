@@ -1,0 +1,100 @@
+inurl:buyer/about_us.php?BuyerID
+Maintained with the Ocean12 Calendar Manager Gold v2.04
+pagerank-0-topliste.html OR pagerank-0-tipp.html
+Copyright Â© 2007 BrowserCRM Ltd
+Powered by UCenter inurl:shop.php?ac=view
+"Sinapis by scripter.ch"
+"Powered by BosClassifieds Classified Ads System"
+"Powered by RGameScript"
+inurl:"/files/redirect.asp"
+"Easy-Clanpage v2.2"
+inurl:"/plugins/ImageManager/manager.php"
+"com_joomlaflashfun"
+Powered by BKWorks ProPHP Version 0.50 Beta 1
+Powered by Sisfo Kampus 2006
+inurl:"sticker/sticker.php?id="
+inurl:quizinfo.php
+"Powered by Md-Pro"
+inurl:"index.php?option=com_simpleboard"
+inurl:"tradeCategory.php?id= "
+inurl:"com_omphotogallery"
+inurl:"sinagb.php"
+inurl:csc_article_details.php
+inurl:index.php?page=img Powered By Mini File Host
+allinurl:com_pccookbook
+"Powered by LDU"
+intext:"powered by tincan ltd"
+"REALTOR 747 - Version 4.11"
+inurl:"view_group.php?group_id="
+"CzarNews v1.12 " | "CzarNews v1.13" | "CzarNews v1.14 "
+inurl:"filebase.php" "Powered by phpBB"
+allinurl: "name Sections op viewarticle artid"
+"Powered by samart-cms"
+Ultimate-Fun-Book 1.02
+allinurl: "modules/dictionary/detail.php?id"
+"Copyright (C) 2000 Phorum Development Team"
+inurl:flashblog.html OR inurl:/flashblog/
+"Powered By CMS-BRD"
+"inurl:/admin/" "ImageVue"
+"TROforum 0.1"
+"Uploader by CeleronDude."
+"Review Script" "Phil Taylor"
+intitle:Mp3 ToolBox 1.0
+Powered by: Maian Greetings v2.1
+allinurl: "com_alberghi" detail
+"Powered By phpBB Garage 1.2.0"
+inurl:index.php?option=com_ynews
+"Powie\'s PSCRIPT MatchMaker 4.05"
+inurl:etkinlikbak.asp
+"Copyright 2008 ImenAfzar ver :2.0.0.0"
+allinurl:com_comprofiler
+inurl:"com_joomlaradiov5"
+"powered by phpAdBoard"
+"Powered by Quick.Cms"
+"Powered by wpQuiz" inurl:index.php
+"Powered by UCStats version 1.1"
+"Powered by CCLeague Pro"
+intitle:Bilder Galerie 1.1 or intitle:Bilder Galerie
+"Powered by: PostGuestbook 0.6.1"
+"powered by sunshop"
+Powered by SkaDate Dating
+inurl:"ibase"
+"Powered by sNews"
+"Powered by Gravy Media"
+inurl:"index.php?option=com_djiceshoutbox"
+inurl:com_filiale
+"Powered By AV Arcade"
+Powered by NATTERCHAT v 1.1
+ogrencimezunlar.php
+inurl:index.php?option=com_yanc "listid"
+Powered by 6rbScript
+powered by vpasp v 6.50
+allinurl:"/questcms/"
+inurl:com_eQuotes
+"Powered by Xplode CMS"
+Powered by Jewelry Cart Software
+"Diseño Web Hernest Consulting S.L."
+inurl:com_cpg
+inurl:ratelink.php?lnkid=
+"CNStats 2.9"
+"Browse with Interactive Map"
+intext:"Powered By Azaronline.com"
+Powered by ephpscripts
+"powered by Blog System"
+"Powered by DWdirectory"
+"2005 www.frank-karau.de" | "2006 www.frank-karau.de"
+inurl:jgs_treffen.php
+"Powered by SoftbizScripts" inurl:"searchresult.php?sbcat_id="
+Powered by SNETWORKS PHP CLASSIFIEDS
+inurl:Editor/assetmanager/assetmanager.asp
+inurl:makaledetay.asp?id=
+inurl: Powered by Traidnt UP Version 1.0.
+inurl:"com_linkr"
+inurl:"com_janews"
+inurl:"com_sectionex"
+inurl:"com_rokdownloads"
+inurl:"com_ganalytics"
+inurl:/phpfootball/
+"Search Adult Directory:"
+inurl:forum_answer.php?que_id
+allinurl:index.php?act=publ

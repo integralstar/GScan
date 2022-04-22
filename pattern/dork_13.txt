@@ -1,0 +1,100 @@
+intitle:"Environment Variables" inurl:/cgi-bin/
+"index of" "password.ini"
+intitle:"index of" "/app.log" | "/app.logs"
+intitle:Snoop Servlet
+filetype:log intext:password after:2015 intext:@gmail.com | @yahoo.com | @hotmail.com | @naver.com | @kakao.com | @daum.net
+intitle:"index of" "mysql.log" | "mysql.logs"
+"-- Dumping data for table * " ext:sql | ext:xls intext:db | intext:database | intext:password | username
+"\'username\' =>" + "\'password\' =>" ext:log
+"-- Dumping data for table `users` | `people` | `member`" ext:sql | ext:txt | ext:log | ext:env
+inurl:/ lms login
+GitLab ssh.log ext:log
+inurl:"live/cam.html"
+inurl:VirtualEms/Login.aspx
+ext:txt intext:@yahoo.com intext:password
+inurl:"sms login"
+intitle:"database.php" inurl:"database.php" intext:"db_password"
+inurl:"plc login"
+inurl:"rms login"
+inurl:/ ims login
+ext:xls intext:@gmail.com intext:password
+inurl:"images/lists?cid=13"
+ext:reg [HKEY_CURRENT_USERSoftwareSimonTathamPuTTYSshHostKeys]
+inurl:"/viewer/live.html"
+inurl:/CgiStart?page
+"putty.log" ext:log | ext:cfg | ext:txt
+"index of" "performance_schema"
+inurl:"/viewer/live/index.html"
+allintitle:"Pi-hole Admin Console"
+inurl:/ mis login
+inurl:device ext:rsp
+inurl:/customer/portal/
+"POSTGRES_PASSWORD=" ext:txt | ext:cfg | ext:env | ext:ini | ext:yml | ext:sql
+"-- PostgreSQL database dump complete" ext:sql | ext:txt | ext:log | ext:env
+intitle:"Lists Web Service"
+"index of" "users.ibd"
+"index of" "users.frm"
+inurl:"/mifs/user"
+inurl:wsnavigator/jsps
+mail/u/0 filetype:pdf
+inurl:"/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php" - Wordpress File Manager
+intitle:"index of" "httpd.pid"
+inurl:webclient/Login.xhtml
+intitle:"index of" "config.db"
+"CrushFTP WebInterface"
+inurl:"/plugins/servlet/Wallboard/"
+intitle:"index of" "phpmyadmin.sql"
+intitle:"Dell SonicWALL - Authentication" inurl:auth.html
+inurl: authorlogin.php
+"SonicWALL - Authentication" inurl:/auth.html
+"Retrieve Your Password" inurl:/recoverpassword.aspx
+Database:phpmyadmin intext:mysql ext:sql inurl:phpmyadmin
+inurl:/userportal/webpages/myaccount/login.jsp
+intitle:"Rockwell Automation" inurl:"index.html" "Device Name"
+inurl:weblogin.cgi?mobile=0
+intitle:"Web Login" "For security reasons only authorized users are allowed access to this web server. "
+"ws_ftp.log" ext:log
+\'AUTH_SALT\' | \'SECURE_AUTH_SALT\' | \'LOGGED_IN_SALT\' | \'NONCE_SALT\' ext:txt | ext:cfg | ext:env | ext:ini
+intitle:"index of" "composer.lock"
+inurl:8080/view/viewer_index.shtml?id=
+"/** MySQL database password */" ext:txt | ext:cfg | ext:env | ext:ini
+inurl:/Dashboard.xhtml intitle:"Dashboard"
+"index of" "callback.php"
+intitle:"login to webmin" "You must enter a username and password to login to the Webmin server"
+inurl: login.rsp
+intitle:"Wimax CPE Configuration"
+intitle:"GoAnywhere Web Client - Login"
+inurl::/app/kibana "Kibana"
+allintitle:"Welcome admin"
+intitle:"Monsta ftp" intext:"Lock session to IP"
+"-- Dump completed" ext:sql | ext:txt | ext:log
+inurl:ftp* ext:sql
+inurl:/presentation/html/top/index.html
+intitle:"Miniweb Start Page"
+inurl:login_up.php "Plesk Onyx"
+allintitle:"Welcome to the Web-Based Configurator"
+inurl:CTCWebService
+inurl:"/portal/webclient" intitle:"VMware Horizon"
+"Citrix Receiver" inurl:index.html "Gateway"
+inurl:"/rpAuth.html" "ZyWALL"
+inurl:device.rsp
+inurl:/login.asp "Configuration and Management"
+inurl:"view.shtml" "Network Camera"
+intext:admin ext:sql inurl:admin
+intitle:"NVR LOGIN"
+intitle:"Tuxedo Connected Controller"
+inurl:/piwik "Sign in" "Matomo"
+inurl:/config/cam_portal.cgi "Panasonic"
+ext:log intext:NetworkManager "systemd"
+inurl:"/login?csrfkey=" intitle:"cisco email security"
+"EMAIL_HOST_PASSWORD" ext:yml | ext:env | ext:txt | ext:log
+"index of" "user.MYD"
+intitle:"axigen webadmin"
+inurl:.*eservices/login
+allintitle:"MDVR Login"
+intitle:"D-LINK" inurl:Login.html
+intitle:"DVR LOGIN"
+intitle:"Helpdesk Software Login" "login" "by Jitbit"
+intitle:"D-LINK SYSTEMS, INC. | WIRELESS AP : LOGIN"
+inurl:client_login=
+intitle:"NETGEAR" inurl:"/base/main_login.html"

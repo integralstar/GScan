@@ -1,0 +1,100 @@
+inurl:"com_surveymanager"
+Powered by PHP F1 (Max\'s Image Uploader)
+inurl:"?option=com_bsadv"
+"Powered by PHP Live! v3.3"
+insite: SmarterMail Enterprise 7.1
+"Powered by Online Grades"
+"Copyright KerviNet"
+allinurl:option=com_rsmonials
+"Powered by F3Site"
+"Powered by ProjectCMS"
+"Powered by PunBB"
+"Developed by rbk"
+Powered by Elvin Bug Tracking Server.
+Powered By PHPFanBase
+"Powered by wpQuiz"
+inurl:"com_ezine"
+"Powered by ClanTiger"
+"Power by:RichStrong CMS"
+powered:powered by CMS
+"Powered by Grayscale Blog"
+Powered by UCenter 1.5.0 © 2001 - 2008 Comsenz Inc.
+inurl:roschedule.php
+"PHP Project Management 0.8.10"
+inurl:com_seyret
+"download this free gallery at matteobinda.com"
+Nwahy.com 2.1 , inurl:add-site.html
+inurl:index.php?option=com_jombib
+"nukeai beta3"
+"Powered by UPB"
+intitle:"owl intranet * owl" 0.82
+Copyright 2006-2009 Insane Visions
+"powered by JAMM"
+inurl:"printable_pedigree.php"
+intext:"Powered by Lore 1.5.6"
+"powered by jmdcms.com"
+"Driven by DokuWiki"
+intext:"Powered by Pc4Uploader v9.0"
+"copyright 2006 Broadband Mechanics"
+"powered by shutter v0.1.1"
+"Powered by PHP Director 0.2"
+intitle:phpinfo intext:"php version" +windows
+"S-CMS by matteoiamma"
+inurl:"modules/articles/index.php?cat_id="
+"by Pivot - 1.40.5"
+"PHP Easy Downloader"
+"Powered by LoudBlog"
+"Powered by visinia"
+"Splatt Forum©"
+"Powered by Seditio"
+aspWebLinks 2.0
+inurl:/webquest/soporte_derecha_w.php?
+intext:"Powered by pppblog"
+inurl:"printable_pedigree.php"
+"Powered by Leap"
+"BioScripts"
+inurl:sysinfo.cgi ext:cgi
+"Powered by Burning Board"
+"Welcome to Exponent CMS" | "my new exponent site"
+"Powered by PMOS Help Desk"
+Powered.by.RaidenHTTPD +intitle:index.of | inurl:raidenhttpd-admin
+Site powered By Limbo CMS
+inurl:naviid + inurl:liste9
+"POWERED BY PHPNUKE.IR"
+inurl:"com_gcalendar"
+Powered by WikyBlog
+"powered by yourtube"
+'FhImage, powered by Flash-here.com'
+"Powered by: Arab Portal v2"
+"Powered by PHP iCalendar"
+POWERED BY ALITALK
+Copyright 2010. Software Index
+"Powered by MDForum"
+"Powered by mojoPortal"
+intitle:"login to cacti"
+"BioScripts"
+"Powered by PHP Advanced Transfer Manager v1.30"
+Small Business Manager
+"Powered by webSPELL"
+"Powered by IMGallery"
+intext:"Powered by Plogger!"
+"Powered by FreeWebshop.org 2.2.1"
+"powered by XHP CMS"
+Portal By vbPortal Version 3.5.0
+': inurll \', -font => \'{Verdana} 8 bold\') ->pack ( -side => "top" , -anchor => \'e\' ) ;'
+"Copyright @2007 Iatek LLC"
+"& Spider Friendly by Crack"
+intitle:"login to cacti"
+Welcome to your PHPOpenChat-Installation!
+"powered by TSEP - The Search Engine Project"
+WEBalbum 2004-2006 duda
+"Powered by Zomplog"
+intext:"Powered by simplog"
+"Powered by SMF"
+inurl:php-stats.js.php
+"Powered by MercuryBoard"
+"Powered by Drake CMS" inurl:index.php?option=guestbook
+"Driven by DokuWiki"
+"powered by php update"
+Realizzato utilizzando Web Portal
+"powered by ILIAS"

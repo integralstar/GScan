@@ -1,0 +1,100 @@
+inurl:/account/login
+inurl:/index.jsp intitle:"login"
+inurl:/login/auth
+inurl:/user/login
+inurl:/signin/
+inurl:robots.txt intext:password
+intitle:sign in inurl:/signin
+intitle:"sign in" inurl:login.aspx
+intitle:Administration - Installation - MantisBT
+inurl:"WebPortal?bankid"
+inurl:login_user.asp
+inurl:adminpanel/index.php
+inurl:/sites/default/private
+intitle:"index of" sql inurl:./db/
+intitle:"index of" admin
+intitle:"index of" drupal
+inurl:/joomla/administrator
+inurl:login.cgi
+intitle:"Index of" phpmyadmin
+intitle:"Index of" wp-admin
+intitle:"Index of" inurl:wp-json/oembed
+inurl:/login/index.jsp
+"Index of" inurl:webalizer
+"Index of" inurl:htdocs inurl:xampp
+inurl:zoom.us/j and intext:scheduled for
+inurl: admin/login.aspx
+inurl:cgi/login.pl
+inurl: admin/login.aspx
+"Index of" inurl:webalizer
+"Index of" inurl:phpmyadmin
+"Index of" inurl:htdocs inurl:xampp
+inurl:/index.aspx/login
+intitle:"IIS Windows Server" -inurl:"IIS Windows Server"
+intitle:"Apache2 Ubuntu Default Page: It works"
+inurl:/filedown.php?file=
+intitle:"Index of" wp-config
+intitle:"Index of" wp-content
+intitle:"Index of" pass.txt
+inurl:/site/login.php
+inurl:/client/login.php
+inurl:/guest/login.php
+inurl:/administrator/login.php
+inurl:/system/login.php
+inurl:/student/login.php
+inurl:/teacher/login.php
+inurl:/employee/login.php
+inurl:/admin/login.php
+inurl:wp/wp-login.php
+filetype:xls "nomina"
+inurl:/server-status + "Server MPM:"
+intitle:"Index of" portal
+inurl:/login/login.php
+intitle:"Index of" public
+intitle:"Thank You For Your Order" intext:Click Here to Download
+intext:"aspx" filetype:txt login & password
+intitle:"Index of" phpinfo.php
+inurl:Dashboard.jspa intext:"Atlassian Jira Project Management Software"
+inurl:simple/view/login.html
+inurl:/secure/ContactAdministrators!default.jspa intext:"Request Details" -intext:"Your Jira administrator has not yet configured this contact form"
+"Index of" inurl:config inurl:production
+inurl:/en-US/account/login?return_to=
+inurl:/phpmyadmin/index.php?db=
+intext:Grafana New version available! -grafana.com -grafana.org inurl:/login
+inurl:app/kibana intext:Loading Kibana
+inurl:/_cat/indices/
+inurl:8443 AND -intitle:8443 AND -intext:8443 prohibited|restricted|unauthorized
+intext:" Welcome to DSL-2730B Web Management"
+MAIL_HOST filetype:env
+inurl:"paypal.log" ext:log
+inurl:phpinfo.php intext:build 2600
+Index of / *.ovpn
+Inurl : /list/hdd1
+intitle:"index of" unattend.xml
+inurl:/admin/index.php?module=config
+"To Parent Directory" AND "dir>" AND "web.config"
+inurl:/admin/index.php
+DB_USERNAME filetype:env
+inurl:OrganizationChart.cc
+intext:"evetsites" "Login"
+intext:"Brought to you by eVetSites"
+inurl:"/vpn/tmindex.html" vpn
+intext:"Powered by GetSimple"
+inurl:"/fuel/login"
+intitle:"index of" intext:"Includes wordpress"
+intitle:"netscaler gateway" intext:password "please log on"
+inurl:users.json + "username"
+intitle:"index of" intext:"Includes
+inurl:old "index of" "wp-config.php"
+inurl:9000 AND intext:"Continuous Code Quality"
+intext:"wordpress" filetype:xls login & password
+"Web Analytics powered by Open Web Analytics - v: 1.6.2"
+intitle:"Outlook Web Access" | "Outlook Web app"
+intext:"Sign in with your organizational account" login
+"/FTPSVC2" intitle:"index of"
+intitle:"index of" "W3SVC1"
+inurl:"CookieAuth.dll?GetLogon?" intext:log on
+login | password | username intitle:"assessment"
+intext:backup.sql intitle:index.of
+intext:user.sql intitle:index.of
+inurl:jsmol.php

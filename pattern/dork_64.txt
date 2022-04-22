@@ -1,0 +1,100 @@
+ext:cgi intitle:"control panel" "enter your owner password to continue!"
+intitle:"ListMail Login" admin
+intitle:"Test Page for the Apache HTTP Server on Fedora Core" intext:"Fedora Core Test Page"
+intitle:asterisk.management.portal web-access
+ext:txt inurl:unattend.txt
+filetype:inf sysprep
+"Powered by UebiMiau"
+intitle:"BorderWare MXtreme Mail Firewall Login"
+Powered.by:.vBulletin.Version ...3.0.6
+intitle:"VMware Management Interface:" inurl:"vmware/en/"
+filetype:php intitle:"paNews v2.0b4"
+"Powered by: vBulletin Version 1.1.5"
+intitle:HomeSeer.Web.Control | Home.Status.Events.Log
+Powered.by.RaidenHTTPD intitle:index.of
+intitle:"Kurant Corporation StoreSense" filetype:bok
+intitle:"SuSE Linux Openexchange Server" "Please activate JavaScript!"
+inurl:camctrl.cgi
+"Traffic Analysis for" "RMON Port * on unit *"
+(inurl:81-cobalt | inurl:cgi-bin/.cobalt)
+allintitle:Brains, Corp. camera
+inurl:WCP_USER
+intitle:"Dell Laser Printer" ews
+intitle:"phpPgAdmin - Login" Language
+inurl:getmsg.html intitle:hotmail
++"HSTSNR"
+"#mysql dump" filetype:sql 21232f297a57a5a743894a0e4a801fc3
+allinurl:wps/portal/ login
+filetype:sql ("values * MD5" | "values * password" | "values * encrypt")
+filetype:sql ("passwd values" | "password values" | "pass values" )
+intitle:"supervisioncam protocol"
+inurl:"suse/login.pl"
+allintitle:aspjar.com guestbook
+"delete entries" inurl:admin/delete.asp
+filetype:ini Desktop.iniintext:mydocs.dll
+"powered by CubeCart 2.0"
+intitle:"switch login" "IBM Fast Ethernet Desktop"
+intitle:"web server status" SSH Telnet
+intitle:opengroupware.org "resistance is obsolete" "Report Bugs" "Username" "password"
+intitle:Linksys
+intitle:"active webcam page"
+intitle:"Belarc Advisor Current Profile" intext:"Click here for Belarc\'s PC Management products, for large and small companies."
+-"The PHP Group" inurl:source inurl:url ext:pHp
+"Microsoft CRM : Unsupported Browser Version"
+"Powered by Link Department"
+intitle:"welcome to mono xsp"
+intitle:"DEFAULT_CONFIG - HP"
+filetype:ora tnsnames
+intext:"Please enter correct password for Administrator Access. Thank you" "Copyright Ãƒâ€šÃ‚Â© 2003 SMC Networks, Inc. All rights reserved."
+intitle:"Index of" sc_serv.conf sc_serv content
+filetype:inc mysql_connect OR mysql_pconnect
+"Powered by MercuryBoard [v1"
+"IceWarp Web Mail 5.3.0" "Powered by IceWarp"
+"Powered by DUpaypal"
+intitle:"Brother" intext:"View Configuration" intext:"Brother Industries, Ltd."
+intitle:"welcome to netware *"
+"powered | performed by Beyond Security\'s Automated Scanning"
+intitle:"Connection Status" intext:"Current login"
+inurl:na_admin
+"SquirrelMail version 1.4.4" inurl:src ext:php
+intitle:"EpsonNet WebAssist Rev"
+intitle:Group-Office "Enter your username and password to login"
+inurl:"bookmark.htm"
+ext:reg "username=*" putty
+allinurl:index.htm?cus?audio
+intitle:"edna:streaming mp3 server"
+intitle:"ePowerSwitch Login"
+ext:ini Version=4.0.0.4 password
+inurl:orasso.wwsso_app_admin.ls_login
+inurl:oraweb
+inurl:"8003/Display?what="
+intitle:"EverFocus.EDSR.applet"
+inurl:netscape.ini
+inurl:netscape.hst
+inurl:netscape.hst
+inurl:"/NSearch/AdminServlet"
+"Netware * Home" inurl:nav.html
+intext:"Error Message : Error loading required libraries."
+inurl:"usysinfo?login=true"
+intext:"Mail admins login here to administrate your domain."
+ext:txt inurl:dxdiag
+intitle:"Browser Launch Page"
+intext:Generated.by.phpix.1.0? inurl:$mode=album
+XAMPP "inurl:xampp/index"
+inurl:citrix/metaframexp/default/login.asp? ClientDetection=On
+inurl:"631/admin" (inurl:"op=*") | (intitle:CUPS)
+filetype:torrent torrent
+"pcANYWHERE EXPRESS Java Client"
+inurl:"Activex/default.htm" "Demo"
+intitle:"VNC viewer for Java"
+uploadpics.php?did=
+intitle:"FTP root at"
+intitle:"PHPhotoalbum - Upload" | inurl:"PHPhotoalbum/upload"
+inurl:PHPhotoalbum/statistics intitle:"PHPhotoalbum - Statistics"
+-Login inurl:photopost/uploadphoto.php
+intitle:"Network Print Server" filetype:shtm ( inurl:u_printjobs | inurl:u_server | inurl:a_server | inurl:u_generalhelp | u_printjobs )
+intitle:"Network Print Server" intext:"http://www.axis.com" filetype:shtm
+filetype:cgi transcoder.cgi
+intitle:"Setup Home" "You will need * log in before * * change * settings"
+"Index of" rar r01 nfo Modified 2004
+intitle:"SpeedStream * Management Interface"

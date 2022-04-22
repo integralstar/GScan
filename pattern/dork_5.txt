@@ -1,0 +1,100 @@
+intitle:index de sshd_config
+intitle: "index of backup.php"
+"boarding pass"
+inurl:"/app/kibana#"
+intitle:"index of" "sftp.json"
+inurl:/oauth/token
+intitle:"index of" "mysql.yaml"
+inurl:*/oauth/authorize
+".:/opt/remi/php56/root/usr/share/pear" | ":/opt/remi/php56/root/usr/share/php"
+inurl: "admin-login.php"
+inurl:simplesaml/saml2/idp
+Dork - inurl: "site admin"
+©20 "Copyright Yamaha Corporation Visit"
+intitle:"index of" "config.json"
+intitle: "index of Health Records"
+allintext:password filetype:log after:2018
+ext:xls intext:/etc/passwd | inurl:password
+inurl:admin/reset.php
+intitle:index of django.config
+intext:Provided by ProjectSend
+intitle:"index of" "/api-debug.log"
+inurl:employee filetype:xls
+"index of" intext:wpbdp-csv-exports
+inurl:mil intext:"UNCLASSIFIED/FOUO" ext:pdf
+intitle:"index of SCADA"
+filetype:log "AUTHTOKEN"
+intitle:"index of" "schema.graphql"
+intitle:"index of" inurl:gov Juicy Info |GHDB
+intitle:"SPC4300" "ID"
+intitle:"index of" "docker-compose.yaml"
+inurl:execute-api
+intitle: "index of data clinic"
+intitle:"index of" "mongod.conf"
+inurl: /admin/login.php intitle: panel admin
+intitle:"index of " inurl:".bash_profile "
+intitle: "Index of ipcam"
+intext:api_key filetype:log
+intext:private_key filetype:log
+intitle:"Operations Automation Default Page"
+inurl:.html.php:intext:"admin"|intext:"user"|intext:"login"
+intext:api_key filetype:log
+intext:"Powered by YzmCMS"
+intitle:"Dericam" "Remember Me"
+intitle: "index" inurl: log
+intitle:"index of" "robots.txt"
+inurl:/wp-content/themes/avada
+inurl:/wp-content/themes/centum
+inurl: /admin/webeditor/admin_login.asp
+inurl:/wp-content/themes/ultimatum
+intitle:" index of " "/BigIp"
+inurl:/wp-content/themes/striking_r
+allintext:"[Sec. Info]" file.php
+intext:"Number of Requests for items accessed on this Server"
+inurl:/wp-content/themes/IncredibleWP
+allintitle:Index of /wp-includes/
+inurl:/admin/public/asdm.jnlp "ASDM on"
+inurl:/wp-content/plugins/wp-e-commerce
+intitle:"index of" "sourcecode"
+allintext:"Call to undefined function"
+intitle:"index of" "/cgi-bin" "admin"
+inurl:maps.arcgis.com +"City of"
+inurl:/supportboard
+intitle: Index of /assets/admin/system
+intitle:"EnvisionGateway" "scheduler" "control"
+intitle:"index of" "robots.txt"
+inurl:"robots" | "robot" intext:"Disallow:" | "Allow:" ext:txt
+intitle:"Index of" "build-an-atom"
+inurl:autodiscover/autodiscover.xml
+intitle:"OS-ZuKon" "SSS Siedle"
+intext:Authorization: Bearer filetype:log
+intitle:index.of root user
+"index of /" +passwd
+"PHP Projectworlds 1.0"
+intitle.index of .env
+intitle:"IPC CHIP Main Page" "Beck IPC GmbH"
+intitle:"webcam" "login"
+intitle:"index of" "development.js"
+"NTRIP Caster Table Contents" "This is a SNIP NTRIP Caster"
+intitle:GoogleService-Info filetype:plist
+intitle:"index of" "/sql" "admin"
+intext:"Infinitium Copyrights Reserved"
+inurl:/wp-content/themes/beach_apollo
+inurl:saml2/login
+intext:"Powered by SmarterTrack"
+inurl:"profile/login"
+intitle:"Welcome" intext:"Login"
+intitle:index.of ipconfig
+intitle:"Shoutcast server" inurl:"/index.html" "SHOUTcast Server"
+inurl:login.rsp "User name"
+intitle:administration intext:"portail" "Login"
+phpMyAdmin -www filetype:conf
+intitle:"Welcome to OpenResty!"
+intitle:"index of" "development.py"
+intitle:"index of" "tls-cert.pem" | "tls-csr.pem" | "tls-key.pem"
+intitle:"TileServer GL - Server for vector and raster maps with GL styles"
+intitle:"index of" "production.py"
+intitle:"C-more -- the best HMI presented by AutomationDirect"
+inurl:/admin/radeditorprovider/dialoghandler.aspx "Loading the dialog..."
+intitle:"index of" "local_settings.py"
+intitle:"Codian MCU - login" "Copyright TANDBERG"

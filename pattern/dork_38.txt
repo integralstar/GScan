@@ -1,0 +1,100 @@
+intitle:"Index of ftp"
+inurl:/wp-admin/admin-ajax.php?action=revslider_ajax_action
+ext:csv intext:"password"
+inurl:upsstats.cgi?host
+inurl:ftp inurl:Seagate inurl:Backup inurl:Plus inurl:Drive
+intext:JSESSIONID OR intext:PHPSESSID inurl:access.log ext:log
+intitle:index.of.dropbox
+intitle:index.of +"Indexed by Apache::Gallery"
+intitle:index.of.accounts
+intitle:index of /weekly cpbackup
+allintext:Copyright Smart PHP Poll. All Rights Reserved.
+ext:sql intext:"alter user" intext:"identified by"
+allinurl:moadmin.php
+inurl:/wp-content/wpbackitup_backups
+"Config" intitle:"Index of" intext:vpn
+intitle:"AP Router New Generation" intext:"Status do AP Router"
+inurl:.cgi-bin/luci
+inurl:.cgi-bin/webproc
+"jos_users" intitle:"Index of"
+inurl:"security/xamppdirpasswd.txt"
+filetype:xml inurl:/WEB-INF/ inurl:ftp:// -www
+".git" intitle:"Index of"
+inurl:"/server-info" intext:"Loaded Modules"
+inurl:fckeditor -intext:"ConfigIsEnabled = False" intext:ConfigIsEnabled
+inurl:dyn_sensors.htm
+inurl:/cgi-bin/.cgi
+inurl:"installer-log.txt" intext:"DUPLICATOR INSTALL-LOG"
+inurl:/elfinder/elfinder.html+intitle:"elFinder 2.0"
+ext:pem intext:BEGIN CERTIFICATE
+inurl:yahoo_site_admin/credentials/
+ext:log telnet intext:password
+filetype:mobileconfig intext:password OR intext:pass
+intext:"Please Authenticate" intitle:Peakflow
+ext:txt inurl:gov intext:"Content-Type: text/plain; charset=utf-8" AND intext:"Received: from "
+ext:msg OR ext:eml
+inurl:CHANGELOG.txt intext:drupal intext:"SA-CORE" -intext:7.32
+inurl:robots.txt intext:CHANGELOG.txt intext:disallow ext:txt
+filetype:log intext:org.apache.hadoop.hdfs
+inurl:cgi-bin/mailgraph.cgi
+inurl:logon.html "CSCOE"
+intext:5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8 AND (ext:txt OR ext:csv OR ext:xls OR ext:lst)
+intitle:FRITZ!Box inurl:login.lua
+(intext:mail AND intext:samAccountName) AND (filetype:xlsx OR filetype:xls OR filetype:csv OR filetype:txt)
+ext:cgi inurl:cgi-bin intext:#!/bin/bash
+intitle:"virtual office" sonicwall domain
+dcid= bn= pin code=
+"automatic teller" "operator manual" "password" filetype:pdf
+"google confidential" filetype:pdf
+inurl:ws_ftp.ini "[WS_FTP]" filetype:ini
+intitle:"index" intext:"Login to the Administrative Interface"
+filetype:sql and "insert into" admin "2014"
+inurl:"phy.htm" intitle:"Touchstone Status"
+filetype:sql and "insert into"
+dorks:SiteScope inurl:/SiteScope/cgi/go.exe/SiteScope?page=
+inurl:"/munin/network-*.html" OR inurl:"/munin/apache-*.html" OR inurl:"/munin/disk-*.html" OR inurl:"/munin/system-*.html" OR inurl:"/munin/munin-*.html" OR inurl:"/munin/problems.html"
+("DMZ" | "Public IP" | "Private IP") filetype:xls
+inurl:dfshealth.jsp
+intext:"Hikvision" inurl:"login.asp"
+inurl:"/public.php?service=files"
+"OpenSSL" AND "1.0.1 Server at" OR "1.0.1a Server at" OR "1.0.1b Server at" OR "1.0.1c Server at" OR "1.0.1d Server at" OR "1.0.1e Server at" OR "1.0.1f Server at"
+inurl:"/cacti/graph_view.php" OR inurl:"/cacti/graph.php?"
+xamppdirpasswd.txt filetype:txt
+intitle:"Zimbra Web Client Sign In"
+intitle:"Zimbra Web Client Log In"
+inurl:typo3/install/index.php?mode=
+inurl:typo3conf/localconf.php
+filetype:pdf "acunetix website audit" "alerts summary"
+inurl:/backup intitle:index of backup intext:*sql
+inurl:"Citrix/XenApp/auth/login.aspx"
+inurl:crossdomain filetype:xml intext:allow-access-from
+inurl:clientaccesspolicy filetype:xml intext:allow-from
+intitle:Admin inurl:login.php
+intitle:not accepted inurl:"union+select" inurl:"id?="
+"[function.getimagesize]: failed to open stream: No such file or directory in"
+inurl:.bash_history
+allinurl:"zimbra/?zinitmode=http"
+intext:"Access denied for" intitle:"Shopping cart"
+allinurl:/hide_my_wp=
+inurl:"/reports/rwservlet" intext:"Oracle"
+intitle:"pChart 2.x - examples" intext:"2.1.3"
+allinurl:"/main/auth/profile.php"
+intitle:"=[ 1n73ct10n privat shell ]="
+intitle:"WSO 2.4" [ Sec. Info ], [ Files ], [ Console ], [ Sql ], [ Php ], [ Safe mode ], [ String tools ], [ Bruteforce ], [ Network ], [ Self remove ]
+inurl:/administrator/index.php?autologin=1
+inurl:mikrotik filetype:backup
+intext:phpMyAdmin SQL Dump filetype:sql intext:INSERT INTO `admin` (`id`, `user`, `password`) VALUES
+inurl:sftp-config.json intext:/wp-content/
+inurl:sftp-config.json
+intext:sftp-conf.json +intext:/wp-content/
+allinurl:"owa/auth/logon.aspx"
+inurl:"struts" filetype:action
+filetype:php intext:"PROJECT HONEY POT ADDRESS DISTRIBUTION SCRIPT"
+inurl:config "fetch = +refs/heads/*:refs/remotes/origin/*"
+intitle:"IPCam Client"
+inurl:/wp-content/uploads/ filetype:sql
+"inurl:/data/nanoadmin.php"
+filetype:bak (inurl:php | inurl:asp | inurl:rb)
+intitle:"index of" intext:".ds_store"
+inurl:tar filetype:gz
+intitle:"RT at a glance" intext:"quick search"

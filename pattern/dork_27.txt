@@ -1,0 +1,100 @@
+intitle:"Home-CUPS" intext:printers
+"Last modified" intitle:"index of" "dropbox"
+"description" & "size" intitle:"index of" "owncloud"
+"sasl_passwd" | smtpd.conf intitle:"index of"
+intitle:"index of" "/user" | "/users"
+username | password inurl:resources/application.properties
+intitle:"index of" hosts.csv | firewalls.csv | linux.csv | windows.csv
+intitle:"index of" users.csv | credentials.csv | accounts.csv
+inurl:scanned & documents intitle:"index of" IT
+intitle:"index of" inurl:documents backup
+intitle:vendor | supply & login | portal intext:login | email & password
+intext:pin | userid & password intitle:supplier | supply & login | portal
+allinurl:"/SilverStream/Meta/"
+inurl:/za/login.do
+inurl:/adfs/services/trust
+intitle:rms webportal
+inurl:F5Networks-SSO-Req?
+inurl:shared/login.jsp?/ BMC arsys
+inurl:login.htm "xpress" password
+inurl:login.htm "access" database
+"Proudly created with Wix.com"
+inurl:"/cgi-bin/WS_FTP.LOG"
+inurl:"/cgi-bin/CVS/"
+inurl:"/.Trash" intitle:"index of" ~
+intitle:"index of" $Recycle.bin
+intitle:"index of" "/Windows/Recent" | "/Windows/History/"
+intitle:"index of" "WindowsCookies"
+intitle:"index of" "Application Data/Microsoft/Credentials"
+intitle:"index of" "hiberfil.sys"
+allintitle:"Index of /Admin/Common" | allintext:"Parent Directory"
+allinurl:"wp-content/plugins/wordpress-popup/views/admin/"
+inurl:"/my-account-login" | allintext:"My Account"
+allintitle:"Index of /ThinkPHP" | inurl: "/ThinkPHP/"
+inurl:nagios/cgi-bin/status.cgi
+inurl:/FxCodeShell.jsp/ "Login Form" "Blog Comments"
+intext:"Portador do CPF"
+inurl:"/sidekiq/busy"
+intitle:"Device(" AND intext:"Network Camera" AND "language:" AND "Password"
+intext:"Any time & Any where" AND "Customer Login"
+intitle:"Screenly OSE" intext:"Schedule Overview" AND "Active Assets" AND "Inactive Assets"
+inurl:"fhem.cfg" AND \'fhem.cfg\'
+intitle:"InfluxDB - Admin Interface"
+intitle:"webcam 7" inurl:\'/gallery.html\'
+intitle:"Login - Xfinity" AND "Gateway > Login"
+intitle:QueryService Web Service
+intitle:"index of /" ssh
+"Please click here to download and install the latest plug-in. Close your browser before installation."
+inurl:/pwm/public/
+inurl:/login.zul
+intitle:"FCKeditor - Uploaders Tests"
+intitle:"FCKeditor - Connectors Tests"
+inurl:/setup.cgi@next_file=
+intitle:"Index of /" inurl:passport
+'intext:" - 2019 Cott Systems, Inc."'
+"I have been invoked by servletToJSP"
+inurl:/sap/bc/bsp
+inurl:/irj/portal
+inurl:/scripts/wgate
+inurl:infoviewapp
+inurl:"/irj/go/km/docs/"
+inurl:"/irj/go/km/" intext:navigation
+inurl:"/webdynpro/resources/sap.com/"
+filetype:cwr inurl:apstoken
+inurl:apspassword
+filetype:pub "ssh-rsa"
+filetype:doc "Answer Key"
+inurl:"ai1wm-backups"
+"dispatch=debugger."
+intitle:Test Page for the Nginx HTTP Server on Fedora
+inurl:admin.php inurl:admin ext:php
+intitle: "Nexus Repository Manager"
+inurl:LOG.txt X-System folder
+inurl:webman/index.cgi
+"Example: jane.citizen1"
+intext:"EQ1PCI"
+intext:password "Login Info" filetype:txt
+filetype:txt "Registration Code"
+"login":
+inurl:_cpanel/forgotpwd
+"Powered by vShare"
+inurl:/help/lang/en/help
+inurl:public.php inurl:service ext:php
+filetype:xml config.xml passwordHash Jenkins
+intitle:ProFTPD Admin - V1.04
+intitle:"VB Viewer"
+index of /etc/certs/
+intitle:"Index of /private/"
+inurl:"Umbraco/#/login"
+intitle:\'index of\' "error_log"
+intitle:\'index of\' "access_log"
+inurl:/certsrv/certrqus.asp
+inurl:/config/authentication_page.htm
+'intext:"Type in Username and Password, then click Ok" intitle:"log in"'
+intitle:"index of /" intext:/backup
+"syd_apply.cfm"
+inurl:/wp-content/uploads/wp-backup-plus/
+intitle:"index of /" authorized_keys
+index of kcfinder/
+index of /ckeditor
+filetype:rdp default.rdp

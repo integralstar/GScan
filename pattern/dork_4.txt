@@ -1,0 +1,100 @@
+intitle:"Admin Login" inurl:"login.aspx"
+intitle:index of cv
+http intitle: admin
+inurl:"robots" | "robot" intext:"admin" AND "Disallow" ext:txt
+intitle:"Student" inurl:"login.aspx"
+intitle:"Employee Login" & inurl:("login.aspx" | "login.asp")
+intitle:index.of wp.login
+intitle:"HRMS" inurl:"login.aspx"
+intitle:"index of" ".env.example"
+intitle:"Journal" inurl:"login.aspx"
+intitle:"Microseven M7CAM IP Camera"
+inurl:/wp-content/plugins/simple-forum/admin/
+intitle:index.of /Snowflake /robots.txt
+intitle:"index of" "mongod*"
+'intext:Project hosted at: For support, contact: Copyright Openbravo'
+inurl:"index.php" intitle:"CMS Login"
+intitle:"TYPO3 CMS Login"
+inurl:*/membership-login/
+inurl:/designs/imm/index.php
+intitle:"index of" "passwrod*"
+intext:"password" intitle:"index of"
+intitle:"CMS" inurl:"login.php"
+intitle:"Sophos" inurl:/userportal/webpages/myaccount/login.jsp
+intitle:"Sign in [Jenkins]" inurl:"login?from"
+intext:"password" intitle:"index of"
+allintitle:"MeshCentral - Login"
+inurl:/phpldapadmin/cmd.php
+intitle:"Sophos" inurl:/userportal/webpages/myaccount/login.jsp
+intitle:index.of conf.mysql
+intitle:"index of" "passwrod*"
+inurl:fgtauth?
+intitle:"ADSL Router" inurl:"/login.htm"
+"fluig" "login"
+inurl:/wp-content/plugins/wp-filebase/
+intitle:"Support Portal" intext:"Bomgar Corporation. Redistribution Prohibited. All Rights Reserved." "Representatives"
+inurl:"/?page=login"
+filetype:conf intext:"Footer Powered By"
+inurl:/wp-content/plugins/elementor/
+intitle:"Cloudphysician RADAR"
+intitle:"Authorize application" "Learn more about OAuth"
+inurl:"/?a=login" intext:"login"
+inurl:/admin/login.php intitle: "panel"
+intitle:"SonicWall Analyzer Login"
+inurl:*/*.asp
+intitle:"MedDream" "Softneta"
+intitle:"index of" "logs"
+inurl:mail intitle:Webmail - Login
+inurl:wp-content/plugins/easy-wp-smtp
+index of / inurl:/pki/
+inurl:/servicedesk/customer/user/signup
+intext:"adobe coldfusion 8"
+intitle:"webcamXP 5" inurl:admin.html
+inurl:"/app/kibana#"
+intitle:"Juniper Networks Web" "Log In"
+intitle:"Heatmiser Wifi Thermostat" "username"
+intitle:"Portal" inurl:"login.jsp"
+intext:"index of/" "top secret" gov
+intitle:"Issabel login - page"
+inurl:"/sslvpn_logon.shtml" intitle:"User Authentication" "WatchGuard Technologies"
+intitle:"index of" "console"
+intitle:"index of" "credentials"
+intitle:"Pi-hole - raspberrypi"
+inurl:/node_modules/ content:"PEM"
+inurl:"/responsible disclosure"
+intitle:vmware "This is a restricted Access Server"
+intitle:"Index of" inurl:data/plugins/
+intitle:"Portal" inurl:"login.php"
+"com.sap.itsam.problems.java.systeminfo"
+inurl:/node_modules/ content:"ssh"
+intitle:"Portal" & (inurl:"login.asp" | inurl:"login.aspx")
+intitle:"index of" "schema.mysql"
+intitle:cisco "This is a restricted Access Server"
+intitle:"Index of" "Apache/2.4.50"
+intitle:"STEP by STIBO Systems" "Launch STEPworkbench" "Web UI Component Report"
+intext:"Open Game Panel 2021"
+intitle:" index of "/Invoices*"
+intext:"index of/" "client-1.0-SNAPSHOT"
+inurl:/wp-content/plugins/thecartpress/
+inurl: admin/index.php
+intitle: "index of" "admin" "/backup"
+intitle:"Project Insight - Login" "Sign In to Continue" "Shift4 Payments"
+intitle:"index of" "passwords" gov
+inurl:/plugins/pie-register/
+"Warehouse Management System" Ext:pdf
+inurl:/wp-content/plugins/mstore-api/
+intitle: "Library System by YahooBaba"
+intitle:"OS-ZuKon" "SSS Siedle"
+inurl:sap/public/ intext:Logon "Password"
+filetype:log intext:("apache2" | "htdocs")
+intitle:"phpinfo()" inurl:"phpinfo.php"
+intitle:"index of" "credentials"
+intitle:"SPC4300" "ID"
+intitle:"Zimbra Web Client Sign In" "Synacor"
+inurl:/webmail/src/login.php intext:"SquirrelMail"
+intext:"powered by BlueCMS v1.6"
+intitle: "access log" filetype: txt
+intitle:"Index of" "Apache/2.4.49"
+intitle:"Codian MCU - Home Page"
+intitle:"Login" "FLX Web Server"
+intitle: "index of backup.xml"

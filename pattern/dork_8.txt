@@ -1,0 +1,99 @@
+inurl:filemanager/upload/asp/ "index of"
+intitle:"Blue Iris Remote View"
+intitle:"SonicWall Network Security Login"
+intitle:"Mitel Standard Linux: Login Page"
+intitle:"Web Viewer for Samsung DVR"
+intitle:"Synology Disk Station" intext:"System administrator" "login"
+intitle:"Asus Login" inurl:Main_Login.asp
+intext:"2009 PLANET Technology Corporation"
+intitle:"Wireless router" inurl:login.htm
+allintext:Welcome to the LabTech Web Portal
+intitle:"ADB Broadband" login intext:"ADB Broadband S.p.A"
+intitle:"7100 login" "lancom"
+intitle:"MediaAccess Gateway - Login" "access your MediaAccess Gateway"
+intitle:"lg smart ip device"
+intitle:"Login - Hitron technologies"
+intitle:"system login" "Drake Holdings"
+inurl:mailscanner intitle:"mailwatch login page"
+intitle:"Video web server" "login"
+intitle:"Vue Element Admin" intext:"Username : admin" OR intext:"Username : editor" OR intext:"Password : any"
+intext:"developed and maintained by Netgate" intitle:login
+inurl:/multi.html intitle:webcam
+intitle:"ADMINISTRATOR LOGIN" inurl:adminlogin
+intitle:"web server login" intext:"site ip"
+inurl:device_status.html "login"
+inurl:prweb/PRAuth
+intitle:"KNX-IP-Gateway Login"
+intitle:"vigor login page"
+intitle:"web admin login" "Huawei Technologies"
+intitle:"DGS-3100 Login"
+intitle:"3G wireless gateway" "login" intext:"huawei technologies"
+intitle:"geovision inc." inurl:login.htm
+inurl:/hp/device/SignIn/
+intitle:"index of" "contacts.txt"
+inurl:/inicis/ ext:log
+intext:"-----BEGIN CERTIFICATE-----" ext:txt
+intitle:"Grandstream Device Configuration" (intext:password & intext:"Grandstream Device Configuration" & intext:"Grandstream Networks" | inurl:cgi-bin)
+"Not for Public Release" + "Confidential" ext:pdf | ext:doc | ext:xlsx
+inurl:/wp-content/uploads/data.txt
+intext:"Live View" inurl:ui3.htm
+inurl:"/tips/tipsLogin.action"
+intitle:"Welcome" intext:"LiteSpeed Technologies, Inc. All Rights Reserved."
+intext:"SGP" inurl:/accounts/login?next=/admin/
+intitle:"index of" "ssh_host_rsa_key" + "ssh_host_rsa_key.pub"
+inurl:/UserLogin intitle:"::PayTV SMS::" "Aplomb Technology"
+inurl:"pages/sdcall/Login.jsp"
+"FM Monitoring Receiver" intitle:"login" "welcome!"
+intitle:"index of" "/sql"
+intitle:"index of" "db.sqlite3"
+intext:"Egardia & WoonVeilig"
+intitle:"routeros" "sophia"
+intitle:"Index of" intext:"Server at"
+intext:Paessler AG - The Network Monitoring Company inurl:/index.htm intitle:"Welcome | PRTG Network Monitor" -"User Manual"
+intext:"Lancom" intitle:"Router - Login"
+intitle:"Identity Services Engine" inurl:login.jsp
+index of storage/oauth-private.key
+intext:"Switch Administrator" inurl:config/log_off_page
+intitle:"vood Residential gateway" inurl:vood/cgi-bin/
+inurl:top.cgi intitle:"Motorola ptp"
+inurl:*./auth/v2/login/registration
+intitle:"Cambium" inurl:top.cgi
+intitle:"Nutanix Web Console"
+intitle:"CPU-Modul TROVIS 6610"
+intitle:"WebMO Login" inurl:/~webmo/cgi-bin/login.cgi
+inurl:/psp/ intext:"ORACLE PEOPLESOFT"
+intitle:"XVR LOGIN" inurl:"/login.rsp"
+inurl:/web-ftp.cgi
+inurl:"serverpush.htm" "IP Camera" intext:"Foscam"
+intitle:"ZAP Scanning Report" + "Alert Detail"
+intitle:"iMana 200 login"
+intitle:"index of" "/configs"
+intitle:"Plesk" inurl:"/login_up.php3" "Parallels IP Holdings GmbH"
+inurl:"/sslvpn_logon.shtml" intitle:"User Authentication" "WatchGuard Technologies"
+inurl:"/editor/filemanager/connectors/uploadtest.html"
+intitle:"ISPConfig" "Powered by ISPConfig" "login"
+intitle:"login - otrs" "Login" "Powered by OTRS"
+intitle:"Schneider Electric Telecontrol - Industrial Web Control" intext:"Xflow "
+inurl:/wp-content/uploads/ "phpMyAdmin SQL Dump"
+intitle:"Webmodule" inurl:"/webmodule-ee/login.seam" "Version"
+inurl:/wp-content/uploads/wpdm-cache
+inurl:/phpmyadmin/server_databases.php
+intitle:"GLPI - Аутентификация" intext:"GLPI Copyright"
+inurl:phpmyadmin/sql.php?server=1
+inurl:wp-content/plugins/Ultimate-member
+inurl:/phpmyadmin/server_privileges.php
+inurl:ALFA_DATA intitle:"index of"
+intitle:"Welcome to WildFly" intext:"Administration Console"
+inurl:/wp-content/plugins/wpdiscuz/
+inurl:/phpmyadmin/server_sql.php
+intitle:LANCOM "A webbrowser with active JavaScript support is required."
+intitle:"myhome" intext:"Tilgin. All rights reserved. Copyright and Trademark."
+intitle:"Icecast Streaming Media Server"
+intitle:"Viewer for Samsung NVR"
+intitle:"Ubiquiti" intext:"Please login to manage your wireless device."
+intitle:"Huawei Inner Web" + "Yeastar Information Technology Co., Ltd. All Rights Reserved."
+intitle:("Canon" + "series Network Configuration" "Basic Information") + "JavaScript is not enabled"
+inurl:"/web/guest/en/websys/webArch/mainFrame.cgi"
+intitle:Index of
+intitle:"Scalance web management" "Switch to insecure HTTP"
+intitle:"3CX Phone System Management Console"

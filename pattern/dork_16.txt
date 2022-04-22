@@ -1,0 +1,100 @@
+inurl:wp-content/plugins/brizy
+inurl:/servicedesk/customer/user/login
+"Index of" "customer.php"
+"index of" "svg"
+inurl:".Admin;-aspx }" "~Login"
+"login" intitle:"intext:"Welcome to Member" login"
+intitle:"index of" "survey.cgi"
+intitle:index.of.?.db
+index of /wp-content/uploads/backupbuddy
+index of logs.tar
+"Index of" "sass-cache"
+"index of sqlite"
+inurl:index.shtml
+"root.log" ext:log
+inurl:"wp-contentpluginsphoto-gallery"
+intitle:"index of" "dev/config"
+index of "logs.zip"
+intitle:"index of" "nrpe.cfg"
+index of "dbbackup"
+intitle:"index of /" "nginx.conf"
+intitle:"*Admin Intranet Login"
+intitle:"index of" pass.php
+"index of" "fileadmin"
+intitle:"index of" "wp-admin.zip"
+intitle:"index of" "filemail.pl"
+intext:"index of" "var/log/"
+intitle:"Intranet Login"
+"microsoft internet information services" ext:log
+intitle:"index of" "shell.php"
+index of "backup.zip"
+ext:action | ext:struts | ext:do
+intitle:"Dashboard [Jenkins]"
+Pages Containing Login Portal into Various Web Server
+allintext:username filetype:log
+inurl:admin intitle:index of ext:sql | xls | xml | json | csv
+inurl:"customer.aspx"
+"phpMyAdmin MySQL-Dump" "INSERT INTO" -"the"
+intitle:.*edu/login
+inurl:wp-content/plugins/sportspress
+"index of /private"
+index of admin/fckeditor/editor/filemanager/
+intitle:"index of" "uploads.old"
+inurl:employee-login.php
+inurl:userlogin.do
+inurl:resetpassword.do
+inurl:"/index.php?route=account/forgotten"
+index.of:"pcap"
+intitle:"index of" "security.php"
+inurl:wp-content/plugins/ajax-load-more/lang/
+inurl:wp-content/plugins/mappress-google-maps-for-wordpress
+intitle:"index of" "var/log/"
+intitle:"index of" inurl:ftp intext:admin
+inurl:wp-content/plugins/adrotate
+intitle:"index of" "AT-admin.cgi"
+inurl:wp-content/plugins/yop-poll
+inurl:admin/upload.asp
+intitle:"index of" ".config"
+intext:"Index of /password"
+inurl:.drone.yml intext:git config user.email
+inurl:emplogin.aspx
+intitle:"index of" "adminsubscribeack.txt"
+inurl:wp-content/plugins/woocommerce
+"config.php.bak" intitle:"index of"
+allinurl:top.htm?Currenttime
+intitle:"index of" "log.bak"
+allintitle: sensitive ext:doc OR ext:xls OR ext:xlsx
+inurl:"ReportServer/Pages/ReportViewer.aspx"
+inurl:wp-content/plugins/simple-file-list
+inurl:"passwordreset.asp"
+intitle:"index of" "database/config"
+inurl:wp-content/plugins/final-tiles-grid-gallery-lite
+inurl:/wp-content/plugins/wp-ecommerce-shop-styling/
+inurl:admlogin.asp
+intitle:"index of" "auth_config.php"
+intitle:"index of" "aws-config.php"
+intitle:"index of" "auth.config"
+"index of" ".env"
+"index of" "sshd_config"
+"index of" /ftp/logs
+"index of" /private/logs
+allinurl:index.php?db=information_schema
+inurl:wp-content/plugins/wp-jobsearch
+inurl:/auth.html intitle:login
+inurl:"forgotpassword.php"
+inurl:emplogin.html
+intitle:"index of" "admin-login.php"
+inurl:wp-content/plugins/final-tiles-grid-gallery-lite
+filetype:sql intext: "sql dump"
+inurl:Cpanel/login.aspx
+inurl:Cpanel/login.php
+intitle:adminlogin inurl:login
+inurl:admin/login.jsp
+intext:"(c) GUnet 2003-2007"
+"index of" "user.sqlite"
+inurl:/+CSCOE+/logon.html
+inurl:admin/admin/Login
+intitle:index of config.asp
+inurl:admin/login.aspx
+inurl:auth/Login
+inurl:login.do?method=login

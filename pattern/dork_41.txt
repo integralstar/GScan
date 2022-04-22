@@ -1,0 +1,100 @@
+intext:"Powered by VoiceCMS"
+intext:"Powered by OnePlug CMS"
+intitle:"cascade server" inurl:login.act
+"POWERED BY LOG1 CMS"
+ADAN (view.php ) Sql Injection Vulnerability
+inurl:"sitegenius/topic.php"
+intext:"Web Design by Webz" filetype:asp
+intext:"Powered by EZPub"
+"Powered by SOFTMAN"
+"POWERED BY ZIPBOX MEDIA" inurl:"album.php"
+intext:db_pass inurl:settings.ini
+intitle:cyber anarchy shell
+MySQL: ON MSSQL: OFF Oracle: OFF MSSQL: OFF PostgreSQL: OFF cURL: ON WGet: ON Fetch: OFF Perl: ON
+"powered by zipbox media"
+"made visual by sightFACTORY"
+inurl:app/etc/local.xml
+inurl:callback
+"Powered By Dew-NewPHPLinks v.2.1b"
+allintext: /qcodo/_devtools/codegen.php
+inurl%3Amj_wwwusr&aq=f&aqi=&aql=&oq=&pbx=1&fp=2dcb6979649afcb0
+Photo Gallery powered by TinyWebGallery 1.8.3
+inurl:"ab_fct.php?fct="
+"Powered by: PHP Link Directory"
+"inurl:cultbooking.php"
+inurl:"/plugins/ImageManager/manager.php"
+inurl:"index.php?m=content+c=rss+catid=10"
+intext:"Powered by DZOIC Handshakes Professional"
+inurl:"/modules.php?name=" "Maximus CMS"
+"TinyBB 2011 all rights reserved"
+inurl:"jscripts/tiny_mce/plugins/tinybrowser/" OR inurl:"jscripts/tiny_mce/plugins/tinybrowser/" "index of"
+inurl:config/databases.yml
+allintext:"fs-admin.php"
+inurl:web/frontend_dev.php
+"Powered by phpMySport"
+"POWERED BY ALITALK"
+"Powered by YourTube v1.0"
+inurl:"/gadmin/index.php"
+inurl:"com_eventcal"
+"Powered by KaiBB 1.0.1"
+"Website Design by Rocktime"
+"Powered by UNO.com.my"
+"/index.php?id=cmp-noticias"
+"Powered by CubeCart 3.0.4"
+allinurl:index.php?db=information_schema
+"Powered by: IRIran.net"
+inurl:com_jeauto
+inurl:"produtos.asp?produto="
+"powered by simpleview CMS"
+"Powered By PageAdmin CMS Free Version"
+intext: Copyright+MantisBT Group
+inurl:panorama-viewer.php?id=
+inurl:showcat.asp?id=
+"POWERED BY: WEBINSPIRE"
+allinurl:/xampp/security.php
+inurl:phpinfo.php
+inurl:/vb/install/install.php
+inurl:com_amresurrected
+inurl:/vb/install/upgrade.php
+"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to"
+"c99shell"
+"plugins/wp-db-backup/wp-db-backup.php"
+inurl:configuration.php-dist
+inurl:"config.php.new" +vbulletin
+"[ phpinfo ] [ php.ini ] [ cpu ] [ mem ] [ users ] [ tmp ] [ delete ]"
+"r57shell 1.4"
+"r57shell"
+"Powered by SOOP Portal Raven 1.0b"
+"safe_mode: * PHP version: * cURL: * MySQL: * MSSQL: * PostgreSQL: * Oracle: *"
+PhpMyAdmin Client Side 0Day Code Injection and Redirect Link Falsification
+inurl:page.php?intPageID=
+"SOOP Portal 2.0"
+inurl:index.php?option=com_lqm "showResults"
+php Kolay Forum (php KF) © 2007 - 2010 phpKF Ekibi
+"Powered By Dejcom Market CMS"
+inurl:"index.php?option=com_annuaire"
+"Site produced by GeneralProducts.co.uk"
+inurl:"index.php?option=com_jeajaxeventcalendar"
+"Powered by SiteEngine"
+inurl:"index.php?option=com_competitions"
+inurl:"index.php?option=com_storedirectory"
+inurl:"index.php?option=com_catalogue"
+inurl:index.php?option=com_doqment&cid=
+filetype: log inurl:"access.log" +intext:"HTTP/1.1"
+inurl:"?delete" +intext:"PHP version" +intext:"Safe_mode"
+inurl:"?act=phpinfo"
+inurl:/level/15/exec/-/configure/http
+inurl:/exec/show/tech-support/cr
+inurl:/level/15/exec/-
+inurl:"jscripts/tiny_mce/plugins/tinybrowser/"
+'This page was produced using SAM Broadcaster. Â© Copyright Spacial Audio Solutions, LLC 1999 - 2004.'
+allinurl: id "com_jooget"
+inurl:comment.asp intext:Your e-mail address will be used to send you voting and comment activity. Inclusion of your address is optional but Battle Blog cannot notify you of these activities unless you supply an accurate e-mail.
+inurl:com_img
+inurl:"toplist.php" "powered by phpbb"
+"Designed and Developed by Debliteck Ltd"
+intext:"Powered By : Yamamah Version 1.00"
+inurl:"whoiscart/admin/hostinginterfaces/"
+"Powered by nzFotolog v0.4.1 Â© 2005-2006 Ricardo Amaral"
+"SQuery 4.5" |"SQuery 4.0" |"SQuery 3.9" | inurl:"modules.php?name=SQuery"
+"Upload unique IP List:" AND "The Ultimate Fake Hit Generator - BOOST YOUR ALEXA RANK"

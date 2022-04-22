@@ -1,0 +1,100 @@
+intitle:"admin panel" OR intitle:"request password" intext:"email address"
+intitle:"Login" intext:"PLANET Technology Corporation. All rights reserved."
+intitle:"MultiView" "MultiView Events" "MOBOTIX"
+intitle:"admin login"
+inurl:login intext:"Powered by Plone & Python" -plone.org
+intitle:"F660" intext:"ZTE Corporation. All rightsreserved."
+inurl /admin/login intitle panel admin
+inurl:"/bitrix/admin/" intitle:"Autorisation"
+intext:"Admin Login" inurl:"/login.aspx"
+inurl:("administrator/login.aspx" OR "admin/login.aspx")
+intext:"Atlassian Jira Project Management Software" Jira login
+filetype:xlsx intext:"gmail.com" OR "naver.com" OR "daum.net" OR "kakao.com"
+/inurl:upload ~password
+cms +inurl:login
+intitle:"WATTrouter" "SYSTEM WEB INTERFACE"
+intitle:"Icecast Streaming Media Server" "Icecast2 Status"
+intitle:"admin login"
+intext:"Welcome to ZXHN H198A"
+"Desktop" "Simple" "Responsive" intitle:"Controllr"
+intitle:"admin login"
+intitle:"fdt" intext:"Remember me" "Username"
+Inurl:login.rsp "User name"
+intitle:"Welcome-netis Wireless"
+intitle:"Router Access" inurl:Router_Login.asp
+inurl:login/forgotten
+inurl:/admin.php inurl:files
+intitle:"TD-W9970" intext:"Model No. TD-W9970"
+inurl /admin/login.php intitle panel admin
+intitle:"IP CAMERA" "User Login" "User Name" "Password" "Preview Stream"
+intext:"Please enter the device\'s administrator password"
+intitle:"Users" intext:"Read License" intext:"vtiger.com"
+inurl:/login
+intitle:"setup" "Network setup" "DHCP Client ID"
+inurl:/about
+intitle:"NetBiter" intext:"based on NetBiter"
+inurl:hp/device/webAccess
+inurl "/admin/index.php" username=admin&password=password
+inurl:"/userportal/webpages/myaccount/login.jsp"
+intitle: admin login
+intitle:untitled filetype:xls intext:password
+inurl:login.php
+intext:"amcrest" "Invalid login credentials"
+intext:"Powered by Bitnami Redmine Stack" inurl:/login
+inurl:"/JIRA/login"
+intitle:*admin (inurl:login)
+inurl:/nphMotionJpeg?Resolution=
+intitle:"Polycom Login" inurl:"/login.html"
+intitle:"BoardPAC - Board Paper and Credit Proposal Management System"
+inurl:users/password/new
+intitle:index.of (inurl:admin | intitle:admin)
+intext:"powered by enboard" "portal"
+intitle:"Login - Ipswitch WhatsUp Professional"
+Jira login intext:v8.3.2
+intitle:"LaCie" "login" intext:"Remember me" "Connect to"
+intitle:"Web Admin login" intext:"Huawei Technologies"
+intitle:"Lantronix" intext:"Lantronix, Inc" "login to"
+intitle:"Log In - Seafile Server"
+intitle:"IBM iNotes Login" "Ultralite Login Screen"
+intitle:"Login" inurl:"view/login.html" "Huawei Technologies"
+intitle:"Hello! Welcome to Synology Web Station!"
+intitle:"WHM Login" intext:"cPanel, L.L.C. " +"Change locale"
+intitle:"Honeywell XL Web Controller" intext:"systemadmin"
+intitle:"index of" "contacts.vcf"
+inurl:Login.aspx intitle:":::Login:::" "RM"
+inurl:"webconsole/webpages/login.jsp" +intitle:"Sophos"
+intitle:"WEB SERVICE" "Modify Admin Password"
+intitle:"Login" intext:"IP Surveillance for Your Life"
+intitle:"Mail2000 Message System" "Openfind Information"
+inurl:/view.htm?mode=l
+"Network State: Network Ready. Network Channel:" intitle:ACEManager
+inurl:"jpegpush.htm"
+inurl:"serverpush.htm" intext:"Foscam"
+intitle:"R WebServer"
+inurl:openam/XUI
+inurl:ui3.htm
+inurl:auth/login?returnUrl
+intitle:"login" inurl:"idp/profile/login"
+intitle:"PBX Login" -inurl:pbx|pbxlogin
+intitle:"PRTG Network Monitor" inurl:index.htm intext:"Password" -inurl:prtg
+intitle:"ManageEngine ServiceDesk Plus" "domain" intext:"ManageEngine ServiceDesk Plus"
+intitle:"Cisco ASDM" inurl:"admin/public/index.html"
+intitle:"DEVICE" "Real-time IP Camera Monitoring System"
+intitle:"Prolink" inurl:login.htm
+intitle:"idrac7 - Login" inurl:login.html
+intitle:"Web Viewer" inurl:auth_index.htm
+intitle:"Welcome to" intext:"configuration interface"
+intitle:"xerox" inurl:i_index
+intitle:"Powered by Deepija Telecom"
+intitle:"Webmail Login" intext:"cPanel, L.L.C. " +"Change locale"
+inurl:"admin/public/login"
+inurl:"pis/login.aspx"
+intext:"Login to Frappe" +"Forgot Password?" +"Reset Password" inurl:login -intitle:"My utm"
+intitle:"weblogic" login intext:"footer powered by"
+"IPECS" inurl:a_index.html
+intitle:"Seagate NAS -" "login" intext:"Language."
+intitle:"ovislink" inurl:login intext:"My Resource"
+intitle:"prestige" intext:"Enter Password and click Login"
+inurl:oauth2/v2.0/authorize
+inurl:wp-content/plugins/modern-events-calendar-lite
+intitle:"Netgear System Login" intext:"system name"

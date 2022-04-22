@@ -1,0 +1,100 @@
+inurl:/membersarea intitle:"login"
+filetype:reg reg [HKEY_CURRENT_USERSoftware]
+intitle:"Printer Status" AND inurl:"/PrinterStatus.html"
+"Powered by sNews CMS"
+inurl:/user/forgot
+inurl:("/storage/logs/laravel.log") AND intext:("local.ERROR" | "NULL.ERROR" | "EMERGENCY:")
+intitle:"index of" cvsroot
+inurl:"/English/pages_WinUS/" AND intitle:"Top page"
+intitle:"index of" cvsweb.conf
+inurl:/signup/password.php
+filetype:reg reg HKEY_CLASSES_ROOT
+inurl:/account-recovery.html
+inurl:8000 intext:"Copyright CANON INC. 2012"
+intext:"TCPDFtcpdf.php on line 17778"
+inurl:axis-cgi/mjpg/video.cgi
+inurl:/live.htm intext:"M-JPEG"|"System Log"|"Camera-1"|"View Control"
+inurl:view.shtml
+intitle:"webcamXP 5" inurl:8080 \'Live\'
+inurl:/HDDReplay.html
+inurl:/adfs/ls/ intitle:"Sign In"
+inurl:/pwdrecovery.php
+intitle:("Solr Admin") AND intext:("Dashboard" AND "Corporation")
+inurl:cgistart
+inurl:/retrieve-password
+inurl:/resetpass.php
+intitle:"index of" "db.connection.js"
+intitle:NetworkCamera intext:"Pan / Tilt" inurl:ViewerFrame
+inurl:/reminder_password
+inurl:/changePassword.php
+intitle:("Solr admin page") AND intext:("Make a Query")
+"Powered by Zimplit CMS"
+intext:"Welcome! Log in or create an account to continue."
+inurl:hp/device/deviceinformation
+intext:"EWS Data Collection and Use"
+inurl:/retrieve.php
+inurl:8080/webinterface intitle:"crushftp"
+intitle:ThingsBoard inurl:8080/dashboard
+intext:"This computer system is the property of" -error
+inurl:/forgotpassword intext:"enter username and email"
+intext:"Welcome Admin"
+inurl:/Citrix/storeweb
+intitle:traefik inurl:8080/dashboard
+"create account" admin ext:cfg
+"configure account user encrypted" ext:cfg
+inurl:/LoginPanel.aspx
+inurl:/AdminPanel.aspx
+ext:cfg tac_plus.cfg
+"d-i passwd/root-password-crypted password" ext:cfg
+inurl:cfg intext:"srb.username.1=" "srb.password.1 = "
+intitle:"Index of" dbconnect.inc
+"Powered by phpBB" inurl:"index.php?s" OR inurl:"index.php?style"
+"enable password" ext:cfg
+password console-password ext:cfg
+intext:authentication set encrypted-password ext:cfg
+inurl:-cfg intext:"password cipher"
+intitle:"index of" "mysql.properties"
+intext:"dspace.cfg" "db.username = dspace"
+intext:"Please enter your new password" inurl:login filetype:php
+intitle:Grapher AND inurl:sensorlist.htm
+"# Kickstart" filetype:cfg
+intext:"index of /" "token.yml"
+intitle:"index of" database.yml
+intitle:"index of" "credentials.yml"
+intitle:("Mini Shell") AND intext:("Upload File")
+intitle:"index of" "configuration.yml"
+filetype:psp intitle:"Motorola - FX9500"
+intitle:("Index of") AND intext:("c99.txt" OR "c100.txt")
+intitle:"index of" "passwords.yml"
+intitle:"index of" "settings.yml"
+intitle:"index of" "backup.yml"
+intitle:"index of" "/concrete/Authentication"
+intitle:"index of" "backup.bak"
+intitle:"index of" "jwt-auth"
+intitle:"index of" "/concrete/Authentication"
+intitle:"index of" service.grp
+intitle:"index of" "metadata"
+inurl:"view/index.shtml"
+intitle:"index of" "powered by apache " "port 80"
+intitle:"(SSI Web Shell)" AND intext:"(ls -al)"
+intitle:"index of" "maven-metadata.xml" "Port 80"
+intext:"please enter your username and password" inurl:login filetype:php
+intitle:"index of" "apache-log-parser" "Port 80"
+intitle:"index of" inurl:wp-json embedurl?
+inurl:"MultiCameraFrame?Mode=Motion"
+intitle:"index of" "config.py"
+"VB Viewer" inurl:/viewer/live/ja/live.html
+intitle:"Outlook Web App" inurl:"/owa/auth" logon ext:aspx
+intitle:"index of" "access_token"
+intitle:"index of" "settings.py"
+intitle:"index of" accounts.xml
+intitle:"Web Server\'s Default Page" intext:"hosting using Plesk"
+intitle:"IP CAMERA Viewer" intext:"setting | Client setting"
+inurl:"/jw/web/login"
+intitle:"WEB SERVICE" intext:"Please install plugins first!"
+intitle:"index of" "php.ini"
+inurl:"serverpush.htm" intext:"Real-time"
+inurl:manager/login
+inurl:"/login.htm?page=" intext:"Loading login page"
+intext:"WPENGINE_SESSION_DB_USERNAME" || "WPENGINE_SESSION_DB_PASSWORD"
+inurl:"nobody/loginQuick.htm"

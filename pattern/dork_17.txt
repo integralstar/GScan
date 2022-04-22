@@ -1,0 +1,100 @@
+inurl:adminpanel.aspx
+"Powered by Jira Service Desk"
+inurl:admlogin.php
+inurl:"/forgotpassword.php"
+inurl:/password_forgotten.php
+inurl:"resetpassword.jsf"
+inurl:adminlogin.htm
+ext:sql intext:"-- phpMyAdmin SQL Dump
+inurl:wp-content/plugins/bbPress
+inurl:admlogin.aspx
+inurl:wp-content/plugins/gtranslate
+inurl:adminlogin.html
+inurl:forgotpassword.do
+inurl:forgotpassword.do
+"login" intitle:"*scada login"
+inurl:wp-content/plugins/iframe
+"login" intitle:"*dashboard login"
+intitle:"index of" "properties.ini"
+inurl:wp-content/plugins/grand-media
+inurl:forgotpassword.htm
+inurl:"resetpassword.asp"
+intitle:"index of" "admin/config"
+intitle:"index of" "system/config"
+inurl:resetpassword.aspx
+inurl:/joomla/login
+inurl:"passwordreset.php"
+inurl:wp-content/plugins/woo-order-export-lite
+inurl:adminlogin.jsp
+"login" intitle:"*board login"
+inurl:forgotpassword.asp
+intitle:"ASUS" AND inurl:"Main_Login.asp" AND intext:"router account" -asus.com
+intitle:"HP System Management Homepage" inurl:cpqlogin
+intitle:"HP ALM" "Application Lifecycle Management" inurl:/qcbin/ -ext:PDF
+"index of" "/config/sql"
+inurl:adminlogin.php
+inurl:wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7
+inurl:"wp-content/plugins/siteorigin-panels"
+inurl:login_admin "admin"
+inurl:"forgotpassword.aspx"
+inurl:"index.php?option=com_ccnewsletter" inurl:sbid
+intitle:"Index of" intitle:"UserPro" -uploads
+inurl:"wp-content/plugins/form-maker"
+inurl:"forgotpassword.jsf"
+inurl:wp-content/plugins/thirstyaffiliates
+inurl:wp-content/plugins/official-mailerlite-sign-up-forms
+inurl:":8088/cluster/apps"
+"You need to be logged in to see your course progress."
+inurl:login.jsf
+intitle:"Ice Hrm Login" intext:"Forgot Password"
+inurl:pentaho/Login
+inurl:adminlogin.asp
+intext:"Error Occurred While Processing Request"
+inurl:enter.php?phpbb_root_path=
+intitle:"ShowIt-Admin"
+inurl:client_id=
+intitle:"index of" "stacktrace.log"
+inurl:wp-content/plugins/ajax-load-more
+inurl:wp-content/plugins/paid-memberships-pro
+intitle:"index of" "api/admin"
+inurl:admin.aspx
+inurl:wp-content/plugins/visualcomposer
+intitle:"index of" "db.log"
+intext:"Created by John Caruso" intext:"Created with Simple PHP Photo Gallery"
+inurl:"index.php?option=com_jssupportticket"
+intext:"W E L C O M E to R O O T" ext:cfg OR ext:log OR ext:txt
+intext:"Launch FortiClient" and "Please Login"
+"LMS v3.0 - Xerone IT"
+intext:"Scan coverage information" AND "List of tests" ext:PDF
+inurl:human.aspx intext:moveit
+inurl:"sites/all/modules/ckeditor"
+intitle:"Skipfish - scan results browser"
+inurl:"index.php?option=com_fabrik"
+inurl:wp-content/plugins/team-members
+inurl:wp-content/plugins/easy-login-woocommerce
+intitle:"index of" "userdata.json"
+intitle:"WEBCAM 7 " -inurl:/admin.html
+inurl:wp-content/plugins/wp-product-review
+inurl:/emptyView4.html
+intitle:"index of" "tinyfilemanager.php"
+inurl:/auth/forgot
+inurl:wp-content/plugins/photo-gallery
+intitle:"index of " "users.json"
+intitle:"index of" "wpadmin-secure.htaccess"
+inurl:index.php?option=com_newsfeeds
+inurl:"index.php?option=com_hdwplayer"
+inurl:wp-content/plugins/easy-testimonials
+intitle:"Nikto Report" "OSVDB"
+inurl:wp-content/plugins/google-site-kit
+intitle:"index of" "privkey.pem"
+intitle:"index of" "dhparams.pem"
+intitle:"index of" "token.txt"
+inurl:wp-content/plugins/page-builder
+inurl:wp-content/plugins/chopslider
+intitle:"index of" "refresh_token.txt" OR "access_token.txt" OR "jsapi_ticket.txt"
+intitle:"index of" "*root.pem"
+intitle:"index of" "jsapi_ticket.json"
+intitle:"index of" "mvn-settings.xml"
+intitle:"index of" "cassandra-yaml"
+intitle:"index of" "user data.txt"
+inurl:wp-content/plugins/elementor-pro

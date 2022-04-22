@@ -1,0 +1,100 @@
+inurl:XcCDONTS.asp
+intitle:"VisNetic WebMail" inurl:"/mail/"
+inurl:perform.ini filetype:ini
+intext:"SteamUserPassphrase=" intext:"SteamAppUser=" -"username" -"user"
+intitle:"phpinfo()" +"mysql.default_password" +"Zend Scripting Language Engine"
+intext:"Welcome to" inurl:"cp" intitle:"H-SPHERE" inurl:"begin.html" -Fee
+filetype:dat inurl:pass.dat
+intitle:"Netopia Router (*.)""to view this site"
++intext:"powered by MyBulletinBoard"
+intext:"Powered by X-Cart: shopping cart software"
+intitle:"PowerDownload" ("PowerDownload v3.0.2 Ãƒâ€šÃ‚Â©" | "PowerDownload v3.0.3 Ãƒâ€šÃ‚Â©" )
+intitle:"PHPstat" intext:"Browser" intext:"PHPstat setup"
+"portailphp v1.3" inurl:"index.php?affiche" inurl:"PortailPHP"
+allintitle:"Welcome to the Cyclades"
+(cam1java)|(cam2java)|(cam3java)|(cam4java)|(cam5java)|(cam6java)
+intitle:"Dell *" inurl:port_0
+(intitle:"502 Proxy Error")|(intitle:"503 Proxy Error") "The proxy server could not handle the request"
+inurl:sphpblog intext:"Powered by Simple PHP Blog 0.4.0"
+intext:"powered by Hosting Controller" intitle:Hosting.Controller
+inurl:/SUSAdmin intitle:"Microsoft Software Update Services"
+intitle:"InterJak Web Manager"
+intitle:"Welcome to 602LAN SUITE *"
+intitle:"SSHVnc Applet"OR intitle:"SSHTerm Applet"
+'"To view the Web interface of the SpeedTouch, Java'
+( intitle:"PacketShaper Login")|(intitle:"PacketShaper Customer Login")
+intitle:"PacketShaper Customer Login"
+inurl:Citrix/MetaFrame/default/default.aspx
+inurl:exchweb/bin/auth/owalogon.asp
+intitle:"osTicket :: Support Ticket System"
+intext:"Powered by: Adobe PrintGear" inurl:admin
+intitle:"--- VIDEO WEB SERVER ---" intext:"Video Web Server" "Any time & Any where" username password
+inurl:start.htm?scrw=
+inurl::2082/frontend
+intext:"powered by EZGuestbook"
+intitle:"myBloggie 2.1.1..2 - by myWebland"
+inurl:server.cfg rcon password
+ext:dhtml intitle:"document centre|(home)" OR intitle:"xerox"
+!Host=*.* intext:enc_UserPassword=* ext:pcf
+intitle:"Welcome To Your WebSTAR Home Page"
+intitle:"site administration: please log in" "site designed by emarketsouth"
+intitle:"Document title goes here" intitle:"used by web search tools" " example of a simple Home Page"
+intitle:"WorldClient" intext:"© (2003|2004) Alt-N Technologies."
+intitle:"SWW link" "Please wait....."
+"Powered by DWMail" password intitle:dwmail
+inurl:gnatsweb.pl
+intitle:"YALA: Yet Another LDAP Administrator"
+intitle:open-xchange inurl:login.pl
+intitle:"Freifunk.Net - Status"
+intitle:index.of WEB-INF
+inurl:"port_255" -htm
+"Please use Netscape 2.0 or enhance !!"
+inurl:cgi-bin inurl:bigate.cgi
+ext:DBF DBF
+ext:CDX CDX
+ext:ccm ccm -catacomb
+ext:DCA DCA
+intitle:"ERROR: The requested URL could not be retrieved" "While trying to retrieve the URL" "The following error was encountered:"
+intitle:"Zope Help System" inurl:HelpSys
+ext:jbf jbf
+intitle:"SFXAdmin - sfx_global" | intitle:"SFXAdmin - sfx_local" | intitle:"SFXAdmin - sfx_test"
+intitle:"Welcome to the Advanced Extranet Server, ADVX!"
+'"Parse error: parse error, unexpected T_VARIABLE" "on line" filetype:php'
+"MacHTTP" filetype:log inurl:machttp.log
+ext:ics ics
+intitle:"Default PLESK Page"
+ext:plist filetype:plist inurl:bookmarks.plist
+intitle:"NeroNET - burning online"
+intitle:ilohamail "Powered by IlohaMail"
+"display printer status" intitle:"Home"
+intitle:"Welcome to Windows Small Business Server 2003"
+intitle:"OfficeConnect Cable/DSL Gateway" intext:"Checking your browser"
+intitle:"OfficeConnect Wireless 11g Access Point" "Checking your browser"
+powered.by.instaBoard.version.1.3
+intitle:"Lexmark *" inurl:port_0
+inurl:/en/help.cgi "ID=*"
+intitle:jdewshlp "Welcome to the Embedded Web Server!"
+inurl:JPGLogin.htm
+intitle:"inc. vpn 3000 concentrator"
+intitle:ilohamail intext:"Version 0.8.10" "Powered by IlohaMail"
+"About Winamp Web Interface" intitle:"Winamp Web Interface"
+intext:"vbulletin" inurl:admincp
+"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near"
+intitle:"404 SC_NOT_FOUND"
+intext:"Powered by phpBB 2.0.13" inurl:"cal_view_month.php"|inurl:"downloads.php"
+inurl:bin.welcome.sh | inurl:bin.welcome.bat | intitle:eHealth.5.0
+yaws.*.server.at
+intitle:endymion.sakÃƒÆ’Ã‚Â©.mail.login.page | inurl:sake.servlet
+allinurl:"weblog/referrers"
+intitle:asterisk.management.portal web-access
+intitle:"Flash Operator Panel" -ext:php -wiki -cms -inurl:asternic -inurl:sip -intitle:ANNOUNCE -inurl:lists
+"Powered by Coppermine Photo Gallery" ( "v1.2.2 b" | "v1.2.1" | "v1.2" | "v1.1" | "v1.0")
+intitle:"IPC@CHIP Infopage"
+intitle:"Index of *" mode links bytes last-changed name
+wwwboard WebAdmin inurl:passwd.txt wwwboard|webadmin
+intitle:index.of /maildir/new/
+intitle:"Flash Operator Panel" -ext:php -wiki -cms -inurl:asternic -inurl:sip -intitle:ANNOUNCE -inurl:lists
+intitle:"Service Managed Gateway Login"
+inurl:webmail./index.pl "Interface"
+intitle:"actiontec" main setup status "Copyright 2001 Actiontec Electronics Inc"
+"Webthru User Login"

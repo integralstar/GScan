@@ -1,0 +1,100 @@
+inurl:wp-content/themes/nexos
+inurl:wp-content/plugins/wp-jobsearch
+inurl:wp-content/plugins/security-malware-firewall
+inurl:wp-content/plugins/testimonials-widget
+intitle:"Index of c:xampp"
+inurl:/8080/admin.html
+intext:"login" intitle:"login"
+intitle:"index of" "/ftpusers"
+intitle:"index of" "nginx.log"
+"Index of" "/yahoo_site_admin/credentials"
+"radius-server key" ext:cfg OR ext:log OR ext:txt
+inurl:8080/login.php
+inurl:wp-content/plugins/gift
+intext:piwik "Sign in"
+inurl:"backend/web/site/login"
+inurl:logs intext:GET https:// ext:txt intext:password intext:username
+inurl:/base/main_login.html intext:"Login"
+intitle:"index of" "/home/ROOT_PATH/"
+inurl:passwordvault intext:cyberark
+intitle:"index of" ./bash_history
+intitle:"index of" "bundle.pem"
+inurl:/sws/index.html
+"-----BEGIN RSA PRIVATE KEY-----" inurl:id_rsa
+intitle:"index of" "/master.passwd"
+inurl:wp-content/themes/traveler
+"Index of" "/monitoring"
+allinurl:tsweb/default.htm
+inurl:"index.php/user/password/"
+"Index of" "accounts.sql"
+inurl:/jobq.htm AND intext:"ApeosPort-V"
+Index of: /services/aadhar card/
+intitle:"IceWarp WebClient"
+inurl:wp-content/plugins/coming-soon
+allintext:password filetype:log
+intitle:"index of" "app.log"
+inurl:wp-content/plugins/form-maker
+intitle:"index of" /etc/openvpn/
+intext:Powered by 2Moons 2009-2013
+intitle:"index of" "*named.root.key"
+inurl:wp-content/themes/citybook
+inurl:wp-content/themes/traveler
+intext:"Centreon 2005-2019"
+intitle:"index of" "ssh_host_ecdsa_key"
+inurl:wp-content/plugins/wpDiscuz
+inurl:wp-content/plugins/wp-pro-quiz
+inurl:/webmail intext:Tecnologia fornecida por IceWarp Server
+inurl:wp-content/plugins/YITH-WooCommerce-Ajax-Product-Filter
+inurl:wp-content/plugins/ar-contactus
+intext:"index of /" "Index of" access_log
+inurl:"/jmx-console/HtmlAdaptor?action"
+intitle:qdPM 9.1. Copyright (c) 2020 qdpm.net
+Index of /__MACOSX/System
+intitle:"index of" "id_rsa.pub"
+intext:Basato su IceWarp Server
+inurl:"/arcgis/rest/services"
+inurl:wp-content/plugins/testimonial-rotator
+intitle:"index of" and intext:"vendor" and intext:"phpunit"
+intext:Basato su Comunicazioni Integrate IceWarp
+Index of: /services/pancard/
+intext:"TopManage (R) 2002 - 2020"
+inurl:member filetype:xls
+"MYSQL_ROOT_PASSWORD:" ext:env OR ext:yml
+inurl:"id=*" & intext:"warning mysql_fetch_array()"
+inurl:_vti_pvt/service.pwd
+inurl:"index.php/user/password/" intext:Password Reset
+filetype:env "DB_PASSWORD"
+intitle:"index of" "oauth-private.key"
+inurl:logon/LogonPoint/index.html
+intext:"Not to be distributed" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx
+inurl:wp-content/plugins/kingcomposer
+inurl:candidatelogin.aspx
+intext:"Powered By Gila CMS"
+intitle:"index of" "admin/xml"
+inurl:wp-content/plugins/elementor
+inurl:wp-content/themes/newspaper
+"Index of" "/access"
+index of /backend/prod/config
+intext:"Welcome to Intranet" "login"
+intext:powered by JoomSport - sport WordPress plugin
+intext:"INTERNAL USE ONLY" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx
+intitle:"index of" "users.sql"
+inurl:admin/data* intext:index of
+inurl:/download_file/ intext:"index of /"
+intext:"index of /" "customer.php" "~Login"
+inurl:adminlogin.jsp
+Find Microsoft Lync Server AutoDiscover
+intext:"index of /" "*.yaml"
+"powered by Typo3"
+intitle:"index of /" "*key.pem"
+index of "jira" inurl:login
+"index of" "siri"
+intitle:"index of" secrets.yml
+"index of" "plugins/wp-rocket"
+intitle:"index of" "admin/sql/"
+index of .svn/text-base/index.php.svn-base
+index of .svn/text-base/index.php.svn-base
+intitle:"index of" admin.tar
+"Index of" "upload_image.php"
+"index of" "Production.json"
+index.of.?.frm

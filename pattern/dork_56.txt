@@ -1,0 +1,100 @@
+Powered by minb
+"Powered by phpCC Beta 4.2"
+inurl:index.php?menu=showcat=
+intext:elkagroup Image Gallery v1.0
+"powered by AMCMS3"
+inurl:"e107_plugins/my_gallery"
+"Powered by BIGACE 2.4"
+"Powered by www.aspportal.net"
+inurl:"com_ijoomla_archive"
+"Power by Blakord Portal"
+inurl:option=com_mv_restaurantmenumanager
+inurl:"com_ajaxchat"
+Powered by: AIH v2.3
+inurl:/macgurublog_menu/
+inurl:"?page=duyurular_detay&id="
+"X-CART. Powerful PHP shopping cart software"
+allinurl:offers.php?id=
+"Powered By HASHE"
+inurl:we_objectID=
+"2009 Jorp"
+Powered by Orbis CMS
+inurl:"index.php?edicion_id="
+inurl:"CIHUY"
+"/subcat.php?cate_id="
+Powered by Marinet
+allinurl:clientsignup.php "classifieds"
+Powered by TeamCal Pro
+"mumbo jumbo media" + inurl:"index.php"
+intext:"pLink 2.07"
+"Powered by Scripteen Free Image Hosting Script V1.2"
+allinurl:casting_view.php?adnum=
+inurl:/jobsearchengine/
+VevoCart Control System
+inurl:"com_digifolio"
+"index.php?option=com_resman"
+allinurl:offers_buy.php?id=
+inurl:/jobsearchengine/
+"index.php?option=com_rwcards"
+inurl:/jobsearchengine/
+intext:"Powered by Atomic Photo Album 1.1.0pre4"
+inurl:"com_fastball"
+Lebi soft Ziyaretci Defteri_v7.5
+allinurl:offers_buy.php?id=
+[ Powered by: RadBids Gold v4 ]
+"/subcat.php?cate_id="
+"Desenvolvido por: Fio Mental"
+"Powered by ProjectCMS"
+Powered by DorsaCms
+powered by QT-cute v1.2
+© 1998 - 2010 Video Battle Script
+inurl:"com_facebook"
+inurl:/modules/kshop/
+"Jinzora Media Jukebox"
+inurl:/modules/tinyevent/
+Powered by: AIH v2.1
+inurl:"/modules/jobs/"
+Uploader des fichiers
+[ Powered By x10media.com ]
+inurl:/modules/camportail/
+Copyright © 2007 by Horst-D. Kröller · CMS: php WCMS
+inurl:"com_booklibrary"
+inurl:"/modules/myads/"
+"Ladder Scripts by http://www.mygamingladder.com"
+Powered By PHPDug version 2.0.0
+allinurl:show_memorial.php?id=
+intext:Powered by Mobilelib Gold v3
+"php-addressbook"
+inurl:"com_jsjobs"
+inurl:com_iproperty
+index.php?option=com_altas
+inurl:"index.php?module=pnFlashGames"
+Design by Satcom Co
+intitle:"ppc engine admin login form"
+"powered by Albinator"
+inurl:"/modules/library/"
+inurl:"/modules/repository/"
+index.php?option=com_vr
+"BioScripts"
+powered by vBulletin 3.8.6
+Powered by 2532|Gigs v1.2.2
+"Powered by bp blog 6.0"
+inurl:"com_soundset"
+inurl:"/modules/zmagazine/"
+Powered by iScripts eSwap.
+"Powered by Online Grades"
+inurl:/modules/wflinks
+inurl:"/modules/myconference/"
+inurl:"com_gameserver"
+inurl:com_annonces
+inurl:"fclick.php?fid"
+"powered by DreamAccount 3.1"
+allinurl:"article.download.php"
+inurl:com_jp_jobs
+'"Cms.tut.su, 2009 g."'
+"Powered By Aqua Cms"
+inurl:"com_jbudgetsmagic"
+inurl:"com_soundset"
+Powered by MyPHP Forum v3.0
+"Powered by CMS.GE"
+"Site powered by GuppY"

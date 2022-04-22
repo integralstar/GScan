@@ -1,0 +1,100 @@
+inurl:"jmx-console/HtmlAdaptor" intitle:Mbean
+filetype:php intext:"!C99Shell v. 1.0 beta"
+filetype:xml inurl:sitemap
+filetype:jnlp
+filetype:password jmxremote
+ext:sql intext:@gmail.com intext:password
+inurl:"known_hosts" "ssh-rsa"
+inurl:"id_rsa" -inurl:"pub"
+inurl:"/module.php/core/loginuserpass.php"
+intitle:"uploader by ghost-dz" ext:php
+inurl:"/jenkins/login" "Page generated"
+"BEGIN RSA PRIVATE KEY" filetype:key
+inurl:*/graphs* intitle:"Traffic and system resource graphing"
+inurl:*/webalizer/* intitle:"Usage Statistics"
+intitle:index.of intext:.ssh
+"These are the paths and URLs to your SMF installation"
+intitle:"index of" myshare
+intitle:"SPA504G Configuration"
+inurl:"/cgi-mod/index.cgi"
+intitle:"RouterOS router configuration page"
+inurl:"/webcm?getpage="
+intitle:"Web Client for EDVS"
+intitle:"Comrex ACCESS Rack"
+inurl:/attachments/token
+inurl:"dasdec/dasdec.csp"
+intext:xampp-dav-unsecure:$apr1$6O9scpDQ$JGw2Tjz0jkrqfKh5hhiqD1
+intitle:index.of intext:.bash_history
+intitle:"Cisco Integrated Management Controller Login"
+inurl:/secure/Dashboard.jspa intitle:"System Dashboard"
+inurl:.php? intext:CHARACTER_SETS,COLLATIONS, ?intitle:phpmyadmin
+inurl:fluidgalleries/dat/login.dat
+inurl:wp-content/uploads/dump.sql
+inurl:1337w0rm.php intitle:1337w0rm
+intitle:".:: Welcome to the Web-Based Configurator::." & intext:"Welcome to your router Configuration Interface"
+intext:"I\'m using a public or shared computer" & intext:"Remote Web Workplace"
+inurl:"/secure/login.aspx"
+intitle:"Weather Wing WS-2"
+intitle:"NetBotz Network Monitoring Appliance"
+intitle:"Transponder/EOL Configuration:" inurl:asp
+intitle:"WAMPSERVER Homepage" & intext:"Server Configuration"
+intitle:"Web Image Monitor" & inurl:"/mainFrame.cgi"
+inurl:~~joomla3.txt filetype:txt
+filetype:txt inurl:wp-config.txt
+filetype:txt inurl:~~Wordpress2.txt
+intitle:"VNC Viewer for Java"
+"information_schema" filetype:sql
+"Welcome to phpMyAdmin" + "Username:" + "Password:" + "Language:" + "Afrikaans"
+inurl:5000/webman/index.cgi
+intitle:"Internet Security Appliance" & intext:"Enter Password and click Login"
+inurl:8080 intitle:"Dashboard [Jenkins]"
+intitle:"Login - OTRS" inurl:pl
+intitle:"WebMail | Powered by Winmail Server - Login" & (intext:"Username" & intext:"Password")
+inurl:8080 intitle:"login" intext:"UserLogin" "English"
+intitle:"::: Login :::" & intext:"Customer Login" & "Any time & Any where"
+inurl:phpmyadmin/index.php & (intext:username & password & "Welcome to")
+allintext: /iissamples/default/
+filetype:ini "This is the default settings file for new PHP installations"
+filetype:php intitle:phpinfo "published by the PHP Group"
+filetype:sql insite:pass && user
+'Serv-U (c) Copyright 1995-2013 Rhino Software, Inc. All Rights.Reserved.'
+inurl:/voice/advanced/ intitle:Linksys SPA configuration
+inurl:"/root/etc/passwd" intext:"home/*:"
+intext:"root:x:0:0:root:/root:/bin/bash" inurl:*=/etc/passwd
+allintext: "Please login to continue..." "ZTE Corporation. All rights reserved."
+"index of" inurl:root intitle:symlink
+inurl:"php?id=" intext:"DB_Error Object "
+filetype:config inurl:web.config inurl:ftp
+"index of" inurl:sym
+ext:sql intext:(@hotmail.com | @gmail.com | @naver.com | @daum.net | @kakao.com) intext :password
+inurl:advsearch.php?module= & intext:sql syntax
+intext:THIS IS A PRIVATE SYSTEM AUTHORISED ACCESS ONLY inurl:login.aspx
+intext:YOU ARE ACCESSING A GOVERNMENT INFORMATION SYSTEM inurl:login.aspx
+intext:Computer Misuse Act inurl:login.aspx
+runtimevar softwareVersion=
+ext:xml ("proto=\'prpl-\'" | "prpl-yahoo" | "prpl-silc" | "prpl-icq")
+ext:gnucash
+filetype:inc OR filetype:bak OR filetype:old mysql_connect OR mysql_pconnect
+inurl:/control/userimage.html
+inurl:admin intext:username= AND email= AND password= OR pass= filetype:xls
+you really should fix this security hole by setting a password for user \'.root\'. inurl:/phpmyadmin intitle:localhost
+inurl:/wp-content/w3tc/dbcache/
+intext:SQL syntax & inurl:index.php?=id
+intext:"Fatal error: Class \'Red_Action\' not found in"
+inurl:newsnab/www/ automated.config.php
+allinurl:"User_info/auth_user_file.txt"
+ext:xml ("mode_passive"|"mode_default")
+filetype:xls "username | password"
+inurl:ckfinder intext:"ckfinder.html" intitle:"Index of /ckfinder"
+intitle:Priv8 SCR
+intitle:C0ded By web.sniper
+inurl:.com/configuration.php-dist
+intitle:"Pyxis Mobile Test Page" inurl:"mpTest.aspx"
+inurl:32400/web/index.html
+"parent directory" proftpdpasswd intitle:"index of"
+intitle:"dd-wrt info" intext:"Firmware: DD-WRT"
+inurl:"/level/13|14|15/exec/"
+inurl:"r00t.php"
+inurl:"/dbman/default.pass"
+inurl:"InfoViewApp/logon.jsp"
+inurl:"Orion/SummaryView.aspx" intext:"Orion Core"

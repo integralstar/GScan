@@ -1,0 +1,100 @@
+inurl:"section.php?name=singers"
+Powered by v1.14 powered by philboard v1.14
+inurl:index.php%"Submit%Articles"%"Member%Login"%"Top%Authors"
+allinurl: "wordspew-rss.php"
+allinurl: com_clasifier
+allinurl: "com_galeria"
+Powered by hwdVideoShare
+allinurl: modules-php-name-Siir
+allinurl: "modules/wfdownloads/viewcat.php?cid"
+allinurl: "modules/eEmpregos/index.php"
+Powered by Active PHP Bookmarks v1.1.02
+powered by Site Sift
+"Create your own free webring and bring traffic to your website. Join now, it\'s free!"
+inurl:com_joomladate
+"powered by ILIAS"
+allinurl: "index.php?option=com_doc"
+Powered by GL-SH DEAF forum 6.5.5 final.
+inurl:com_simpleshop
+inurl:"index.php?pageid=" Property Listings
+"Powered by Smoothflash"
+display_blog.php
+Snipe Gallery v.3.1.5 by Snipe.Net
+Powered by AspDownload
+DA Mailing List System V2 Powered by DigitalArakan.Net
+Powered By AJ Auction Web
+\'\'showad.php?listingid=\'\'
+"Powered by My PHP Indexer 1.0"
+allinurl: "com_rapidrecipe"user_id
+allinurl: "modules/dictionary"
+"RS MAXSOFT"
+"2007 RADIOZAZA www.radiozaza.de? istek hatti Version 2.5"
+allinurl: "index.php?p=poll"showresult
+allinurl: "com_joovideo" detail
+content_by_cat.asp?contentid \'\'catid\'\'
+Powered By AlstraSoft Video Share Enterprise
+"Powered by PG Real Estate Solution - real estate web site design"
+"Powered by PG Roomate Finder Solution - roommate estate web site design"
+allinurl: com_pcchess "user_id"
+Powered by PHP upload - unijimpe.
+"Powered by FubarForum v1.6"
+inurl:cfaq/index.php?catid=
+\'\'name Kose_Yazilari op viewarticle artid\'\'
+inurl: modifyform.html?code=
+allinurl: com_ricette
+out.php?linkid=1
+" ActiveKB v1.5 Copyright Â©"
+allinurl:"com_garyscookbook"
+inurl:"index.php?conteudo="
+inurl:"section.php?name=singers"
+inurl:cat1.php?catID= "Spaceacre"
+"Powered by FubarForum v1.6"
+intext:Â©2003-2008 RC v3.1 Developed by: GA Soft
+details.php?p_id=
+allinurl:"modules/photo/viewcat.php?id"
+powered by 35mm Slide Gallery
+allinurl:"com_simpleshop"
+powered by vBulletin 3.8.4
+intitle:Web Calendar system v 3.30 inurl:.asp
+inurl:index.php?page=en_jobseekers
+webwizguestbook_license.asp
+allinurl: aid "com_xfaq"
+inurl:modules/flashgames/
+inurl:index.php?option=com_mediaslide
+inurl:"com_biblestudy"
+inurl:"com_dashboard"
+inurl:"com_jcollection "
+"Affiliate Network Pro"
+index.php?option=com_pcchess
+Powered By: Forest Blog v1.3.2
+intext:"Powered by phpFastNews"
+Powered by phpDatingClub
+"Powered by: Censura"
+inurl:com_clanlist
+"This script created by www.script.canavari.com"
+inurl:classified/product_desc.php?id=
+allinurl:"members.asp?action"
+inurl:btg_oglas
+Powered by lineaCMS © 2006 lineaPHP Group
+"Powered by Scripteen Free Image Hosting Script V 2.3"
+inurl:"com_jvideodirect "
+"Siteman Version 1.1.9"
+"SimpleBlog 2.3 by 8pixel.net"
+inurl:/squirrelcart/
+inurl:com_markt
+"powered by EQdkp"
+intitle:"Login to Calendar"
+"WebCalendar v1.0.4"
+inurl:"com_bfsurvey"
+'anyInventory, the most flexible and powerful web-based inventory system'
+inurl:bemarket
+inurl:"com_jashowcase "
+Powered by React - www.react.nl
+"qjForum"
+"Powered by cifshanghai.com"
+allinurl:"detResolucion.php?tipodoc_id="
+"Powered By : Yamamah Version 1.00"
+Powered by osCSS
+inurl:"index.php?option=com_prime"
+"2006 by www.mani-stats-reader.de.vu"
+"powered by: WebLeague"

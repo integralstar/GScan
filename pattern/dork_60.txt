@@ -1,0 +1,100 @@
+"Web-Based Management" "Please input password to login"
+intitle:"DVR Client"
+"OK logout" inurl:vb.htm?logout=1
+inurl:"calendarscript/users.txt"
+intitle:"Edr1680 remote viewer"
+inurl:"vsadmin/login" | inurl:"vsadmin/admin" inurl:.php|.asp -"Response.Buffer = True" -javascript
+intitle:"Login to @Mail" (ext:pl | inurl:"index")
+intitle:"AR-*" "browser of frame dealing is necessary"
+intext:"you to handle frequent configuration jobs easily and quickly" | intitle:"Show/Search other devices"
+"Thank You for using WPCeasy"
+intitle:"NAS" inurl:indexeng.html
+intitle:"Skystream Networks Edge Media Router"
+intitle:"Ethernet Network Attached Storage Utility"
+intitle:"GigaDrive Utility"
+intitle:"Joomla - Web Installer"
+intitle:%22Webview+Logon+Page%22&filter=0
+(intitle:"PRTG Traffic Grapher" inurl:"allsensors")|(intitle:"PRTG Traffic Grapher - Monitoring Results")
+intitle:"WxGoos-" ("Camera image"|"60 seconds" )
+(intitle:"WordPress ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âº Setup Configuration File")|(inurl:"setup-config.php?step=")
+"powered by sblog" +"version 0.7"
+inurl:"NmConsole/Login.asp" | intitle:"Login - Ipswitch WhatsUp Professional 2005" | intext:"Ipswitch WhatsUp Professional 2005 (SP1)" "Ipswitch, Inc"
+filetype:asp + "[ODBC SQL"
+inurl:"/admin/configuration. php?" Mystore
+filetype:sql "insert into" (pass|passwd|password)
+"Powered by Simplog"
+"index of /" ( upload.cfm | upload.asp | upload.php | upload.cgi | upload.jsp | upload.pl )
+inurl:updown.php | intext:"Powered by PHP Uploader Downloader"
+"powered by 4images"
+("powered by nocc" intitle:"NOCC Webmail")
+intitle:"igenus webmail login"
+allintitle:"FirstClass Login"
+intext:"Powered By Geeklog"
+intitle:admbook intitle:version filetype:php
+intitle:"4images - Image Gallery Management System" and intext:"Powered by 4images 1.7.1"
+"not for public release"
+("This DragonflyÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ installation was" | "Thanks for downloading Dragonfly")
+inurl:docmgr | intitle:"DocMGR" "enter your Username and"|"und Passwort bitte"|"saisir votre nom"|"su nombre de usuario" -ext:pdf -inurl:"download.php
+(intitle:"Flyspray setup"|"powered by flyspray 0.9.7")
+intext:"LinPHA Version" intext:"Have fun"
+(intitle:"metaframe XP Login")|(intitle:"metaframe Presentation server Login")
+"powered by runcms"
+inurl:ids5web
+"index of" intext:fckeditor inurl:fckeditor
+"Please re-enter your password It must match exactly"
+intext:"Fill out the form below completely to change your password and user name. If new username is left blank, your old one will be assumed."
+inurl:CrazyWWWBoard.cgi intext:"detailed debugging information"
+"Powered by Loudblog"
+intitle:"b2evo installer" intext:"Installer fÃƒÆ’Ã‚Â¼r Version"
+"This website engine code is copyright" "2005 by Clever Copy"
+intext:"Welcome to Taurus" "The Taurus Server Appliance" intitle:"The Taurus Server Appliance"
+inurl:wl.exe inurl:?SS1= intext:"Operating system:"
+inurl:setdo.cgi intext:"Set DO OK"
+filetype:reg reg +intext:ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂWINVNC3ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â
+intitle:"Horde :: My Portal" -"[Tickets"
+inurl:rpSys.html
+intitle:Ovislink inurl:private/login
+inurl:install.pl intitle:GTchat
+intitle:"::::: INTELLINET IP Camera Homepage :::::
+filetype:pl intitle:"Ultraboard Setup"
+intext:ViewCVS inurl:Settings.php
+"Powered by Midmart Messageboard" "Administrator Login"
+inurl:install.pl intext:"Reading path paramaters"
+inurl:build.err
+"intitle:3300 Integrated Communications Platform" inurl:main.htm
+inurl:"tmtrack.dll?"
+intitle:"Dell Laser Printer *" port_0
+"bp blog admin" intitle:login | intitle:admin
+ext:asa | ext:bak intext:uid intext:pwd -"uid..pwd" database | server | dsn
+intext:"PhpGedView Version" intext:"final - index"
+intext:"Powered by DEV web management system"
+intitle:"phpDocumentor web interface"
+inurl:"editor/list.asp" | inurl:"database_editor.asp" | inurl:"login.asa" "are set"
+ext:passwd -intext:the
+enable password | secret "current configuration" -intext:the
+filetype:bak createobject sa
+intitle:Axis inurl:"/admin/admin.shtml"
+inurl:ovcgi/jovw
+intext:"Powered by CubeCart 3.0.6" intitle:"Powered by CubeCart"
+"Emergisoft web applications are a part of our"
+inurl:/img/vr.htm
+DCS inurl:"/web/login.asp"
+inurl:/cgi-bin/pass.txt
+inurl:proxy | inurl:wpad ext:pac | ext:dat findproxyforurl
+inurl:/Merchant2/admin.mv | inurl:/Merchant2/admin.mvc | intitle:"Miva Merchant Administration Login"
+intitle:"Admin login" "Web Site Administration" "Copyright"
+intitle:"b2evo > Login form" "Login form. You must log in! You will have to accept cookies in order to log in"
+(intitle:WebStatistica inurl:main.php) | (intitle:"WebSTATISTICA server")
+inurl:ventrilo_srv.ini adminpassword
+inurl:guestbook/guestbooklist.asp "Post Date" From
+"Site powered By Limbo CMS"
+intext:"Powered by SimpleBBS v1.1"*
+"Powered By phpCOIN 1.2.2"
+inurl:Printers/ipp_0001.asp
+"2005 SugarCRM Inc. All Rights Reserved" "Powered By SugarCRM"
+"Based on DoceboLMS 2.0"
+"Warning: Installation directory exists at" "Powered by Zen Cart"
+"This website powered by PHPX"
+"parent directory" +proftpdpasswd
+"Powered by Xaraya" "Copyright 2005"
+"Welcome to the directory listing of" "NetworkActiv-Web-Server"
