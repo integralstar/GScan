@@ -15,7 +15,7 @@ chrome_options.add_argument('--no-sandbox')
 
 
 def get_proxy_list():
-    chromedriver = "/Users/seaofglass/chromedriver/chromedriver"
+    chromedriver = "/chromedriver/chromedriver"
     driver = webdriver.Chrome(chromedriver, options=chrome_options)
 
     print("cookie setting")
