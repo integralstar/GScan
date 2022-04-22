@@ -6,6 +6,8 @@ keyword_query - customizing based patterns
 
 googlehacking_query - used original patterns
 
+example) python3 gscan.py -k doc -d testsite.com
+
 
 run.py (Scheduling based program)
 
