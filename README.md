@@ -1,6 +1,6 @@
 # GScan
 
-gscan.py (Normal Google hackfing DB Scanner)
+gscan.py (Normal Google hacking DB Scanner)
 
 keyword_query - customizing based patterns
 
@@ -20,9 +20,11 @@ Google Search API(무료 100건 조회 가능)에 가입해야 함 (구글 계�
 
 2. IP 변경을 위해 Tor network 사용
 
+가장 간단한 방법은 tor browser를 통한 접속.
+
+리눅스 같은 환경에서는 라이브러리 설치를 권고
+
 https://www.torproject.org/download/
 
-가장 간단한 방법은 tor browser를 통한 접속.
-리눅스 같은 환경에서는 라이브러리 설치를 권고
 
 3. random agent (미적용)
