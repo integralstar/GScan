@@ -1,13 +1,13 @@
 # GScan
 
-gscan.py (일반적인 스캔 프로그램)
+gscan.py (Normal Google hackfing DB Scanner)
 
 keyword_query - customizing based patterns
 
 googlehacking_query - used original patterns
 
 
-run.py (schedule based program)
+run.py (Scheduling based program)
 
 Google Search API(무료 100건 조회 가능)에 가입해야 함 (구글 계정 11개가 필요)
 
