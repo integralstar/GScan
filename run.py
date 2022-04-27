@@ -1,6 +1,7 @@
 import json
 import time
 import random
+from wsgiref.headers import Headers
 import schedule
 import requests
 import pandas as pd
@@ -12,6 +13,8 @@ from tornetwork import use_tornetwork
 # API_KEY LIST
 API_KEY = ['']
 SEARCH_ENGINE = ['']
+
+USER_AGENT = []
 
 proxy_list = []
 proxy_port = []
@@ -39,8 +42,7 @@ def scan(domain, start=1, end=73):
 
     for x in tqdm(range(start, end)):
         pattern = []
-        pattern_file = './pattern/dork_' + \
-            str(x)+'.txt'
+        pattern_file = './pattern/dork_' + str(x)+'.txt'
 
         print(pattern_file)
 
@@ -53,7 +55,7 @@ def scan(domain, start=1, end=73):
                 print(pattern)
                 time.sleep(random.randint(0, 7))
 
-        # proxy setting renewal
+        # proxy setting for renewal
         proxy_list = get_proxy_list()
 
         for i in range(len(proxy_list)):
@@ -64,11 +66,24 @@ def scan(domain, start=1, end=73):
 
         # 검색
         try:
+            f = open("useragents.txt", "r")
+            lines = f.readlines()
+
+            for line in lines:
+                # print(line)
+                USER_AGENT.append(line.strip('\n').strip('\r'))
+
+            f.close()
+
+            headers = {
+                'User-Agent': USER_AGENT[random.randint(0, 68)],
+            }
+
             google_search_api_url = 'https://www.googleapis.com/customsearch/v1?key=' + \
                 API_KEY[x] + '&cx=' + SEARCH_ENGINE[x] + \
                 '&q={}'.format(quote_plus(pattern))
 
-            response = requests.get(google_search_api_url, proxies={
+            response = requests.get(google_search_api_url, headers=headers, proxies={
                                     proxy_port[x]: proxy_list[x]})
 
             #print("response code : ", response.status_code)
