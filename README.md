@@ -29,4 +29,4 @@ Google Search API(무료 100건 조회 가능)에 가입해야 함 (구글 계�
 https://www.torproject.org/download/
 
 
-3. random agent (미적용)
+3. random User-Agent 사용
