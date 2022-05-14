@@ -1,6 +1,6 @@
-# GScan
+# GScan (Google Hacking Database를 이용한 Scanner)
 
-gscan.py (Google Hacking Scanner)
+gscan.py
 
 keyword_query - 키워드 검색
 
@@ -22,12 +22,12 @@ Google Search API(무료 100건 조회 가능)에 가입해야 함 (구글 계�
 
 1) proxy server list를 조회하여 속도가 빠른 순으로 정렬하여 사용 : chrome driver 설치 필요 후 설치 경로 변경 필요
 
-2) IP 변경을 위해 Tor network 사용
+2) Random User-Agent 사용
+
+3) IP 변경을 위한 Tor network 사용
 
 가장 간단한 방법은 tor browser를 통한 접속.
 
 리눅스 같은 환경에서는 라이브러리 설치를 권고
 
 https://www.torproject.org/download/
-
-3) random User-Agent 사용
