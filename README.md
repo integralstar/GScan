@@ -9,7 +9,7 @@ googlehacking_query - used original patterns
 example) python3 gscan.py -k doc -d testsite.com
 
 
-run.py (Scheduling based program)
+run.py -d domain (Scheduling based program)
 
 Google Search API(무료 100건 조회 가능)에 가입해야 함 (구글 계정 11개가 필요)
 
@@ -18,9 +18,9 @@ Google Search API(무료 100건 조회 가능)에 가입해야 함 (구글 계�
 
 구글 계정 차단을 막기 위한 조치
 
-1. proxy server list를 조회하여 속도가 빠른 순으로 정렬하여 사용 : chrome driver 설치 필요 후 설치 경로 변경 필요
+1) proxy server list를 조회하여 속도가 빠른 순으로 정렬하여 사용 : chrome driver 설치 필요 후 설치 경로 변경 필요
 
-2. IP 변경을 위해 Tor network 사용
+2) IP 변경을 위해 Tor network 사용
 
 가장 간단한 방법은 tor browser를 통한 접속.
 
@@ -28,5 +28,4 @@ Google Search API(무료 100건 조회 가능)에 가입해야 함 (구글 계�
 
 https://www.torproject.org/download/
 
-
-3. random User-Agent 사용
+3) random User-Agent 사용
