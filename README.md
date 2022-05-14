@@ -1,20 +1,22 @@
 # GScan
 
-gscan.py (Normal Google hacking DB Scanner)
+gscan.py (Google Hacking Scanner)
 
-keyword_query - customizing based patterns
+keyword_query - 키워드 검색
 
-googlehacking_query - used original patterns
+googlehacking_query - 패턴 사용
 
 example) python3 gscan.py -k doc -d testsite.com
 
+---------------------------------
 
-run.py -d domain (Scheduling based program)
+run.py -d domain (스케쥴링 프로그램)
 
 Google Search API(무료 100건 조회 가능)에 가입해야 함 (구글 계정 11개가 필요)
 
 도메인 1개 풀스캔 대략 7일 소요 = 패턴 7200개 / (100건 조회 * 10개 계정)
 
+---------------------------------
 
 구글 계정 차단을 막기 위한 조치
 
