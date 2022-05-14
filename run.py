@@ -1,16 +1,19 @@
 import json
 import time
 import random
-from wsgiref.headers import Headers
+import argparse
 import schedule
 import requests
 import pandas as pd
 from tqdm import tqdm
+from datetime import datetime
+from collections import deque
+from wsgiref.headers import Headers
 from urllib.parse import quote_plus
 from proxy import get_proxy_list
 from tornetwork import use_tornetwork
 
-# API_KEY LIST
+# GOOGLE SEARCH API KEY & ENGINE ID
 API_KEY = ['']
 SEARCH_ENGINE = ['']
 
@@ -20,22 +23,27 @@ proxy_list = []
 proxy_port = []
 
 
-def get_domain():
-    domain = []
-    # 도메인 리스트 파일
-    with open("./domain_list/domain.txt", 'r') as fp:
-        lines = fp.readlines()
-
-        for line in lines:
-            domain.append(line.strip('\n').strip('\r'))
-
-    return domain
+def get_arguments():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-d', '--domain', dest='domain', help='Domain name')
+    options = parser.parse_args()
+    return options
 
 
 def proxy():
     csv = pd.read_csv('proxy.csv', names=[
                       'proxy', 'pct'], skiprows=1, encoding='CP949')
     return csv['proxy'].values.tolist()
+
+
+def weekdays(date):
+    days = ['monday', 'tuesday', 'wednesday',
+            'thursday', 'friday', 'saturday', 'sunday']
+    day = date.weekday()
+    q = deque(days)
+    q.rotate(7 - int(day))
+    result = list(q)
+    return result
 
 
 def scan(domain, start=1, end=73):
@@ -95,13 +103,14 @@ def scan(domain, start=1, end=73):
                     # 검색 결과가 존재 할 경우 패턴을 화면에 출력
                     print(pattern)
                     # 로그 파일 저장
-                    with open('./log/log.txt', 'at+') as fd:
+                    filename = './log/log_' + time.time() + '.txt'
+                    with open(filename, 'at+') as fd:
                         fd.write(pattern + '\n')
 
                         for x in response_json['items']:
                             # 구글에서 찾은 링크 주소 화면 출력
                             print(x['link'])
-
+                            # 로그 파일 구글 해킹 결과 링크 저장
                             fd.write(x['link'] + '\n')
 
         except Exception as e:
@@ -113,23 +122,37 @@ def scan(domain, start=1, end=73):
 
 if __name__ == '__main__':
 
-    domain_list = []
-    domain_list = get_domain()
+    options = get_arguments()
 
-    for domain in domain_list:
-        schedule.every().sunday.do(scan, domain, 1, 11)
-        schedule.every().monday.do(scan, domain, 11, 21)
-        schedule.every().tuesday.do(scan, domain, 21, 31)
-        schedule.every().wednesday.do(scan, domain, 31, 41)
-        schedule.every().thursday.do(scan, domain, 41, 51)
-        schedule.every().friday.do(scan, domain, 51, 61)
-        schedule.every().saturday.do(scan, domain, 61, 71)
-        schedule.every().saturday.do(scan, domain, 71, 72)
+    if options.domain:
+        domain = options.domain
+
+    week = []
+    week = weekdays(datetime.today())
+
+    for x in week:
+        if x == 'monday':
+            schedule.every().monday.do(scan, domain, 1, 11)
+        elif x == 'tuesday':
+            schedule.every().tuesday.do(scan, domain, 11, 21)
+        elif x == 'wednesday':
+            schedule.every().wednesday.do(scan, domain, 21, 31)
+        elif x == 'thursday':
+            schedule.every().thursday.do(scan, domain, 31, 41)
+        elif x == 'friday':
+            schedule.every().friday.do(scan, domain, 41, 51)
+        elif x == 'saturday':
+            schedule.every().saturday.do(scan, domain, 51, 61)
+        elif x == 'sunday':
+            schedule.every().sunday.do(scan, domain, 61, 71)
+            schedule.every().sunday.do(scan, domain, 71, 73)
 
     while True:
         schedule.run_pending()
+
         if not schedule.jobs:
             break
-        time.sleep(1)
 
-    print("Finished...")
+        time.sleep(60 * 60)
+
+    print("Scanning finished...")
